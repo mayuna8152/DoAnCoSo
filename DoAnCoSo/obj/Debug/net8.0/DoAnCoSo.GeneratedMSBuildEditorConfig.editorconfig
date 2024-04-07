@@ -17,75 +17,75 @@ build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = DoAnCoSo
 build_property.RootNamespace = DoAnCoSo
-build_property.ProjectDir = D:\DoAnCoSo\DoAnCoSo\
+build_property.ProjectDir = C:\Users\sosfe\Documents\GitHub\DoAnCoSo\DoAnCoSo\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = D:\DoAnCoSo\DoAnCoSo
+build_property.MSBuildProjectDirectory = C:\Users\sosfe\Documents\GitHub\DoAnCoSo\DoAnCoSo
 build_property._RazorSourceGeneratorDebug = 
 
-[D:/DoAnCoSo/DoAnCoSo/Views/Animal/Details.cshtml]
+[C:/Users/sosfe/Documents/GitHub/DoAnCoSo/DoAnCoSo/Views/Animal/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQW5pbWFsXERldGFpbHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/DoAnCoSo/DoAnCoSo/Views/Animal/Index.cshtml]
+[C:/Users/sosfe/Documents/GitHub/DoAnCoSo/DoAnCoSo/Views/Animal/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQW5pbWFsXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/DoAnCoSo/DoAnCoSo/Views/ClassAnimal/Details.cshtml]
+[C:/Users/sosfe/Documents/GitHub/DoAnCoSo/DoAnCoSo/Views/ClassAnimal/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xhc3NBbmltYWxcRGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/DoAnCoSo/DoAnCoSo/Views/ClassAnimal/Index.cshtml]
+[C:/Users/sosfe/Documents/GitHub/DoAnCoSo/DoAnCoSo/Views/ClassAnimal/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xhc3NBbmltYWxcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/DoAnCoSo/DoAnCoSo/Views/Comment/Create.cshtml]
+[C:/Users/sosfe/Documents/GitHub/DoAnCoSo/DoAnCoSo/Views/Comment/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29tbWVudFxDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/DoAnCoSo/DoAnCoSo/Views/Comment/Index.cshtml]
+[C:/Users/sosfe/Documents/GitHub/DoAnCoSo/DoAnCoSo/Views/Comment/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29tbWVudFxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/DoAnCoSo/DoAnCoSo/Views/Home/Index.cshtml]
+[C:/Users/sosfe/Documents/GitHub/DoAnCoSo/DoAnCoSo/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/DoAnCoSo/DoAnCoSo/Views/Home/Privacy.cshtml]
+[C:/Users/sosfe/Documents/GitHub/DoAnCoSo/DoAnCoSo/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/DoAnCoSo/DoAnCoSo/Views/Post/Create.cshtml]
+[C:/Users/sosfe/Documents/GitHub/DoAnCoSo/DoAnCoSo/Views/Post/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUG9zdFxDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/DoAnCoSo/DoAnCoSo/Views/Post/Details.cshtml]
+[C:/Users/sosfe/Documents/GitHub/DoAnCoSo/DoAnCoSo/Views/Post/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUG9zdFxEZXRhaWxzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/DoAnCoSo/DoAnCoSo/Views/Post/Index.cshtml]
+[C:/Users/sosfe/Documents/GitHub/DoAnCoSo/DoAnCoSo/Views/Post/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUG9zdFxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/DoAnCoSo/DoAnCoSo/Views/Shared/Error.cshtml]
+[C:/Users/sosfe/Documents/GitHub/DoAnCoSo/DoAnCoSo/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/DoAnCoSo/DoAnCoSo/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/sosfe/Documents/GitHub/DoAnCoSo/DoAnCoSo/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/DoAnCoSo/DoAnCoSo/Views/_ViewImports.cshtml]
+[C:/Users/sosfe/Documents/GitHub/DoAnCoSo/DoAnCoSo/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/DoAnCoSo/DoAnCoSo/Views/_ViewStart.cshtml]
+[C:/Users/sosfe/Documents/GitHub/DoAnCoSo/DoAnCoSo/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/DoAnCoSo/DoAnCoSo/Views/Shared/_Layout.cshtml]
+[C:/Users/sosfe/Documents/GitHub/DoAnCoSo/DoAnCoSo/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-26bex91a7p

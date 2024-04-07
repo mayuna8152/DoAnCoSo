@@ -37,13 +37,33 @@
                         </li>
                     </ul>
                 </div>
-                <div class="input-box">
-                    <input type="text" placeholder="What animal are you looking for?">
+                <form asp-controller="Animal" asp-action="Index" method="get" class="input-box" id="searchForm">
+                    <input type="text" name="searchTerm" id="searchTerm" placeholder="What animal are you looking for?" class="form-control">
                     <span class="icon">
                         <i class="uil uil-search search-icon"></i>
                     </span>
                     <i class="uil uil-times close-icon"></i>
-                </div>
+                </form>
+
+                <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+                <script>
+                    $(document).ready(function () {
+                        $('#searchForm').submit(function (event) {
+                            event.preventDefault(); // Ngăn chặn gửi form mặc định
+
+                            var searchTerm = $('#searchTerm').val(); // Lấy giá trị từ ô nhập liệu
+
+                            // Kiểm tra xem từ khóa tìm kiếm có tồn tại không trước khi gửi form
+                            if (searchTerm.trim() !== '') {
+                                $(this).unbind('submit').submit(); // Gửi form
+                            } else {
+                                // Xử lý khi không có từ khóa tìm kiếm
+                                // Ví dụ: Hiển thị thông báo lỗi
+                                console.log('Vui lòng nhập từ khóa tìm kiếm!');
+                            }
+                        });
+                    });
+                </script>
 
             </div>
         </nav>

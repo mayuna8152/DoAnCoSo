@@ -9,5 +9,7 @@ namespace DoAnCoSo.Repository
         Task AddAsync(Animal animal);
         Task UpdateAsync(Animal animal);
         Task DeleteAsync(int id);
+
+		Task<IEnumerable<Animal>> SearchExactAsync(string searchTerm);
 	}
 }

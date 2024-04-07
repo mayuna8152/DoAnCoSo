@@ -40,5 +40,11 @@ namespace DoAnCoSo.Repository
             _context.Animals.Remove(animal);
             await _context.SaveChangesAsync();
         }
-    }
+
+		public async Task<IEnumerable<Animal>> SearchExactAsync(string searchTerm)
+		{
+			// Thực hiện tìm kiếm chính xác dựa trên từ khóa
+			return await _context.Animals.Where(x => x.Name.Equals(searchTerm)).ToListAsync();
+		}
+	}
 }
