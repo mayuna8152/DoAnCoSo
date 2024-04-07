@@ -1,0 +1,88 @@
+﻿@model IEnumerable<DoAnCoSo.Models.Animal>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Name)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.GioiThieuText)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.NoiSinhSongSongText)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.NgoaiHinhText)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Avatar)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.AnimalImages)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.NoiSinhSongImage)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.ImgQR3D)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Name)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.GioiThieuText)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.NoiSinhSongSongText)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.NgoaiHinhText)
+            </td>
+            <td>
+                    <div style="width: 100px; height: 100px; padding: 5px; border: 1px solid #ccc; overflow: hidden;">
+                        <img src="@Html.DisplayFor(modelItem=> item.Avatar)" style="width:100%; height: auto;" />
+                    </div>
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.AnimalImages)
+            </td>
+            <td>
+                    <div style="width: 100px; height: 100px; padding: 5px; border: 1px solid #ccc; overflow: hidden;">
+                        <img src="@Html.DisplayFor(modelItem=> item.Avatar)" style="width:100%; height: auto;" />
+                    </div>
+            </td>
+            <td>
+                    <div style="width: 100px; height: 100px; padding: 5px; border: 1px solid #ccc; overflow: hidden;">
+                        <img src="@Html.DisplayFor(modelItem=> item.Avatar)" style="width:100%; height: auto;" />
+                    </div>
+            </td>
+            <td>
+                    <div style="width: 100px; height: 100px; padding: 5px; border: 1px solid #ccc; overflow: hidden;">
+                        <img src="@Html.DisplayFor(modelItem=> item.Avatar)" style="width:100%; height: auto;" />
+                    </div>
+            </td>
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.IdAnimal">Edit</a> |
+                <a asp-action="Details" asp-route-id="@item.IdAnimal">Details</a> |
+                <a asp-action="Delete" asp-route-id="@item.IdAnimal">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

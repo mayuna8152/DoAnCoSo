@@ -1,0 +1,71 @@
+﻿@model DoAnCoSo.Models.Animal
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+<h1>Details</h1>
+
+<div>
+    <h4>Animal</h4>
+    <hr />
+    <dl class="row">
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Name)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Name)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.GioiThieuText)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.GioiThieuText)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.NoiSinhSongSongText)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.NoiSinhSongSongText)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.NgoaiHinhText)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.NgoaiHinhText)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Avatar)
+        </dt>
+        <dd class = "col-sm-10">
+            <img src="@Html.DisplayFor(model=> model.Avatar)" style="width:100px" />
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.NoiSinhSongImage)
+        </dt>
+        <dd class = "col-sm-10">
+            <img src="@Html.DisplayFor(model=> model.Avatar)" style="width:100px" />
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.ImgQR3D)
+        </dt>
+        <dd class = "col-sm-10">
+            <img src="@Html.DisplayFor(model=> model.ImgQR3D)" style="width:100px" />
+        </dd>
+        </dt>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.ClassAnimal)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.ClassAnimal.IdClass)
+        </dd>
+        <dd class ="col-sm-10">
+                <h1>List of Images</h1>
+                
+        </dd>
+    </dl>
+</div>
+<div>
+    <a asp-action="Edit" asp-route-id="@Model?.IdAnimal">Edit</a> |
+    <a asp-action="Index">Back to List</a>
+</div>
