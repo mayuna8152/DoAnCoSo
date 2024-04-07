@@ -7873,19 +7873,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\ASUS\\.nuget\\packages\\": {}
+    "C:\\Users\\sosfe\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\DoAnCoSo\\DoAnCoSo\\DoAnCoSo.csproj",
+      "projectUniqueName": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\DoAnCoSo.csproj",
       "projectName": "DoAnCoSo",
-      "projectPath": "D:\\DoAnCoSo\\DoAnCoSo\\DoAnCoSo.csproj",
-      "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
-      "outputPath": "D:\\DoAnCoSo\\DoAnCoSo\\obj\\",
+      "projectPath": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\DoAnCoSo.csproj",
+      "packagesPath": "C:\\Users\\sosfe\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\ASUS\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\sosfe\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
