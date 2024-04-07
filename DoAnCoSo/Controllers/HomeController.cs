@@ -1,6 +1,7 @@
 ﻿using DoAnCoSo.Models;
 using DoAnCoSo.Repository;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.EntityFrameworkCore;
 using System.Diagnostics;
 
 namespace DoAnCoSo.Controllers
@@ -11,15 +12,17 @@ namespace DoAnCoSo.Controllers
         private readonly IClassAnimalRepository _classanimalRepository;
         private readonly ICommentRepository _commentRepository;
         private readonly IPostRepository _postRepository;
+        private readonly ApplicationDbContext _context;
 
 
         public HomeController(IAnimalRepository animalRepository, IClassAnimalRepository classAnimalRepository
-            , ICommentRepository commentRepository, IPostRepository postRepository)
+            , ICommentRepository commentRepository, IPostRepository postRepository, ApplicationDbContext context)
         {
             _animalRepository = animalRepository;
             _classanimalRepository = classAnimalRepository;
             _commentRepository = commentRepository;
             _postRepository = postRepository;
+            _context = context;
         }
 
         public async Task<IActionResult> Index()
@@ -33,23 +36,24 @@ namespace DoAnCoSo.Controllers
             return View();
         }
 
-		public async Task<IActionResult> Animal(string searchTerm)
-		{
-			if (string.IsNullOrEmpty(searchTerm))
-			{
-				// Nếu từ khóa tìm kiếm là rỗng, bạn có thể xử lý như bạn muốn ở đây,
-				return RedirectToAction(nameof(Index));
-			}
+        public IActionResult Animal(string searchTerm)
+        {
+            IEnumerable<Animal> animals;
 
-			// Thực hiện tìm kiếm chính xác dựa trên từ khóa
-			var searchResults = await _animalRepository.SearchExactAsync(searchTerm);
+            if (!string.IsNullOrEmpty(searchTerm))
+            {
+                animals = _context.Animals.Where(a => a.Name.Contains(searchTerm));
+            }
+            else
+            {
+                animals = _context.Animals;
+            }
 
-			// Chuyển hướng đến trang Animal.cshtml và truyền kết quả tìm kiếm qua mô hình
-			return View("Animal", searchResults);
-		}
+            return View(animals);
+        }
 
 
-		[ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
+        [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
         public IActionResult Error()
         {
             return View(new ErrorViewModel { RequestId = Activity.Current?.Id ?? HttpContext.TraceIdentifier });

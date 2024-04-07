@@ -44,7 +44,8 @@ namespace DoAnCoSo.Repository
 		public async Task<IEnumerable<Animal>> SearchExactAsync(string searchTerm)
 		{
 			// Thực hiện tìm kiếm chính xác dựa trên từ khóa
-			return await _context.Animals.Where(x => x.Name.Equals(searchTerm)).ToListAsync();
+			return await _context.Animals.Where(x => x.Name.Contains(searchTerm)).ToListAsync();
 		}
+
 	}
 }

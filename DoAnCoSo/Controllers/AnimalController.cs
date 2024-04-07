@@ -25,14 +25,25 @@ namespace DoAnCoSo.Controllers
 			_commentRepository = commentRepository;
 			_postRepository = postRepository;
 		}
-		public async Task<IActionResult> Index()
+        public async Task<IActionResult> Index(string searchTerm)
         {
-            var animal = await _animalRepository.GetAllAsync();   
-            if (animal == null)
+            IEnumerable<Animal> animals;
+
+            if (!string.IsNullOrEmpty(searchTerm))
+            {
+                animals = await _animalRepository.SearchExactAsync(searchTerm);
+            }
+            else
+            {
+                animals = await _animalRepository.GetAllAsync();
+            }
+
+            if (animals == null)
             {
                 return NotFound();
             }
-            return View(animal);
+
+            return View(animals);
         }
 
         private async Task<string> SaveImage(IFormFile image)
