@@ -1,76 +1,103 @@
 ﻿@model DoAnCoSo.Models.Animal
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<link href='https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css' rel='stylesheet'>
+	<title>SlideShow</title>
+</head>
+<body>
+	<div>
+		<h4>Animal</h4>
+		<hr />
+		<dl class="row">
 
-@{
-    ViewData["Title"] = "Details";
-}
+			<dt class="col-sm-2">
+				@Html.DisplayNameFor(model => model.Name)
+			</dt>
+			<dd class="col-sm-10">
+				@Html.DisplayFor(model => model.Name)
+			</dd>
+			<dt class="col-sm-2">
+				@Html.DisplayNameFor(model => model.GioiThieuText)
+			</dt>
+			<dd class="col-sm-10">
+				@Html.DisplayFor(model => model.GioiThieuText)
+			</dd>
+			<dt class="col-sm-2">
+				@Html.DisplayNameFor(model => model.NoiSinhSongSongText)
+			</dt>
+			<dd class="col-sm-10">
+				@Html.DisplayFor(model => model.NoiSinhSongSongText)
+			</dd>
+			<dt class="col-sm-2">
+				@Html.DisplayNameFor(model => model.NgoaiHinhText)
+			</dt>
+			<dd class="col-sm-10">
+				@Html.DisplayFor(model => model.NgoaiHinhText)
+			</dd>
+			<dt class="col-sm-2">
+				@Html.DisplayNameFor(model => model.Avatar)
+			</dt>
+			<dd class="col-sm-10">
+				<img src="@Html.DisplayFor(model=> model.Avatar)" style="width:100px" />
+			</dd>
+			<dt class="col-sm-2">
+				@Html.DisplayNameFor(model => model.NoiSinhSongImage)
+			</dt>
+			<dd class="col-sm-10">
+				<img src="@Html.DisplayFor(model=> model.Avatar)" style="width:100px" />
+			</dd>
+			<dt class="col-sm-2">
+				@Html.DisplayNameFor(model => model.ImgQR3D)
+			</dt>
+			<dd class="col-sm-10">
+				<img src="@Html.DisplayFor(model=> model.ImgQR3D)" style="width:100px" />
+			</dd>
+			</dt>
+			<dt class="col-sm-2">
+				@Html.DisplayNameFor(model => model.ClassAnimal)
+			</dt>
+			<dd class="col-sm-10">
+				@Html.DisplayFor(model => model.ClassAnimal.IdClass)
+			</dd>
+			<dd class="col-sm-10">
+				<h1>List of Images</h1>
+				<div class="listimage">
+					<figure>
+						<img src="~/desgin/Animal/Avatar/@Model.Avatar" alt="" class="itemAvatar">
+					</figure>
 
-<h1>Details</h1>
+					<div class="slide" style="margin-left:-550px">
+						@foreach (var listimg in Model.AnimalImages)
+						{
+							<img src="~/desgin/Animal/Avatar/@listimg.Url" alt="" >
+						}
+					</div>
+				</div>
+			</dd>
 
-<div>
-    <h4>Animal</h4>
-    <hr />
-    <dl class="row">
-       
-        <dt class = "col-sm-2">
-            @Html.DisplayNameFor(model => model.Name)
-        </dt>
-        <dd class = "col-sm-10">
-            @Html.DisplayFor(model => model.Name)
-        </dd>
-        <dt class = "col-sm-2">
-            @Html.DisplayNameFor(model => model.GioiThieuText)
-        </dt>
-        <dd class = "col-sm-10">
-            @Html.DisplayFor(model => model.GioiThieuText)
-        </dd>
-        <dt class = "col-sm-2">
-            @Html.DisplayNameFor(model => model.NoiSinhSongSongText)
-        </dt>
-        <dd class = "col-sm-10">
-            @Html.DisplayFor(model => model.NoiSinhSongSongText)
-        </dd>
-        <dt class = "col-sm-2">
-            @Html.DisplayNameFor(model => model.NgoaiHinhText)
-        </dt>
-        <dd class = "col-sm-10">
-            @Html.DisplayFor(model => model.NgoaiHinhText)
-        </dd>
-        <dt class = "col-sm-2">
-            @Html.DisplayNameFor(model => model.Avatar)
-        </dt>
-        <dd class = "col-sm-10">
-            <img src="@Html.DisplayFor(model=> model.Avatar)" style="width:100px" />
-        </dd>
-        <dt class = "col-sm-2">
-            @Html.DisplayNameFor(model => model.NoiSinhSongImage)
-        </dt>
-        <dd class = "col-sm-10">
-            <img src="@Html.DisplayFor(model=> model.Avatar)" style="width:100px" />
-        </dd>
-        <dt class = "col-sm-2">
-            @Html.DisplayNameFor(model => model.ImgQR3D)
-        </dt>
-        <dd class = "col-sm-10">
-            <img src="@Html.DisplayFor(model=> model.ImgQR3D)" style="width:100px" />
-        </dd>
-        </dt>
-        <dt class = "col-sm-2">
-            @Html.DisplayNameFor(model => model.ClassAnimal)
-        </dt>
-        <dd class = "col-sm-10">
-            @Html.DisplayFor(model => model.ClassAnimal.IdClass)
-        </dd>
-        <dd class ="col-sm-10">
-                <h1>List of Images</h1>
-                @foreach(var listimg in Model.AnimalImages)
-            {
-                <img src="~/desgin/Animal/Avatar/@listimg.Url" alt="Avatar" class="itemAvatar" />
-            }
 
-        </dd>
-    </dl>
-</div>
-<div>
-    <a asp-action="Edit" asp-route-id="@Model?.IdAnimal">Edit</a> |
-    <a asp-action="Index">Back to List</a>
-</div>
+			<script>
+				const figureImg = document.querySelector('figure img');
+				const Imgs = document.querySelectorAll('.slide img');
+
+				Imgs.forEach(function (img) {
+					// console.log(img);
+					img.addEventListener('click', function (e) {
+						// console.log(e.target.src);
+						// console.log(figureImg.src);
+						figureImg.src = e.target.src;
+					})
+				})
+			</script>
+		</dl>
+	</div>
+	<div>
+		<a asp-action="Edit" asp-route-id="@Model?.IdAnimal">Edit</a> |
+		<a asp-action="Index">Back to List</a>
+	</div>
+</body>
+</html>
