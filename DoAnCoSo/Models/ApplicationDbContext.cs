@@ -15,12 +15,5 @@ namespace DoAnCoSo.Models
 
         public DbSet<AnimalImage> AnimalImages { get; set; }
 
-        protected override void OnModelCreating(ModelBuilder modelBuilder)
-        {
-            modelBuilder.Entity<Animal>()
-                .HasMany(a => a.AnimalImages)
-                .WithOne(ai => ai.Animal)
-                .HasForeignKey(ai => ai.AnimalId);
-        }
     }
 }

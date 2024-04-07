@@ -62,7 +62,11 @@
         </dd>
         <dd class ="col-sm-10">
                 <h1>List of Images</h1>
-                
+                @foreach(var listimg in Model.AnimalImages)
+            {
+                <img src="~/desgin/Animal/Avatar/@listimg.Url" alt="Avatar" class="itemAvatar" />
+            }
+
         </dd>
     </dl>
 </div>

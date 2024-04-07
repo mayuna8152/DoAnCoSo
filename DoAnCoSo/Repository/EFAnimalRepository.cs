@@ -19,7 +19,10 @@ namespace DoAnCoSo.Repository
 
         public async Task<Animal> GetByIdAsync(int id)
         {
-            return await _context.Animals.Include(x => x.ClassAnimal).SingleOrDefaultAsync(x => x.IdAnimal == id);
+            return await _context.Animals
+                .Include(x => x.ClassAnimal)
+                .Include(x => x.AnimalImages) // Include the AnimalImages property
+                .SingleOrDefaultAsync(x => x.IdAnimal == id);
         }
 
         public async Task AddAsync(Animal animal)
