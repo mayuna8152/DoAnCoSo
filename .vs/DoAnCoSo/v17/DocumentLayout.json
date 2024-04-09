@@ -1,12 +1,309 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "D:\\DoAnCoSo\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AB0DBD06-0085-40ED-9CDD-D1C5A3DBEA7A}|DoAnCoSo\\DoAnCoSo.csproj|d:\\doancoso\\doancoso\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB0DBD06-0085-40ED-9CDD-D1C5A3DBEA7A}|DoAnCoSo\\DoAnCoSo.csproj|solutionrelative:doancoso\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB0DBD06-0085-40ED-9CDD-D1C5A3DBEA7A}|DoAnCoSo\\DoAnCoSo.csproj|d:\\doancoso\\doancoso\\views\\post\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AB0DBD06-0085-40ED-9CDD-D1C5A3DBEA7A}|DoAnCoSo\\DoAnCoSo.csproj|solutionrelative:doancoso\\views\\post\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB0DBD06-0085-40ED-9CDD-D1C5A3DBEA7A}|DoAnCoSo\\DoAnCoSo.csproj|d:\\doancoso\\doancoso\\views\\comment\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AB0DBD06-0085-40ED-9CDD-D1C5A3DBEA7A}|DoAnCoSo\\DoAnCoSo.csproj|solutionrelative:doancoso\\views\\comment\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB0DBD06-0085-40ED-9CDD-D1C5A3DBEA7A}|DoAnCoSo\\DoAnCoSo.csproj|d:\\doancoso\\doancoso\\models\\postviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB0DBD06-0085-40ED-9CDD-D1C5A3DBEA7A}|DoAnCoSo\\DoAnCoSo.csproj|solutionrelative:doancoso\\models\\postviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB0DBD06-0085-40ED-9CDD-D1C5A3DBEA7A}|DoAnCoSo\\DoAnCoSo.csproj|d:\\doancoso\\doancoso\\models\\post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB0DBD06-0085-40ED-9CDD-D1C5A3DBEA7A}|DoAnCoSo\\DoAnCoSo.csproj|solutionrelative:doancoso\\models\\post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB0DBD06-0085-40ED-9CDD-D1C5A3DBEA7A}|DoAnCoSo\\DoAnCoSo.csproj|d:\\doancoso\\doancoso\\controllers\\postcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB0DBD06-0085-40ED-9CDD-D1C5A3DBEA7A}|DoAnCoSo\\DoAnCoSo.csproj|solutionrelative:doancoso\\controllers\\postcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB0DBD06-0085-40ED-9CDD-D1C5A3DBEA7A}|DoAnCoSo\\DoAnCoSo.csproj|d:\\doancoso\\doancoso\\repository\\ianimalimagerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB0DBD06-0085-40ED-9CDD-D1C5A3DBEA7A}|DoAnCoSo\\DoAnCoSo.csproj|solutionrelative:doancoso\\repository\\ianimalimagerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB0DBD06-0085-40ED-9CDD-D1C5A3DBEA7A}|DoAnCoSo\\DoAnCoSo.csproj|d:\\doancoso\\doancoso\\repository\\iclassanimalrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB0DBD06-0085-40ED-9CDD-D1C5A3DBEA7A}|DoAnCoSo\\DoAnCoSo.csproj|solutionrelative:doancoso\\repository\\iclassanimalrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB0DBD06-0085-40ED-9CDD-D1C5A3DBEA7A}|DoAnCoSo\\DoAnCoSo.csproj|d:\\doancoso\\doancoso\\repository\\efpostrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB0DBD06-0085-40ED-9CDD-D1C5A3DBEA7A}|DoAnCoSo\\DoAnCoSo.csproj|solutionrelative:doancoso\\repository\\efpostrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB0DBD06-0085-40ED-9CDD-D1C5A3DBEA7A}|DoAnCoSo\\DoAnCoSo.csproj|d:\\doancoso\\doancoso\\repository\\icommentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB0DBD06-0085-40ED-9CDD-D1C5A3DBEA7A}|DoAnCoSo\\DoAnCoSo.csproj|solutionrelative:doancoso\\repository\\icommentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB0DBD06-0085-40ED-9CDD-D1C5A3DBEA7A}|DoAnCoSo\\DoAnCoSo.csproj|d:\\doancoso\\doancoso\\repository\\ipostrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB0DBD06-0085-40ED-9CDD-D1C5A3DBEA7A}|DoAnCoSo\\DoAnCoSo.csproj|solutionrelative:doancoso\\repository\\ipostrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB0DBD06-0085-40ED-9CDD-D1C5A3DBEA7A}|DoAnCoSo\\DoAnCoSo.csproj|d:\\doancoso\\doancoso\\repository\\ianimalrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB0DBD06-0085-40ED-9CDD-D1C5A3DBEA7A}|DoAnCoSo\\DoAnCoSo.csproj|solutionrelative:doancoso\\repository\\ianimalrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB0DBD06-0085-40ED-9CDD-D1C5A3DBEA7A}|DoAnCoSo\\DoAnCoSo.csproj|d:\\doancoso\\doancoso\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{AB0DBD06-0085-40ED-9CDD-D1C5A3DBEA7A}|DoAnCoSo\\DoAnCoSo.csproj|solutionrelative:doancoso\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB0DBD06-0085-40ED-9CDD-D1C5A3DBEA7A}|DoAnCoSo\\DoAnCoSo.csproj|d:\\doancoso\\doancoso\\wwwroot\\js\\index.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{AB0DBD06-0085-40ED-9CDD-D1C5A3DBEA7A}|DoAnCoSo\\DoAnCoSo.csproj|solutionrelative:doancoso\\wwwroot\\js\\index.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB0DBD06-0085-40ED-9CDD-D1C5A3DBEA7A}|DoAnCoSo\\DoAnCoSo.csproj|d:\\doancoso\\doancoso\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{AB0DBD06-0085-40ED-9CDD-D1C5A3DBEA7A}|DoAnCoSo\\DoAnCoSo.csproj|solutionrelative:doancoso\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB0DBD06-0085-40ED-9CDD-D1C5A3DBEA7A}|DoAnCoSo\\DoAnCoSo.csproj|d:\\doancoso\\doancoso\\views\\post\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AB0DBD06-0085-40ED-9CDD-D1C5A3DBEA7A}|DoAnCoSo\\DoAnCoSo.csproj|solutionrelative:doancoso\\views\\post\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB0DBD06-0085-40ED-9CDD-D1C5A3DBEA7A}|DoAnCoSo\\DoAnCoSo.csproj|d:\\doancoso\\doancoso\\wwwroot\\css\\mystyle.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{AB0DBD06-0085-40ED-9CDD-D1C5A3DBEA7A}|DoAnCoSo\\DoAnCoSo.csproj|solutionrelative:doancoso\\wwwroot\\css\\mystyle.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IPostRepository.cs",
+              "DocumentMoniker": "D:\\DoAnCoSo\\DoAnCoSo\\Repository\\IPostRepository.cs",
+              "RelativeDocumentMoniker": "DoAnCoSo\\Repository\\IPostRepository.cs",
+              "ToolTip": "D:\\DoAnCoSo\\DoAnCoSo\\Repository\\IPostRepository.cs",
+              "RelativeToolTip": "DoAnCoSo\\Repository\\IPostRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T16:03:00.875Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Post.cs",
+              "DocumentMoniker": "D:\\DoAnCoSo\\DoAnCoSo\\Models\\Post.cs",
+              "RelativeDocumentMoniker": "DoAnCoSo\\Models\\Post.cs",
+              "ToolTip": "D:\\DoAnCoSo\\DoAnCoSo\\Models\\Post.cs",
+              "RelativeToolTip": "DoAnCoSo\\Models\\Post.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T16:22:09.144Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\DoAnCoSo\\DoAnCoSo\\Views\\Post\\Index.cshtml",
+              "RelativeDocumentMoniker": "DoAnCoSo\\Views\\Post\\Index.cshtml",
+              "ToolTip": "D:\\DoAnCoSo\\DoAnCoSo\\Views\\Post\\Index.cshtml",
+              "RelativeToolTip": "DoAnCoSo\\Views\\Post\\Index.cshtml",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAAFIAAABYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-09T15:55:16.527Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\DoAnCoSo\\DoAnCoSo\\Views\\Comment\\Create.cshtml",
+              "RelativeDocumentMoniker": "DoAnCoSo\\Views\\Comment\\Create.cshtml",
+              "ToolTip": "D:\\DoAnCoSo\\DoAnCoSo\\Views\\Comment\\Create.cshtml",
+              "RelativeToolTip": "DoAnCoSo\\Views\\Comment\\Create.cshtml",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAACAAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-09T17:25:17.705Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PostController.cs",
+              "DocumentMoniker": "D:\\DoAnCoSo\\DoAnCoSo\\Controllers\\PostController.cs",
+              "RelativeDocumentMoniker": "DoAnCoSo\\Controllers\\PostController.cs",
+              "ToolTip": "D:\\DoAnCoSo\\DoAnCoSo\\Controllers\\PostController.cs",
+              "RelativeToolTip": "DoAnCoSo\\Controllers\\PostController.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAowD0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T16:09:48.964Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IAnimalImageRepository.cs",
+              "DocumentMoniker": "D:\\DoAnCoSo\\DoAnCoSo\\Repository\\IAnimalImageRepository.cs",
+              "RelativeDocumentMoniker": "DoAnCoSo\\Repository\\IAnimalImageRepository.cs",
+              "ToolTip": "D:\\DoAnCoSo\\DoAnCoSo\\Repository\\IAnimalImageRepository.cs",
+              "RelativeToolTip": "DoAnCoSo\\Repository\\IAnimalImageRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T17:36:42.053Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PostViewModel.cs",
+              "DocumentMoniker": "D:\\DoAnCoSo\\DoAnCoSo\\Models\\PostViewModel.cs",
+              "RelativeDocumentMoniker": "DoAnCoSo\\Models\\PostViewModel.cs",
+              "ToolTip": "D:\\DoAnCoSo\\DoAnCoSo\\Models\\PostViewModel.cs",
+              "RelativeToolTip": "DoAnCoSo\\Models\\PostViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T16:29:05.858Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\DoAnCoSo\\DoAnCoSo\\Program.cs",
+              "RelativeDocumentMoniker": "DoAnCoSo\\Program.cs",
+              "ToolTip": "D:\\DoAnCoSo\\DoAnCoSo\\Program.cs",
+              "RelativeToolTip": "DoAnCoSo\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T15:41:23.739Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "EFPostRepository.cs",
+              "DocumentMoniker": "D:\\DoAnCoSo\\DoAnCoSo\\Repository\\EFPostRepository.cs",
+              "RelativeDocumentMoniker": "DoAnCoSo\\Repository\\EFPostRepository.cs",
+              "ToolTip": "D:\\DoAnCoSo\\DoAnCoSo\\Repository\\EFPostRepository.cs",
+              "RelativeToolTip": "DoAnCoSo\\Repository\\EFPostRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T16:06:31.964Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IClassAnimalRepository.cs",
+              "DocumentMoniker": "D:\\DoAnCoSo\\DoAnCoSo\\Repository\\IClassAnimalRepository.cs",
+              "RelativeDocumentMoniker": "DoAnCoSo\\Repository\\IClassAnimalRepository.cs",
+              "ToolTip": "D:\\DoAnCoSo\\DoAnCoSo\\Repository\\IClassAnimalRepository.cs",
+              "RelativeToolTip": "DoAnCoSo\\Repository\\IClassAnimalRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T17:36:40.712Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ICommentRepository.cs",
+              "DocumentMoniker": "D:\\DoAnCoSo\\DoAnCoSo\\Repository\\ICommentRepository.cs",
+              "RelativeDocumentMoniker": "DoAnCoSo\\Repository\\ICommentRepository.cs",
+              "ToolTip": "D:\\DoAnCoSo\\DoAnCoSo\\Repository\\ICommentRepository.cs",
+              "RelativeToolTip": "DoAnCoSo\\Repository\\ICommentRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T17:36:40.047Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IAnimalRepository.cs",
+              "DocumentMoniker": "D:\\DoAnCoSo\\DoAnCoSo\\Repository\\IAnimalRepository.cs",
+              "RelativeDocumentMoniker": "DoAnCoSo\\Repository\\IAnimalRepository.cs",
+              "ToolTip": "D:\\DoAnCoSo\\DoAnCoSo\\Repository\\IAnimalRepository.cs",
+              "RelativeToolTip": "DoAnCoSo\\Repository\\IAnimalRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T17:36:41.406Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\DoAnCoSo\\DoAnCoSo\\appsettings.json",
+              "RelativeDocumentMoniker": "DoAnCoSo\\appsettings.json",
+              "ToolTip": "D:\\DoAnCoSo\\DoAnCoSo\\appsettings.json",
+              "RelativeToolTip": "DoAnCoSo\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-09T17:36:34.768Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "index.js",
+              "DocumentMoniker": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\js\\index.js",
+              "RelativeDocumentMoniker": "DoAnCoSo\\wwwroot\\js\\index.js",
+              "ToolTip": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\js\\index.js",
+              "RelativeToolTip": "DoAnCoSo\\wwwroot\\js\\index.js",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-04-09T17:36:21.667Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "site.js",
+              "DocumentMoniker": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\js\\site.js",
+              "RelativeDocumentMoniker": "DoAnCoSo\\wwwroot\\js\\site.js",
+              "ToolTip": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\js\\site.js",
+              "RelativeToolTip": "DoAnCoSo\\wwwroot\\js\\site.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-04-09T17:36:20.78Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\DoAnCoSo\\DoAnCoSo\\Views\\Post\\Details.cshtml",
+              "RelativeDocumentMoniker": "DoAnCoSo\\Views\\Post\\Details.cshtml",
+              "ToolTip": "D:\\DoAnCoSo\\DoAnCoSo\\Views\\Post\\Details.cshtml",
+              "RelativeToolTip": "DoAnCoSo\\Views\\Post\\Details.cshtml",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAABMAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-09T16:01:41.805Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "mystyle.css",
+              "DocumentMoniker": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\css\\mystyle.css",
+              "RelativeDocumentMoniker": "DoAnCoSo\\wwwroot\\css\\mystyle.css",
+              "ToolTip": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\css\\mystyle.css",
+              "RelativeToolTip": "DoAnCoSo\\wwwroot\\css\\mystyle.css",
+              "ViewState": "AQIAAP8AAAAAAAAAAAAAAHwBAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-04-09T15:55:12.314Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }

@@ -37,6 +37,30 @@
       "PackagePath": "staticwebassets\\desgin\\Animal\\Avatar\\c.png"
     },
     {
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\ClassAnimal\\Background\\ca.gif",
+      "PackagePath": "staticwebassets\\desgin\\ClassAnimal\\Background\\ca.gif"
+    },
+    {
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\ClassAnimal\\Background\\chim.gif",
+      "PackagePath": "staticwebassets\\desgin\\ClassAnimal\\Background\\chim.gif"
+    },
+    {
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\ClassAnimal\\Background\\dongvatbosat.gif",
+      "PackagePath": "staticwebassets\\desgin\\ClassAnimal\\Background\\dongvatbosat.gif"
+    },
+    {
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\ClassAnimal\\Background\\dongvatcovu.gif",
+      "PackagePath": "staticwebassets\\desgin\\ClassAnimal\\Background\\dongvatcovu.gif"
+    },
+    {
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\ClassAnimal\\Background\\dongvatkhongxuongsong.gif",
+      "PackagePath": "staticwebassets\\desgin\\ClassAnimal\\Background\\dongvatkhongxuongsong.gif"
+    },
+    {
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\ClassAnimal\\Background\\dongvatluongcu.gif",
+      "PackagePath": "staticwebassets\\desgin\\ClassAnimal\\Background\\dongvatluongcu.gif"
+    },
+    {
       "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Explore\\bg.png",
       "PackagePath": "staticwebassets\\desgin\\Explore\\bg.png"
     },

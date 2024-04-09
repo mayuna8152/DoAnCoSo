@@ -19,11 +19,30 @@ namespace DoAnCoSo.Controllers
 			_context = context;
 
 		}
-		public async Task<IActionResult> Index()
-		{
-			var post = await _postRepository.GetAllAsync();
-			return View(post);
-		}
+        public IActionResult Index()
+        {
+            var posts = _context.Posts.ToList();
+            var model = new PostViewModel
+            {
+                Posts = posts
+            };
+            return View(model);
+        }
+        [HttpPost]
+        public IActionResult Create(PostViewModel postViewModel)
+        {
+            if (ModelState.IsValid)
+            {
+                var post = postViewModel.Post;
+                _context.Posts.Add(post);
+                _context.SaveChanges();
+                return RedirectToAction("Index");
+            }
+
+            // Handle invalid ModelState if necessary
+            return View("Index", postViewModel);
+        }
+
         public async Task<IActionResult> Details(int id)
         {
             var post = await _postRepository.GetByIdAsync(id);
@@ -38,16 +57,5 @@ namespace DoAnCoSo.Controllers
 
             return View(post);
         }
-        public IActionResult Create()
-		{
-			return View();
-		}
-		[HttpPost]
-		public IActionResult Create(Post post)
-		{
-			_context.Posts.Add(post);
-			_context.SaveChanges();
-			return RedirectToAction("Index");
-		}
 	}
 }
