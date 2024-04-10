@@ -26,54 +26,28 @@ namespace DoAnCoSo.Controllers
 			};
 			return View(model);
 		}
-		[HttpPost]
-        public async Task<IActionResult> Create(PostViewModel postViewModel, IFormFile imageQRVideo)
-        {
-            if (imageQRVideo != null && imageQRVideo.Length > 0)
-            {
-                // Save the image and get the file name
-                postViewModel.Post.ImageQRVideo = await SaveImage(imageQRVideo);
-            }
-
-            ModelState.Remove("Post.ImageQRVideo");
-            if (ModelState.IsValid)
-            {
-                var post = postViewModel.Post;
-                _context.Posts.Add(post);
-                _context.SaveChanges();
-                return RedirectToAction("Index");
-            }
-
-            // Handle invalid ModelState if necessary
-            return View("Index", postViewModel);
-        }
-
-        public IActionResult CreatePost()
-        {
-            return View();
-        }
 
         [HttpPost]
-        public async Task<IActionResult> CreatePost(Post post, IFormFile imageQRVideo)
+        public async Task<IActionResult> Create(PostViewModel viewModel, IFormFile imageQRVideo)
         {
             if (imageQRVideo != null && imageQRVideo.Length > 0)
             {
                 // Save the image and get the file name
-                post.ImageQRVideo = await SaveImage(imageQRVideo);
+                viewModel.Post.ImageQRVideo = await SaveImage(imageQRVideo);
             }
 
             // Explicitly mark the ImageQRVideo field as valid
-            ModelState.Remove("ImageQRVideo");
+            ModelState.Remove("Post.ImageQRVideo");
 
             if (ModelState.IsValid)
             {
-                _context.Posts.Add(post);
+                _context.Posts.Add(viewModel.Post);
                 await _context.SaveChangesAsync();
                 return RedirectToAction("Index");
             }
 
             // Handle invalid ModelState if necessary
-            return View(post);
+            return View(viewModel);
         }
         private async Task<string> SaveImage(IFormFile image)
         {
