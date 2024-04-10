@@ -1,8 +1,6 @@
 ﻿using DoAnCoSo.Models;
 using DoAnCoSo.Repository;
 using Microsoft.AspNetCore.Mvc;
-using Microsoft.EntityFrameworkCore;
-using System.Diagnostics;
 
 namespace DoAnCoSo.Controllers
 {
@@ -19,18 +17,25 @@ namespace DoAnCoSo.Controllers
 			_context = context;
 
 		}
-        public IActionResult Index()
+		public IActionResult Index()
+		{
+			var posts = _context.Posts.ToList();
+			var model = new PostViewModel
+			{
+				Posts = posts ?? new List<Post>() // Initialize with an empty list if `posts` is null
+			};
+			return View(model);
+		}
+		[HttpPost]
+        public async Task<IActionResult> Create(PostViewModel postViewModel, IFormFile imageQRVideo)
         {
-            var posts = _context.Posts.ToList();
-            var model = new PostViewModel
+            if (imageQRVideo != null && imageQRVideo.Length > 0)
             {
-                Posts = posts
-            };
-            return View(model);
-        }
-        [HttpPost]
-        public IActionResult Create(PostViewModel postViewModel)
-        {
+                // Save the image and get the file name
+                postViewModel.Post.ImageQRVideo = await SaveImage(imageQRVideo);
+            }
+
+            ModelState.Remove("Post.ImageQRVideo");
             if (ModelState.IsValid)
             {
                 var post = postViewModel.Post;
@@ -41,6 +46,43 @@ namespace DoAnCoSo.Controllers
 
             // Handle invalid ModelState if necessary
             return View("Index", postViewModel);
+        }
+
+        public IActionResult CreatePost()
+        {
+            return View();
+        }
+
+        [HttpPost]
+        public async Task<IActionResult> CreatePost(Post post, IFormFile imageQRVideo)
+        {
+            if (imageQRVideo != null && imageQRVideo.Length > 0)
+            {
+                // Save the image and get the file name
+                post.ImageQRVideo = await SaveImage(imageQRVideo);
+            }
+
+            // Explicitly mark the ImageQRVideo field as valid
+            ModelState.Remove("ImageQRVideo");
+
+            if (ModelState.IsValid)
+            {
+                _context.Posts.Add(post);
+                await _context.SaveChangesAsync();
+                return RedirectToAction("Index");
+            }
+
+            // Handle invalid ModelState if necessary
+            return View(post);
+        }
+        private async Task<string> SaveImage(IFormFile image)
+        {
+            var savePath = Path.Combine("wwwroot/desgin/Post", image.FileName);
+            using (var fileStream = new FileStream(savePath, FileMode.Create))
+            {
+                await image.CopyToAsync(fileStream);
+            }
+            return image.FileName;
         }
 
         public async Task<IActionResult> Details(int id)

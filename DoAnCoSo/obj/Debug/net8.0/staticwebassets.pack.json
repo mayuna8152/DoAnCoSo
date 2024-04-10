@@ -5,6 +5,10 @@
       "PackagePath": "staticwebassets\\DoAnCoSo.bundle.scp.css"
     },
     {
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\Uploads\\1839ae17-8d58-41ed-8fb6-1f85268034cc_Lion_waiting_in_Namibia.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\1839ae17-8d58-41ed-8fb6-1f85268034cc_Lion_waiting_in_Namibia.jpg"
+    },
+    {
       "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\css\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\css\\bootstrap.min.css"
     },
@@ -119,6 +123,14 @@
     {
       "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Home\\logo.png",
       "PackagePath": "staticwebassets\\desgin\\Home\\logo.png"
+    },
+    {
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Post\\Cat03.jpg",
+      "PackagePath": "staticwebassets\\desgin\\Post\\Cat03.jpg"
+    },
+    {
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Post\\German-Shepherd-dog-Alsatian.webp",
+      "PackagePath": "staticwebassets\\desgin\\Post\\German-Shepherd-dog-Alsatian.webp"
     },
     {
       "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Support\\bg.png",

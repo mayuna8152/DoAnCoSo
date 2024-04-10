@@ -23,6 +23,7 @@
 
   <ItemGroup>
     <Folder Include="wwwroot\desgin\Header\" />
+    <Folder Include="wwwroot\Uploads\" />
   </ItemGroup>
 
 </Project>

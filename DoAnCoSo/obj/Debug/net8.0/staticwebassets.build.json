@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "LLk/xvecjtrCyYoBAtCOSwC12MnPkRM9KqnrFPsKy9A=",
+  "Hash": "7DQy+htp3s6j3TYqOaqZbei4ahNitgb+W5CAGyFYazM=",
   "Source": "DoAnCoSo",
   "BasePath": "_content/DoAnCoSo",
   "Mode": "Default",
@@ -604,6 +604,44 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\desgin\\Home\\logo.png"
+    },
+    {
+      "Identity": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Post\\Cat03.jpg",
+      "SourceId": "DoAnCoSo",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\",
+      "BasePath": "_content/DoAnCoSo",
+      "RelativePath": "desgin/Post/Cat03.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\desgin\\Post\\Cat03.jpg"
+    },
+    {
+      "Identity": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Post\\German-Shepherd-dog-Alsatian.webp",
+      "SourceId": "DoAnCoSo",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\",
+      "BasePath": "_content/DoAnCoSo",
+      "RelativePath": "desgin/Post/German-Shepherd-dog-Alsatian.webp",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\desgin\\Post\\German-Shepherd-dog-Alsatian.webp"
     },
     {
       "Identity": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Support\\bg.png",
@@ -1763,6 +1801,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Identity": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\Uploads\\1839ae17-8d58-41ed-8fb6-1f85268034cc_Lion_waiting_in_Namibia.jpg",
+      "SourceId": "DoAnCoSo",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\",
+      "BasePath": "_content/DoAnCoSo",
+      "RelativePath": "Uploads/1839ae17-8d58-41ed-8fb6-1f85268034cc_Lion_waiting_in_Namibia.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Uploads\\1839ae17-8d58-41ed-8fb6-1f85268034cc_Lion_waiting_in_Namibia.jpg"
     }
   ]
 }
