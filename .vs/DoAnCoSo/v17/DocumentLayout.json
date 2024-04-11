@@ -47,8 +47,7 @@
               "ViewState": "AQIAACYAAAAAAAAAAAAgwCUAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-09T16:09:48.964Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
@@ -58,7 +57,7 @@
               "RelativeDocumentMoniker": "DoAnCoSo\\Views\\Animal\\Details.cshtml",
               "ToolTip": "D:\\DoAnCoSo\\DoAnCoSo\\Views\\Animal\\Details.cshtml",
               "RelativeToolTip": "DoAnCoSo\\Views\\Animal\\Details.cshtml",
-              "ViewState": "AQIAAEsAAAAAAAAAAAAAAEsAAAAqAAAA",
+              "ViewState": "AQIAAEsAAAAAAAAAAAAAAFYAAAAhAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-04-11T15:16:00.251Z",
               "EditorCaption": ""
@@ -73,8 +72,7 @@
               "RelativeToolTip": "DoAnCoSo\\Controllers\\CommentController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-11T15:12:39.201Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-11T15:12:39.201Z"
             },
             {
               "$type": "Document",
@@ -86,8 +84,7 @@
               "RelativeToolTip": "DoAnCoSo\\Views\\Animal\\Index.cshtml",
               "ViewState": "AQIAABsAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-11T15:11:51.537Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-11T15:11:51.537Z"
             },
             {
               "$type": "Document",
@@ -99,8 +96,7 @@
               "RelativeToolTip": "DoAnCoSo\\wwwroot\\css\\mystyle.css",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAOAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-04-10T18:10:03.524Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-10T18:10:03.524Z"
             },
             {
               "$type": "Document",
@@ -112,8 +108,7 @@
               "RelativeToolTip": "DoAnCoSo\\Views\\Post\\Index.cshtml",
               "ViewState": "AQIAACEAAAAAAAAAAAAAAEcAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-10T14:32:07.321Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-10T14:32:07.321Z"
             }
           ]
         }
