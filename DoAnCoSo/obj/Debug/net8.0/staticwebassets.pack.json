@@ -41,6 +41,18 @@
       "PackagePath": "staticwebassets\\desgin\\Animal\\Avatar\\c.png"
     },
     {
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\ListImage\\a.png",
+      "PackagePath": "staticwebassets\\desgin\\Animal\\ListImage\\a.png"
+    },
+    {
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\ListImage\\b.png",
+      "PackagePath": "staticwebassets\\desgin\\Animal\\ListImage\\b.png"
+    },
+    {
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\ListImage\\c.png",
+      "PackagePath": "staticwebassets\\desgin\\Animal\\ListImage\\c.png"
+    },
+    {
       "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\ClassAnimal\\Background\\ca.gif",
       "PackagePath": "staticwebassets\\desgin\\ClassAnimal\\Background\\ca.gif"
     },

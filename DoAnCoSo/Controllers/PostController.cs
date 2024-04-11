@@ -51,7 +51,7 @@ namespace DoAnCoSo.Controllers
         }
         private async Task<string> SaveImage(IFormFile image)
         {
-            var savePath = Path.Combine("wwwroot/desgin/Post", image.FileName);
+            var savePath = Path.Combine("wwwroot/desgin/Post/Upload", image.FileName);
             using (var fileStream = new FileStream(savePath, FileMode.Create))
             {
                 await image.CopyToAsync(fileStream);

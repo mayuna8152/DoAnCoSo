@@ -22,6 +22,8 @@
   </ItemGroup>
 
   <ItemGroup>
+    <Folder Include="wwwroot\desgin\Animal\3DQR\" />
+    <Folder Include="wwwroot\desgin\Animal\NoiSinhSong\" />
     <Folder Include="wwwroot\desgin\Header\" />
     <Folder Include="wwwroot\Uploads\" />
   </ItemGroup>
