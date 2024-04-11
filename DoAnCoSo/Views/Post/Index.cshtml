@@ -5,6 +5,7 @@
 	<meta charset="utf-8" />
 	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
 	<title>@ViewData["Title"] - DoAnCoSo</title>
+	<link href='https://fonts.googleapis.com/css?family=Kanit' rel='stylesheet'>
 	<link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
 	<link rel="stylesheet" href="~/css/mystyle.css" asp-append-version="true" />
 	<link rel="stylesheet" href="https://unicons.iconscout.com/release/v4.0.0/css/line.css">
@@ -14,102 +15,80 @@
 
 </head>
 <body>
+	<section class="Post">
+		<img src="~/desgin/ClassAnimal/Background/ca.gif" alt="Background Image" class="classbg" />
+		<h1 class="textclassanimalName" style="margin-top:-300px;margin-left:-1000px;">Community</h1>
+		<h1 class="textclassanimalInfo" style="margin-left:300px;">Hãy cùng nhau chia sẽ những trải nghiệp của bản thân về thế giới động vật tại đậy và cùng nhau tạo nên một cộng đồng lành mạnh và đầy phát triển.</h1>
+		<div class="PostList" style="margin-top: 100px; display: flex; flex-wrap: wrap;">
+			<div class="popup">
+				<!-- Trigger/Open The Modal -->
+				<button id="mbtn" class="btn btn-primary turned-button">Tạo bài viết</button>
 
-	<h1>Index</h1>
-	<div class="popup">
-		<!-- Trigger/Open The Modal -->
-		<button id="mbtn" class="btn btn-primary turned-button">Add post</button>
+				<!-- The Modal -->
+				<div id="modalDialog" class="modal">
+					<div class="modal-content animate-top" style="background-image: url('../desgin/Explore/bg.png');object-fit: cover;">
+						<div class="modal-header">
+							<b class="modal-title" style="color:white;">Đăng bài viết</b>
+							<button type="button" class="close" data-dismiss="modal" aria-label="Close">
+								<span aria-hidden="true">×</span>
+							</button>
+						</div>
+						<div class="modal-body">
+							<form method="post" asp-action="Create" enctype="multipart/form-data">
+								<div asp-validation-summary="ModelOnly" class="text-danger"></div>
+								<div class="form-group">
+									<b style="color:white;">Nội dung bài viết:</b>
+									<input asp-for="Post.Title" class="form-control" />
+									<span asp-validation-for="Post.Title" class="text-danger"></span>
+								</div>
+								<div class="form-group">
+									<b style="color:white;">Tải hình ảnh:</b>
+									<input asp-for="Post.ImageQRVideo" type="file" class="form-control" name="imageQRVideo" onchange="previewImage(event)" />
+									<span asp-validation-for="Post.ImageQRVideo" class="text-danger"></span>
+								</div>
+								<div class="form-group">
+									<input type="hidden" asp-for="Post.Date" value="@DateTime.Now" />
+								</div>
+								<div class="col-md-4">
+									<img id="imagePreview" class="itemPreview" alt="Image Preview" style="display: none;" />
+								</div>
+								<input type="submit" value="Create" class="btn btn-primary" />
+							</form>
 
-		<!-- The Modal -->
-		<div id="modalDialog" class="modal">
-			<div class="modal-content animate-top">
-				<div class="modal-header">
-					<h5 class="modal-title">Add post</h5>
-					<button type="button" class="close" data-dismiss="modal" aria-label="Close">
-						<span aria-hidden="true">×</span>
-					</button>
-				</div>
-				<div class="modal-body">
-					<form method="post" asp-action="Create" enctype="multipart/form-data">
-						<div asp-validation-summary="ModelOnly" class="text-danger"></div>
-						<div class="form-group">
-							<label asp-for="Post.Title" class="control-label"></label>
-							<input asp-for="Post.Title" class="form-control" />
-							<span asp-validation-for="Post.Title" class="text-danger"></span>
 						</div>
-						<div class="form-group">
-							<label asp-for="Post.ImageQRVideo" class="control-label"></label>
-							<input asp-for="Post.ImageQRVideo" type="file" class="form-control" name="imageQRVideo" onchange="previewImage(event)" />
-							<span asp-validation-for="Post.ImageQRVideo" class="text-danger"></span>
-						</div>
-						<div class="form-group">
-							<input type="hidden" asp-for="Post.Date" value="@DateTime.Now" />
-						</div>
-						<input type="submit" value="Create" class="btn btn-primary" />
-						<div class="col-md-4">
-							<img id="imagePreview" class="img-fluid" alt="Image Preview" style="display: none;" />
-						</div>
-
-					</form>
-
+					</div>
 				</div>
 			</div>
-		</div>
-	</div>
-	<table class="table">
-		<thead>
-			<tr>
-				<th>
-					Title
-				</th>
-				<th>
-					Date
-				</th>
-				<th>
-					ImageQRVideo
-				</th>
-				<th></th>
-			</tr>
-		</thead>
-		<tbody>
-			@foreach (var item in Model.Posts)
-			{
-				<tr>
-					<td>
-						@Html.DisplayFor(modelItem => item.Title)
-					</td>
-					<td>
-						@Html.DisplayFor(modelItem => item.Date)
-					</td>
-					<td>
-						@Html.DisplayFor(modelItem => item.ImageQRVideo)
-					</td>
-					<td>
-						<a asp-action="Details" asp-route-id="@item.IdPost">Details</a>
-					</td>
-				</tr>
-			}
-		</tbody>
-		@section Scripts {
-			<script>
-				function previewImage(event) {
-					var input = event.target;
-					if (input.files && input.files[0]) {
-						var reader = new FileReader();
-						reader.onload = function (e) {
-							document.getElementById('imagePreview').src = e.target.result;
-							document.getElementById('imagePreview').style.display = 'block';
-						};
-						reader.readAsDataURL(input.files[0]);
-					}
+			<div class="list" style=" margin-left: 40px;margin-top: 100px; display: flex; flex-wrap: wrap;">
+				@foreach (var post in Model.Posts)
+				{
+					<a href="@Url.Action("Details", "Post", new { id = post.IdPost })" class="itemcard" style="margin-left: 150px; text-decoration: none;">
+						<img src="~/desgin/Post/Upload/@post.ImageQRVideo" alt="Avatar" class="itemAvatar" />
+						<h1 class="textclassanimalInfo">@post.Title</h1>
+						<h1 class="textclassanimalInfo">@post.Date</h1>
+					</a>
 				}
-			</script>
-			@{
-				await Html.RenderPartialAsync("_ValidationScriptsPartial");
+			</div>
+		</div>
+	</section>
+	@section Scripts {
+		<script>
+			function previewImage(event) {
+				var input = event.target;
+				if (input.files && input.files[0]) {
+					var reader = new FileReader();
+					reader.onload = function (e) {
+						document.getElementById('imagePreview').src = e.target.result;
+						document.getElementById('imagePreview').style.display = 'block';
+					};
+					reader.readAsDataURL(input.files[0]);
+				}
 			}
+		</script>
+		@{
+			await Html.RenderPartialAsync("_ValidationScriptsPartial");
 		}
-	</table>
-
+	}
 	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
 	<script>
 		/*
@@ -143,5 +122,6 @@
 			}
 		});
 	</script>
+
 </body>
 </html>
