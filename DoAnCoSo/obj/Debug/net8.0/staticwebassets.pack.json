@@ -29,6 +29,10 @@
       "PackagePath": "staticwebassets\\desgin\\About\\logo.png"
     },
     {
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\3DQR\\a.png",
+      "PackagePath": "staticwebassets\\desgin\\Animal\\3DQR\\a.png"
+    },
+    {
       "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\Avatar\\a.png",
       "PackagePath": "staticwebassets\\desgin\\Animal\\Avatar\\a.png"
     },
@@ -51,6 +55,10 @@
     {
       "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\ListImage\\c.png",
       "PackagePath": "staticwebassets\\desgin\\Animal\\ListImage\\c.png"
+    },
+    {
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\NoiSinhSong\\a.png",
+      "PackagePath": "staticwebassets\\desgin\\Animal\\NoiSinhSong\\a.png"
     },
     {
       "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\ClassAnimal\\Background\\ca.gif",
@@ -165,8 +173,16 @@
       "PackagePath": "staticwebassets\\desgin\\Post\\Upload\\FVqUjfbiHS9imyJiRiM53-1200-80.jpg"
     },
     {
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Post\\Upload\\HD-wallpaper-tiny-jumping-spider-ultra-animals-insects-nature-macro-insect-spider-tiny.jpg",
+      "PackagePath": "staticwebassets\\desgin\\Post\\Upload\\HD-wallpaper-tiny-jumping-spider-ultra-animals-insects-nature-macro-insect-spider-tiny.jpg"
+    },
+    {
       "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Post\\Upload\\Lion_waiting_in_Namibia.jpg",
       "PackagePath": "staticwebassets\\desgin\\Post\\Upload\\Lion_waiting_in_Namibia.jpg"
+    },
+    {
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Post\\Upload\\ai-generated-illustration-wildlife-concept-blue-ring-octopus-blue-ring-octopus-made-generative-ai-illustration-293697666 .jpg",
+      "PackagePath": "staticwebassets\\desgin\\Post\\Upload\\ai-generated-illustration-wildlife-concept-blue-ring-octopus-blue-ring-octopus-made-generative-ai-illustration-293697666 .jpg"
     },
     {
       "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Post\\Upload\\golden-retriever-puppy.jpg",

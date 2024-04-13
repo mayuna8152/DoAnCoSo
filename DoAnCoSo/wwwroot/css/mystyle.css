@@ -71,6 +71,23 @@ h1.textabout {
     text-align: center;
     font-size: 40px;
 }
+h1.texttitle {
+    font-family: Kanit;
+    color: white;
+    -webkit-text-stroke: 1px black;
+    text-shadow: 1px 1px 0 black;
+    text-align: center;
+    font-size: 40px;
+}
+p.textdata {
+    font-family: Kanit;
+    color: white;
+    -webkit-text-stroke: 1px black;
+    text-shadow: 1px 1px 0 black;
+    text-align: justify;
+    font-size: 25px;
+    width:820px;
+}
 
 h1.textexplore {
     font-family: Kanit;
@@ -117,9 +134,17 @@ section {
         background-size: 100% 100%;
         padding: 10% 0;
     }
+    section.AnimalDetail {
+        padding: 12% 0;
+        background-image: url('../desgin/Explore/bg.png');
+        background-repeat: no-repeat;
+        background-attachment: fixed;
+        background-size: 100% 100%;
+        padding: 10% 0;
+    }
     section.Post {
         padding: 12% 0;
-        
+        background-image: url('../desgin/Explore/bg.png');
         background-repeat: no-repeat;
         background-attachment: fixed;
         background-size: 100% 100%;
@@ -138,6 +163,12 @@ section {
     width: 400px;
     object-fit: cover;
 }
+.itemListimg {
+    height: 500px;
+    width: 700px;
+    object-fit: cover;
+    border-radius:20px;
+}
 
 .itemcard {
     height: 600px;
@@ -146,6 +177,14 @@ section {
 }
 
 h1.textclassanimalName {
+    font-family: Kanit;
+    color: white;
+    -webkit-text-stroke: 1px black;
+    text-shadow: 1px 1px 0 black;
+    text-align: center;
+    font-size: 50px;
+}
+h1.textAnimalName {
     font-family: Kanit;
     color: white;
     -webkit-text-stroke: 1px black;
@@ -629,4 +668,30 @@ label {
     object-fit: cover;
     margin-left:20px;
     margin-bottom:10px;
+}
+
+::-webkit-scrollbar{
+    width:15px;
+}
+::-webkit-scrollbar-track {
+    background:white;
+}
+::-webkit-scrollbar-thumb {
+    background:linear-gradient(#07a8ff,#ff00fa);
+    border-radius:10px;
+}
+.wrapper {
+    height: 650px;
+    width: 800px;
+    overflow-x: hidden;
+}
+
+    .wrapper::-webkit-scrollbar {
+        display: none;
+    }
+
+    .wrapper .item {
+    }
+.textbox::-webkit-scrollbar {
+    display: none;
 }

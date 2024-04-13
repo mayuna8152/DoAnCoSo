@@ -20,6 +20,6 @@ namespace DoAnCoSo.Models
         [DisplayName("Ảnh QR và video")]
         public string ImageQRVideo { get; set; }
 
-        public List<Comment>? Comments { get; set; }
+		public List<Comment>? Comments { get; set; }
     }
 }

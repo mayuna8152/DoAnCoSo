@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "yBFBRd9kzDNRkp/wTQVC/kuLxTWxAxN6SrtBP7T9W80=",
+  "Hash": "F37hOAcduiXaIHOGtslUo463nebO+jV7HFwzSD57Q08=",
   "Source": "DoAnCoSo",
   "BasePath": "_content/DoAnCoSo",
   "Mode": "Default",
@@ -150,6 +150,25 @@
       "OriginalItemSpec": "wwwroot\\desgin\\About\\logo.png"
     },
     {
+      "Identity": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\3DQR\\a.png",
+      "SourceId": "DoAnCoSo",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\",
+      "BasePath": "_content/DoAnCoSo",
+      "RelativePath": "desgin/Animal/3DQR/a.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\desgin\\Animal\\3DQR\\a.png"
+    },
+    {
       "Identity": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\Avatar\\a.png",
       "SourceId": "DoAnCoSo",
       "SourceType": "Discovered",
@@ -262,6 +281,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\desgin\\Animal\\ListImage\\c.png"
+    },
+    {
+      "Identity": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\NoiSinhSong\\a.png",
+      "SourceId": "DoAnCoSo",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\",
+      "BasePath": "_content/DoAnCoSo",
+      "RelativePath": "desgin/Animal/NoiSinhSong/a.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\desgin\\Animal\\NoiSinhSong\\a.png"
     },
     {
       "Identity": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\ClassAnimal\\Background\\ca.gif",
@@ -834,6 +872,25 @@
       "OriginalItemSpec": "wwwroot\\desgin\\Post\\Upload\\1248-mien-dat-cua-the-lion-king-160705.jpg"
     },
     {
+      "Identity": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Post\\Upload\\ai-generated-illustration-wildlife-concept-blue-ring-octopus-blue-ring-octopus-made-generative-ai-illustration-293697666 .jpg",
+      "SourceId": "DoAnCoSo",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\",
+      "BasePath": "_content/DoAnCoSo",
+      "RelativePath": "desgin/Post/Upload/ai-generated-illustration-wildlife-concept-blue-ring-octopus-blue-ring-octopus-made-generative-ai-illustration-293697666 .jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\desgin\\Post\\Upload\\ai-generated-illustration-wildlife-concept-blue-ring-octopus-blue-ring-octopus-made-generative-ai-illustration-293697666 .jpg"
+    },
+    {
       "Identity": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Post\\Upload\\Cat03.jpg",
       "SourceId": "DoAnCoSo",
       "SourceType": "Discovered",
@@ -908,6 +965,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\desgin\\Post\\Upload\\golden-retriever-puppy.jpg"
+    },
+    {
+      "Identity": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Post\\Upload\\HD-wallpaper-tiny-jumping-spider-ultra-animals-insects-nature-macro-insect-spider-tiny.jpg",
+      "SourceId": "DoAnCoSo",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\",
+      "BasePath": "_content/DoAnCoSo",
+      "RelativePath": "desgin/Post/Upload/HD-wallpaper-tiny-jumping-spider-ultra-animals-insects-nature-macro-insect-spider-tiny.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\desgin\\Post\\Upload\\HD-wallpaper-tiny-jumping-spider-ultra-animals-insects-nature-macro-insect-spider-tiny.jpg"
     },
     {
       "Identity": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Post\\Upload\\Lion_waiting_in_Namibia.jpg",

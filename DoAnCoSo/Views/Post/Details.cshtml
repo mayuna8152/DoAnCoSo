@@ -1,54 +1,103 @@
 ﻿@model DoAnCoSo.Models.Post
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8" />
+	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+	<title>@ViewData["Title"] - DoAnCoSo</title>
+	<link href='https://fonts.googleapis.com/css?family=Kanit' rel='stylesheet'>
+	<link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+	<link rel="stylesheet" href="~/css/mystyle.css" asp-append-version="true" />
+	<link rel="stylesheet" href="https://unicons.iconscout.com/release/v4.0.0/css/line.css">
+	<link href='https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css' rel='stylesheet'>
 
-@{
-	ViewData["Title"] = "Details";
-}
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css" integrity="sha512-DTOQO9RWCH3ppGqcWaEA1BIZOC6xxalwEsw9c2QQeAIftl+Vegovlnee1c9QX4TctnWMn13TZye+giMm8e2LwA==" crossorigin="anonymous" referrerpolicy="no-referrer" />
 
-<h1>Details</h1>
-
-<div>
-	<h4>Post</h4>
-	<hr />
-	<dl class="row">
-		<dt class="col-sm-2">
-			@Html.DisplayNameFor(model => model.Title)
-		</dt>
-		<dd class="col-sm-10">
-			@Html.DisplayFor(model => model.Title)
-		</dd>
-		<dt class="col-sm-2">
-			@Html.DisplayNameFor(model => model.Date)
-		</dt>
-		<dd class="col-sm-10">
-			@Html.DisplayFor(model => model.Date)
-		</dd>
-		<dt class="col-sm-2">
-			@Html.DisplayNameFor(model => model.ImageQRVideo)
-		</dt>
-		<dd class="col-sm-10">
-			@Html.DisplayFor(model => model.ImageQRVideo)
-		</dd>
-	</dl>
-	@foreach (var cmt in Model.Comments)
-	{
-		if (Model.IdPost == cmt.IdPost)
-		{
-			<h1 class="textclassanimalInfo">@cmt.ChatData</h1>
-		}
-	}
-
-	<h3>Add a Comment</h3>
-	@using (Html.BeginForm("AddComment", "Comment", new { Idpost = Model.IdPost }, FormMethod.Post))
-	{
-		<div>
-			<textarea name="ChatData" rows="4" cols="40"></textarea>
+</head>
+<body>
+	<section class="Post" style="margin-top: -150px;">
+		<div class="row">
+			<div class="col-md-6">
+				<div class="contain" style="width:800px;height:830px;margin-left:100px;margin-top:-;">
+					<div class="card" style="width: 100%;height:100%;">
+						<div class="d-flex justify-content-between p-2 px-3">
+							<div class="d-flex flex-row align-items-center">
+								<img src="~/desgin/Post/Upload/@Model.ImageQRVideo" width="50" class="rounded-circle" style="height:50px;width:50px;object-fit:cover">
+								<div class="d-flex flex-column ml-2" style="margin-left:10px"> <span class="font-weight-bold">Unknown Animal Lover</span>  </div>
+							</div>
+							<div class="d-flex flex-row mt-1 ellipsis"> <small class="mr-2" style="margin-top:10px">@Model.Date</small> </div>
+						</div>
+						<img src="~/desgin/Post/Upload/@Model.ImageQRVideo" class="img-fluid" style="width:100%;height:600px;object-fit:cover;">
+						<div class="p-2">
+							<p class="text-justify" style="font-size:20px;">@Model.Title</p>
+							<hr>
+							<div class="d-flex justify-content-between align-items-center">
+								<div class="d-flex flex-row icons d-flex align-items-center">  <i class="fa fa-smile-o ml-2"></i> </div>
+								<div class="d-flex flex-row muted-color"> <i class="fa fa-heart"> Comment now !</i> </div>
+							</div>
+							<hr>
+						</div>
+					</div>
+				</div>
+			</div>
+			<div class="col-md-6">
+				
+				<div class="wrapper" style="margin-left:100px;">
+					<div class="item">
+						@foreach (var cmt in Model.Comments)
+						{
+							if (Model.IdPost == cmt.IdPost)
+							{
+								<div class="contain" style="width:800px;height:;margin-left:;margin-top:-;">
+									<div class="card" style="width: 90%;height:100%;margin-bottom:10px;border-radius:20px">
+										<div class="d-flex justify-content-between p-2 px-3">
+											<div class="d-flex flex-row align-items-center">
+												<img src="~/desgin/Footer/nekoparalogo.png" class="rounded-circle" style="height:75px;width:100px;object-fit:">
+												<div class="d-flex flex-column ml-2" style="margin-left:10px;margin-top:15px;"> <span class="font-weight-bold">Unknown User</span>  </div>
+											</div>
+											<div class="d-flex flex-row mt-1 ellipsis"> <small class="mr-2" style="margin-top:10px">@Model.Date</small> </div>
+										</div>
+										<div class="p-2" style="text-align:left;margin-left:70px">
+											<p class="text-justify">@cmt.ChatData</p>
+										</div>
+									</div>
+								</div>
+							}
+						}
+					</div>
+				</div>
+				@using (Html.BeginForm("AddComment", "Comment", new { Idpost = Model.IdPost }, FormMethod.Post))
+				{
+					<div class="d-flex" style="margin-top: 75px;margin-left:100px;">
+						<textarea name="ChatData" rows="2" cols="80" class="textbox" style="border-radius: 20px;overflow-x: hidden;"></textarea>
+						<input type="submit" value="Enter" onclick="return validateForm();" style="width: 100px; height: 50px;margin-left:10px;" />
+					</div>
+					<div class="alert alert-warning mt-2" id="warning" style="display: none; width: 300px; height: 40px;margin-left:300px;">Bạn chưa viết bình luận!</div>
+				}
+			</div>
 		</div>
-		<div>
-			<input type="submit" value="Add Comment" />
-		</div>
-	}
-</div>
-<div>
-	<a asp-action="Edit" asp-route-id="@Model?.IdPost">Edit</a> |
-	<a asp-action="Index">Back to List</a>
-</div>
+	</section>
+	<script>
+    function validateForm() {
+        var chatData = document.getElementsByName("ChatData")[0].value;
+
+        if (chatData.trim() === "") {
+            document.getElementById("warning").style.display = "block";
+            return false; // Prevent form submission
+        }
+
+        return true; // Allow form submission
+    }
+</script>
+	<script>
+		document.addEventListener("DOMContentLoaded", function () {
+			document.querySelector("textarea[name='ChatData']").addEventListener("keydown", function (event) {
+				if (event.key === "Enter" && !event.shiftKey) {
+					event.preventDefault(); // Prevent the default behavior of the Enter key
+					this.form.submit(); // Submit the form
+				}
+			});
+		});
+	</script>
+</body>
+</html>

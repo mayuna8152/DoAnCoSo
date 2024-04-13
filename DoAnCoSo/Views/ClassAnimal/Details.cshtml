@@ -12,23 +12,20 @@
 
 <body>
 	<section class="ClassAnimal">
-		<img src="~/desgin/ClassAnimal/Background/@Model.BackgroundVideo" alt="Background Image" class="classbg" />
+		<img src="~/desgin/ClassAnimal/Background/@Model.BackgroundVideo" alt="Background vid" class="classbg" />
 		<h1 class="textclassanimalName" style="margin-top:-300px;margin-left:-1000px;">@Model.Name </h1>
 		<h1 class="textclassanimalInfo" style="margin-left:300px;">@Model.Info</h1>
 		
 		<div class="list" style="margin-top: 100px; display: flex; flex-wrap: wrap;">
 			@foreach (var animal in Model.Animals)
 			{
-				<a href="@Url.Action("Details", "Animal", new { id = animal.IdAnimal })" class="itemcard" style="margin-left: 150px; text-decoration: none;">
-					<img src="~/desgin/Animal/Avatar/@animal.Avatar" alt="Avatar" class="itemAvatar" />
-					<h1 class="textclassanimalInfo">@animal.Name</h1>
+				<a href="@Url.Action("Details", "Animal", new { id = animal.IdAnimal })" style="margin-left: 160px;margin-top: 60px; text-decoration: none; border-radius:20px;">
+					<img src="~/desgin/Animal/Avatar/@animal.Avatar" alt="Avatar" class="itemAvatar" style="border-radius:20px;" />
+					<h1 class="textclassanimalInfo" style="text-align:center;">@animal.Name</h1>
 				</a>
 			}
 		</div>
 	</section>
-	<div>
-		<a asp-action="Index">Back to List</a>
-	</div>
 </body>
 
 </html>

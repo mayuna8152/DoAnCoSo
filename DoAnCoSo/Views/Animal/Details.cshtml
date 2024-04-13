@@ -2,102 +2,165 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-	<meta charset="UTF-8">
-	<meta http-equiv="X-UA-Compatible" content="IE=edge">
-	<meta name="viewport" content="width=device-width, initial-scale=1.0">
-	<link href='https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css' rel='stylesheet'>
-	<title>SlideShow</title>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<link href='https://fonts.googleapis.com/css?family=Kanit' rel='stylesheet'>
+	<link rel="stylesheet" href="mystyle.css">
+	<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css">
 </head>
 <body>
-	<div>
-		<h4>Animal</h4>
-		<hr />
-		<dl class="row">
-
-			<dt class="col-sm-2">
-				@Html.DisplayNameFor(model => model.Name)
-			</dt>
-			<dd class="col-sm-10">
-				@Html.DisplayFor(model => model.Name)
-			</dd>
-			<dt class="col-sm-2">
-				@Html.DisplayNameFor(model => model.GioiThieuText)
-			</dt>
-			<dd class="col-sm-10">
-				@Html.DisplayFor(model => model.GioiThieuText)
-			</dd>
-			<dt class="col-sm-2">
-				@Html.DisplayNameFor(model => model.NoiSinhSongSongText)
-			</dt>
-			<dd class="col-sm-10">
-				@Html.DisplayFor(model => model.NoiSinhSongSongText)
-			</dd>
-			<dt class="col-sm-2">
-				@Html.DisplayNameFor(model => model.NgoaiHinhText)
-			</dt>
-			<dd class="col-sm-10">
-				@Html.DisplayFor(model => model.NgoaiHinhText)
-			</dd>
-			<dt class="col-sm-2">
-				@Html.DisplayNameFor(model => model.Avatar)
-			</dt>
-			<dd class="col-sm-10">
-				<img src="@Html.DisplayFor(model=> model.Avatar)" style="width:100px" />
-			</dd>
-			<dt class="col-sm-2">
-				@Html.DisplayNameFor(model => model.NoiSinhSongImage)
-			</dt>
-			<dd class="col-sm-10">
-				<img src="@Html.DisplayFor(model=> model.Avatar)" style="width:100px" />
-			</dd>
-			<dt class="col-sm-2">
-				@Html.DisplayNameFor(model => model.ImgQR3D)
-			</dt>
-			<dd class="col-sm-10">
-				<img src="@Html.DisplayFor(model=> model.ImgQR3D)" style="width:100px" />
-			</dd>
-			</dt>
-			<dt class="col-sm-2">
-				@Html.DisplayNameFor(model => model.ClassAnimal)
-			</dt>
-			<dd class="col-sm-10">
-				@Html.DisplayFor(model => model.ClassAnimal.IdClass)
-			</dd>
-			<dd class="col-sm-10">
-				<h1>List of Images</h1>
+	<section class="AnimalDetail" style="margin-top:-40px;">
+		<h1 class="textAnimalName" style="margin-top:-100px;margin-bottom:50px">@Model.Name</h1>
+		<div class="row">
+			<div class="col-md-6">
 				<div class="listimage">
 					<figure>
-						<img src="~/desgin/Animal/Avatar/@Model.Avatar" alt="" class="itemAvatar">
+						<img src="~/desgin/Animal/Avatar/@Model.Avatar" alt="" class="itemListimg" style="margin-left:;margin-top:">
 					</figure>
 
-					<div class="slide" style="margin-left:-550px">
+					<div class="slide" style="margin-left:">
 						@foreach (var listimg in Model.AnimalImages)
 						{
-							<img src="~/desgin/Animal/ListImage/@listimg.Url" alt="" >
+							<img src="~/desgin/Animal/ListImage/@listimg.Url" alt="">
 						}
 					</div>
 				</div>
-			</dd>
+			</div>
+			<div class="col-md-6">
+				<h1 class="texttitle" style="text-align:left;">
+					Giới thiệu:
+				</h1>
+				<p class="textdata">
+					American crows range from southern Canada throughout the United States. As an adult, this bird is entirely black from bill to tail, except for its brown eyes. Adult crow feathers have a glossy sheen. These noisy birds are often recognizable by their distinctive, loud cry, called a caw. They are often mistaken for the common raven, but ravens are larger, have differently shaped bills, pointed wings and tails, and hoarser cries.
+					(GioiThieuDATA)
+				</p>
+			</div>
+		</div>
+		<div class="row" style="margin-top:80px">
+			<h1 class="texttitle" style="text-align:left;margin-left:100px;margin-top:50px;">
+				Lớp động vật:
+			</h1>
+			<h1 class="texttitle" style="text-align:left;margin-left:150px;margin-top:10px;">
+				@Model.ClassAnimal.Name
+			</h1>
+			<p class="textdata" style="width:80%;margin-left:150px;">
+				@Model.ClassAnimal.Info
+			</p>
+		</div>
+		<div class="row" style="margin-top:80px">
+			<div class="col-md-6">
+				<div class="listimage">
+					<figure>
+						<img src="~/desgin/Animal/NoiSinhSong/@Model.NoiSinhSongImage" alt="" class="itemListimg" style="margin-left:;margin-top:50px">
+					</figure>
+				</div>
+			</div>
+			<div class="col-md-6">
+				<h1 class="texttitle" style="text-align:left;margin-left:px;margin-top:50px;">
+					Nơi sinh sống:
+				</h1>
+				<p class="textdata">
+					American crows range from southern Canada throughout the United States. As an adult, this bird is entirely black from bill to tail, except for its brown eyes. Adult crow feathers have a glossy sheen. These noisy birds are often recognizable by their distinctive, loud cry, called a caw. They are often mistaken for the common raven, but ravens are larger, have differently shaped bills, pointed wings and tails, and hoarser cries.
+					(GioiThieuDATA)
+				</p>
+			</div>
+		</div>
+		<div class="row" style="margin-top:80px">
+			<div class="col-md-6">
+				<h1 class="texttitle" style="text-align:left;margin-left:150px;margin-top:50px;">
+					Ngoại hình:
+				</h1>
+				<p class="textdata" style="text-align:left;margin-left:150px;margin-top:10px;">
+					American crows range from southern Canada throughout the United States. As an adult, this bird is entirely black from bill to tail, except for its brown eyes. Adult crow feathers have a glossy sheen. These noisy birds are often recognizable by their distinctive, loud cry, called a caw. They are often mistaken for the common raven, but ravens are larger, have differently shaped bills, pointed wings and tails, and hoarser cries.
+					(GioiThieuDATA)
+				</p>
+			</div>
+			<div class="col-md-6">
+				<div class="listimage">
+					<figure>
+						<img src="~/desgin/Animal/3DQR/@Model.ImgQR3D" alt="" class="itemListimg" style="margin-top:50px;width:500px;height:500px;">
+					</figure>
+					<h1 class="texttitle" style="text-align:center;margin-left:;margin-top:20px;">
+						AR animal scan! 
+					</h1>
+					<div class="popup" style="">
+						<!-- Trigger/Open The Modal -->
+						<a id="mbtn" class="button" style="margin-top:-10px">
+							<span class="content">Hướng dẫn</span>
+						</a>
+						<!-- The Modal -->
+						<div id="modalDialog" class="modal" >
+							<div class="modal-content animate-top" style="width:30%">
+								<div class="modal-header">
+									<b class="modal-title">Hướng dẫn sử dụng 3D QR</b>
+									<button type="button" class="close" data-dismiss="modal" aria-label="Close">
+										<span aria-hidden="true">×</span>
+									</button>
+								</div>
+								<div class="modal-body">
+									<p style="text-align:justify">
+										<span>B1:</span> Dùng điện thoại để quét mã QR.
+									</p>
+									<p style="text-align:justify">
+										<span>B2:</span> Sau khi trang web hiện ra hãy nhấn Launch và cấp quyền truy cập camera.
+									</p>
+									<p style="text-align:justify">
+										<span>B3:</span> Sau khi đã hiện camera lên hãy quét lại vào hình QR vừa quét để xem điều diệu kỳ!
+									</p>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+		<script>
+			const figureImg = document.querySelector('figure img');
+			const Imgs = document.querySelectorAll('.slide img');
 
-
-			<script>
-				const figureImg = document.querySelector('figure img');
-				const Imgs = document.querySelectorAll('.slide img');
-
-				Imgs.forEach(function (img) {
-					// console.log(img);
-					img.addEventListener('click', function (e) {
-						// console.log(e.target.src);
-						// console.log(figureImg.src);
-						figureImg.src = e.target.src;
-					})
+			Imgs.forEach(function (img) {
+				// console.log(img);
+				img.addEventListener('click', function (e) {
+					// console.log(e.target.src);
+					// console.log(figureImg.src);
+					figureImg.src = e.target.src;
 				})
-			</script>
-		</dl>
-	</div>
-	<div>
-		<a asp-action="Edit" asp-route-id="@Model?.IdAnimal">Edit</a> |
-		<a asp-action="Index">Back to List</a>
-	</div>
+			})
+		</script>
+
+	</section>
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+	<script>
+		/*
+		 * Modal popup
+		 */
+		// Get the modal
+		var modal = $('#modalDialog');
+
+		// Get the button that opens the modal
+		var btn = $("#mbtn");
+
+		// Get the element that closes the modal
+		var span = $(".close");
+
+		$(document).ready(function () {
+			// When the user clicks the button, open the modal
+			btn.on('click', function () {
+				modal.show();
+			});
+
+			// When the user clicks on (x), close the modal
+			span.on('click', function () {
+				modal.hide();
+			});
+		});
+
+		// When the user clicks anywhere outside of the modal, close it
+		$('body').bind('click', function (e) {
+			if ($(e.target).hasClass("modal")) {
+				modal.hide();
+			}
+		});
+	</script>
 </body>
 </html>
