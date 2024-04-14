@@ -7,12 +7,8 @@
       "RelativeMoniker": "D:0:0:{AB0DBD06-0085-40ED-9CDD-D1C5A3DBEA7A}|DoAnCoSo\\DoAnCoSo.csproj|solutionrelative:doancoso\\views\\post\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AB0DBD06-0085-40ED-9CDD-D1C5A3DBEA7A}|DoAnCoSo\\DoAnCoSo.csproj|d:\\doancoso\\doancoso\\views\\post\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{AB0DBD06-0085-40ED-9CDD-D1C5A3DBEA7A}|DoAnCoSo\\DoAnCoSo.csproj|solutionrelative:doancoso\\views\\post\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AB0DBD06-0085-40ED-9CDD-D1C5A3DBEA7A}|DoAnCoSo\\DoAnCoSo.csproj|d:\\doancoso\\doancoso\\wwwroot\\css\\mystyle.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{AB0DBD06-0085-40ED-9CDD-D1C5A3DBEA7A}|DoAnCoSo\\DoAnCoSo.csproj|solutionrelative:doancoso\\wwwroot\\css\\mystyle.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+      "AbsoluteMoniker": "D:0:0:{AB0DBD06-0085-40ED-9CDD-D1C5A3DBEA7A}|DoAnCoSo\\DoAnCoSo.csproj|d:\\doancoso\\doancoso\\controllers\\commentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB0DBD06-0085-40ED-9CDD-D1C5A3DBEA7A}|DoAnCoSo\\DoAnCoSo.csproj|solutionrelative:doancoso\\controllers\\commentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,22 +18,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\DoAnCoSo\\DoAnCoSo\\Views\\Post\\Index.cshtml",
-              "RelativeDocumentMoniker": "DoAnCoSo\\Views\\Post\\Index.cshtml",
-              "ToolTip": "D:\\DoAnCoSo\\DoAnCoSo\\Views\\Post\\Index.cshtml",
-              "RelativeToolTip": "DoAnCoSo\\Views\\Post\\Index.cshtml",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAAG8AAABZAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-13T07:00:54.183Z",
-              "IsPinned": true,
-              "EditorCaption": ""
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -46,24 +28,22 @@
               "RelativeDocumentMoniker": "DoAnCoSo\\Views\\Post\\Details.cshtml",
               "ToolTip": "D:\\DoAnCoSo\\DoAnCoSo\\Views\\Post\\Details.cshtml",
               "RelativeToolTip": "DoAnCoSo\\Views\\Post\\Details.cshtml",
-              "ViewState": "AQIAABUAAAAAAAAAAAAAACMAAAAMAAAA",
+              "ViewState": "AQIAAEIAAAAAAAAAAAAAAEMAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-13T07:00:55.034Z",
-              "IsPinned": true,
+              "WhenOpened": "2024-04-14T18:59:40.282Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "mystyle.css",
-              "DocumentMoniker": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\css\\mystyle.css",
-              "RelativeDocumentMoniker": "DoAnCoSo\\wwwroot\\css\\mystyle.css",
-              "ToolTip": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\css\\mystyle.css",
-              "RelativeToolTip": "DoAnCoSo\\wwwroot\\css\\mystyle.css",
-              "ViewState": "AQIAAJwCAAAAAAAAAAAAALgCAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-04-13T07:00:57.464Z",
-              "IsPinned": true,
+              "DocumentIndex": 1,
+              "Title": "CommentController.cs",
+              "DocumentMoniker": "D:\\DoAnCoSo\\DoAnCoSo\\Controllers\\CommentController.cs",
+              "RelativeDocumentMoniker": "DoAnCoSo\\Controllers\\CommentController.cs",
+              "ToolTip": "D:\\DoAnCoSo\\DoAnCoSo\\Controllers\\CommentController.cs",
+              "RelativeToolTip": "DoAnCoSo\\Controllers\\CommentController.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAAwDoAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T18:06:57.796Z",
               "EditorCaption": ""
             }
           ]

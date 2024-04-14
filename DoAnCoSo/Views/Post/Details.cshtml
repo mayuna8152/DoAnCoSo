@@ -17,6 +17,9 @@
 <body>
 	<section class="Post" style="margin-top: -150px;">
 		<div class="row">
+			<div id="AlertBox" class="alert @TempData["AlertType"]" role="alert">
+				@TempData["AlertMessage"]
+			</div>
 			<div class="col-md-6">
 				<div class="contain" style="width:800px;height:830px;margin-left:100px;margin-top:-;">
 					<div class="card" style="width: 100%;height:100%;">
@@ -41,7 +44,7 @@
 				</div>
 			</div>
 			<div class="col-md-6">
-				
+
 				<div class="wrapper" style="margin-left:100px;">
 					<div class="item">
 						@foreach (var cmt in Model.Comments)
@@ -55,7 +58,7 @@
 												<img src="~/desgin/Footer/nekoparalogo.png" class="rounded-circle" style="height:75px;width:100px;object-fit:">
 												<div class="d-flex flex-column ml-2" style="margin-left:10px;margin-top:15px;"> <span class="font-weight-bold">Unknown User</span>  </div>
 											</div>
-											<div class="d-flex flex-row mt-1 ellipsis"> <small class="mr-2" style="margin-top:10px">@Model.Date</small> </div>
+											<div class="d-flex flex-row mt-1 ellipsis"> <small class="mr-2" style="margin-top:10px">@cmt.DateTime</small> </div>
 										</div>
 										<div class="p-2" style="text-align:left;margin-left:70px">
 											<p class="text-justify">@cmt.ChatData</p>
@@ -73,22 +76,23 @@
 						<input type="submit" value="Enter" onclick="return validateForm();" style="width: 100px; height: 50px;margin-left:10px;" />
 					</div>
 					<div class="alert alert-warning mt-2" id="warning" style="display: none; width: 300px; height: 40px;margin-left:300px;">Bạn chưa viết bình luận!</div>
+
 				}
 			</div>
 		</div>
 	</section>
 	<script>
-    function validateForm() {
-        var chatData = document.getElementsByName("ChatData")[0].value;
+		function validateForm() {
+			var chatData = document.getElementsByName("ChatData")[0].value;
 
-        if (chatData.trim() === "") {
-            document.getElementById("warning").style.display = "block";
-            return false; // Prevent form submission
-        }
+			if (chatData.trim() === "") {
+				document.getElementById("warning").style.display = "block";
+				return false; // Prevent form submission
+			}
 
-        return true; // Allow form submission
-    }
-</script>
+			return true; // Allow form submission
+		}
+	</script>
 	<script>
 		document.addEventListener("DOMContentLoaded", function () {
 			document.querySelector("textarea[name='ChatData']").addEventListener("keydown", function (event) {
@@ -99,5 +103,12 @@
 			});
 		});
 	</script>
+	<script>
+		// Check if the alert is present and remove the "hide" class
+		if (document.getElementById("AlertBox")) {
+			document.getElementById("AlertBox").classList.remove("hide");
+		}
+	</script>
+	<script src="~/lib/bootstrap/dist/js/bootstrap.min.js"></script>
 </body>
 </html>
