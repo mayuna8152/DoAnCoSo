@@ -29,36 +29,440 @@
       "PackagePath": "staticwebassets\\desgin\\About\\logo.png"
     },
     {
-      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\3DQR\\a.png",
-      "PackagePath": "staticwebassets\\desgin\\Animal\\3DQR\\a.png"
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\3DQR\\GauQR.jpeg",
+      "PackagePath": "staticwebassets\\desgin\\Animal\\3DQR\\GauQR.jpeg"
     },
     {
-      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\Avatar\\a.png",
-      "PackagePath": "staticwebassets\\desgin\\Animal\\Avatar\\a.png"
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\3DQR\\bachtuotQR.jpeg",
+      "PackagePath": "staticwebassets\\desgin\\Animal\\3DQR\\bachtuotQR.jpeg"
     },
     {
-      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\Avatar\\b.png",
-      "PackagePath": "staticwebassets\\desgin\\Animal\\Avatar\\b.png"
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\3DQR\\bonongQR.png",
+      "PackagePath": "staticwebassets\\desgin\\Animal\\3DQR\\bonongQR.png"
     },
     {
-      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\Avatar\\c.png",
-      "PackagePath": "staticwebassets\\desgin\\Animal\\Avatar\\c.png"
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\3DQR\\calocQR.png",
+      "PackagePath": "staticwebassets\\desgin\\Animal\\3DQR\\calocQR.png"
     },
     {
-      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\ListImage\\a.png",
-      "PackagePath": "staticwebassets\\desgin\\Animal\\ListImage\\a.png"
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\3DQR\\camapQR.png",
+      "PackagePath": "staticwebassets\\desgin\\Animal\\3DQR\\camapQR.png"
     },
     {
-      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\ListImage\\b.png",
-      "PackagePath": "staticwebassets\\desgin\\Animal\\ListImage\\b.png"
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\3DQR\\canguQR.png",
+      "PackagePath": "staticwebassets\\desgin\\Animal\\3DQR\\canguQR.png"
     },
     {
-      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\ListImage\\c.png",
-      "PackagePath": "staticwebassets\\desgin\\Animal\\ListImage\\c.png"
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\3DQR\\casauQR.jpeg",
+      "PackagePath": "staticwebassets\\desgin\\Animal\\3DQR\\casauQR.jpeg"
     },
     {
-      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\NoiSinhSong\\a.png",
-      "PackagePath": "staticwebassets\\desgin\\Animal\\NoiSinhSong\\a.png"
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\3DQR\\chimcanhcutQR.png",
+      "PackagePath": "staticwebassets\\desgin\\Animal\\3DQR\\chimcanhcutQR.png"
+    },
+    {
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\3DQR\\cocQR.jpeg",
+      "PackagePath": "staticwebassets\\desgin\\Animal\\3DQR\\cocQR.jpeg"
+    },
+    {
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\3DQR\\daibangQR.png",
+      "PackagePath": "staticwebassets\\desgin\\Animal\\3DQR\\daibangQR.png"
+    },
+    {
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\3DQR\\hoQR.jpeg",
+      "PackagePath": "staticwebassets\\desgin\\Animal\\3DQR\\hoQR.jpeg"
+    },
+    {
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\3DQR\\huoucaocoQR.jpeg",
+      "PackagePath": "staticwebassets\\desgin\\Animal\\3DQR\\huoucaocoQR.jpeg"
+    },
+    {
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\3DQR\\kynhongQR.jpeg",
+      "PackagePath": "staticwebassets\\desgin\\Animal\\3DQR\\kynhongQR.jpeg"
+    },
+    {
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\3DQR\\nhaiQR.jpeg",
+      "PackagePath": "staticwebassets\\desgin\\Animal\\3DQR\\nhaiQR.jpeg"
+    },
+    {
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\3DQR\\ranQR.png",
+      "PackagePath": "staticwebassets\\desgin\\Animal\\3DQR\\ranQR.png"
+    },
+    {
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\3DQR\\suaQR.jpeg",
+      "PackagePath": "staticwebassets\\desgin\\Animal\\3DQR\\suaQR.jpeg"
+    },
+    {
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\3DQR\\thanlanQR.png",
+      "PackagePath": "staticwebassets\\desgin\\Animal\\3DQR\\thanlanQR.png"
+    },
+    {
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\3DQR\\tomQR.jpeg",
+      "PackagePath": "staticwebassets\\desgin\\Animal\\3DQR\\tomQR.jpeg"
+    },
+    {
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\Avatar\\bachtuotAvatar.jpg",
+      "PackagePath": "staticwebassets\\desgin\\Animal\\Avatar\\bachtuotAvatar.jpg"
+    },
+    {
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\Avatar\\bonongAvatar.jpg",
+      "PackagePath": "staticwebassets\\desgin\\Animal\\Avatar\\bonongAvatar.jpg"
+    },
+    {
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\Avatar\\calocAvatar.jpg",
+      "PackagePath": "staticwebassets\\desgin\\Animal\\Avatar\\calocAvatar.jpg"
+    },
+    {
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\Avatar\\camapAvatar.jpg",
+      "PackagePath": "staticwebassets\\desgin\\Animal\\Avatar\\camapAvatar.jpg"
+    },
+    {
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\Avatar\\canguAvatar.jpg",
+      "PackagePath": "staticwebassets\\desgin\\Animal\\Avatar\\canguAvatar.jpg"
+    },
+    {
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\Avatar\\casauAvatar.jpg",
+      "PackagePath": "staticwebassets\\desgin\\Animal\\Avatar\\casauAvatar.jpg"
+    },
+    {
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\Avatar\\chimcanhcutAvatar.jpg",
+      "PackagePath": "staticwebassets\\desgin\\Animal\\Avatar\\chimcanhcutAvatar.jpg"
+    },
+    {
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\Avatar\\cocAvatar.jpg",
+      "PackagePath": "staticwebassets\\desgin\\Animal\\Avatar\\cocAvatar.jpg"
+    },
+    {
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\Avatar\\daibangAvatar.jpg",
+      "PackagePath": "staticwebassets\\desgin\\Animal\\Avatar\\daibangAvatar.jpg"
+    },
+    {
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\Avatar\\gauAvatar.jpg",
+      "PackagePath": "staticwebassets\\desgin\\Animal\\Avatar\\gauAvatar.jpg"
+    },
+    {
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\Avatar\\hoAvatar.jpg",
+      "PackagePath": "staticwebassets\\desgin\\Animal\\Avatar\\hoAvatar.jpg"
+    },
+    {
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\Avatar\\huoucaocoAvatar.jpg",
+      "PackagePath": "staticwebassets\\desgin\\Animal\\Avatar\\huoucaocoAvatar.jpg"
+    },
+    {
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\Avatar\\kynhongAvatar.jpg",
+      "PackagePath": "staticwebassets\\desgin\\Animal\\Avatar\\kynhongAvatar.jpg"
+    },
+    {
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\Avatar\\nhaiAvatar.jpg",
+      "PackagePath": "staticwebassets\\desgin\\Animal\\Avatar\\nhaiAvatar.jpg"
+    },
+    {
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\Avatar\\ranAvatar.jpg",
+      "PackagePath": "staticwebassets\\desgin\\Animal\\Avatar\\ranAvatar.jpg"
+    },
+    {
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\Avatar\\suaAvatar.jpg",
+      "PackagePath": "staticwebassets\\desgin\\Animal\\Avatar\\suaAvatar.jpg"
+    },
+    {
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\Avatar\\thanlanAvatar.jpg",
+      "PackagePath": "staticwebassets\\desgin\\Animal\\Avatar\\thanlanAvatar.jpg"
+    },
+    {
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\Avatar\\tomAvatar.jpg",
+      "PackagePath": "staticwebassets\\desgin\\Animal\\Avatar\\tomAvatar.jpg"
+    },
+    {
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\ListImage\\BachtuotLitst1.jpg",
+      "PackagePath": "staticwebassets\\desgin\\Animal\\ListImage\\BachtuotLitst1.jpg"
+    },
+    {
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\ListImage\\BachtuotLitst2.jpg",
+      "PackagePath": "staticwebassets\\desgin\\Animal\\ListImage\\BachtuotLitst2.jpg"
+    },
+    {
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\ListImage\\BachtuotLitst3.jpg",
+      "PackagePath": "staticwebassets\\desgin\\Animal\\ListImage\\BachtuotLitst3.jpg"
+    },
+    {
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\ListImage\\BoNongList1.jpg",
+      "PackagePath": "staticwebassets\\desgin\\Animal\\ListImage\\BoNongList1.jpg"
+    },
+    {
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\ListImage\\BoNongList2.jpg",
+      "PackagePath": "staticwebassets\\desgin\\Animal\\ListImage\\BoNongList2.jpg"
+    },
+    {
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\ListImage\\BoNongList3.jpg",
+      "PackagePath": "staticwebassets\\desgin\\Animal\\ListImage\\BoNongList3.jpg"
+    },
+    {
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\ListImage\\CaLocList2.jpg",
+      "PackagePath": "staticwebassets\\desgin\\Animal\\ListImage\\CaLocList2.jpg"
+    },
+    {
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\ListImage\\CaLocList3.jpg",
+      "PackagePath": "staticwebassets\\desgin\\Animal\\ListImage\\CaLocList3.jpg"
+    },
+    {
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\ListImage\\CaMapList1.jpg",
+      "PackagePath": "staticwebassets\\desgin\\Animal\\ListImage\\CaMapList1.jpg"
+    },
+    {
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\ListImage\\CaMapList2.jpg",
+      "PackagePath": "staticwebassets\\desgin\\Animal\\ListImage\\CaMapList2.jpg"
+    },
+    {
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\ListImage\\CaMapList3.jpg",
+      "PackagePath": "staticwebassets\\desgin\\Animal\\ListImage\\CaMapList3.jpg"
+    },
+    {
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\ListImage\\CaNguList1.jpg",
+      "PackagePath": "staticwebassets\\desgin\\Animal\\ListImage\\CaNguList1.jpg"
+    },
+    {
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\ListImage\\CaNguList2.jpg",
+      "PackagePath": "staticwebassets\\desgin\\Animal\\ListImage\\CaNguList2.jpg"
+    },
+    {
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\ListImage\\CaNguList3.jpg",
+      "PackagePath": "staticwebassets\\desgin\\Animal\\ListImage\\CaNguList3.jpg"
+    },
+    {
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\ListImage\\CaSauList1.jpg",
+      "PackagePath": "staticwebassets\\desgin\\Animal\\ListImage\\CaSauList1.jpg"
+    },
+    {
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\ListImage\\CaSauList2.jpg",
+      "PackagePath": "staticwebassets\\desgin\\Animal\\ListImage\\CaSauList2.jpg"
+    },
+    {
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\ListImage\\CaSauList3.jpg",
+      "PackagePath": "staticwebassets\\desgin\\Animal\\ListImage\\CaSauList3.jpg"
+    },
+    {
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\ListImage\\CalocList1.jpg",
+      "PackagePath": "staticwebassets\\desgin\\Animal\\ListImage\\CalocList1.jpg"
+    },
+    {
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\ListImage\\ChimCanhCutList1.jpg",
+      "PackagePath": "staticwebassets\\desgin\\Animal\\ListImage\\ChimCanhCutList1.jpg"
+    },
+    {
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\ListImage\\ChimCanhCutList2.jpg",
+      "PackagePath": "staticwebassets\\desgin\\Animal\\ListImage\\ChimCanhCutList2.jpg"
+    },
+    {
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\ListImage\\ChimCanhCutList3.jpg",
+      "PackagePath": "staticwebassets\\desgin\\Animal\\ListImage\\ChimCanhCutList3.jpg"
+    },
+    {
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\ListImage\\CocList1.jpg",
+      "PackagePath": "staticwebassets\\desgin\\Animal\\ListImage\\CocList1.jpg"
+    },
+    {
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\ListImage\\CocList2.jpg",
+      "PackagePath": "staticwebassets\\desgin\\Animal\\ListImage\\CocList2.jpg"
+    },
+    {
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\ListImage\\CocList3.jpg",
+      "PackagePath": "staticwebassets\\desgin\\Animal\\ListImage\\CocList3.jpg"
+    },
+    {
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\ListImage\\DaiBangList1.jpg",
+      "PackagePath": "staticwebassets\\desgin\\Animal\\ListImage\\DaiBangList1.jpg"
+    },
+    {
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\ListImage\\DaiBangList2.jpg",
+      "PackagePath": "staticwebassets\\desgin\\Animal\\ListImage\\DaiBangList2.jpg"
+    },
+    {
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\ListImage\\DaiBangList3.jpg",
+      "PackagePath": "staticwebassets\\desgin\\Animal\\ListImage\\DaiBangList3.jpg"
+    },
+    {
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\ListImage\\GauList1.png",
+      "PackagePath": "staticwebassets\\desgin\\Animal\\ListImage\\GauList1.png"
+    },
+    {
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\ListImage\\GauList2.jpeg",
+      "PackagePath": "staticwebassets\\desgin\\Animal\\ListImage\\GauList2.jpeg"
+    },
+    {
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\ListImage\\GauList3.jpg",
+      "PackagePath": "staticwebassets\\desgin\\Animal\\ListImage\\GauList3.jpg"
+    },
+    {
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\ListImage\\HoList1.jpg",
+      "PackagePath": "staticwebassets\\desgin\\Animal\\ListImage\\HoList1.jpg"
+    },
+    {
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\ListImage\\HoList2.jpg",
+      "PackagePath": "staticwebassets\\desgin\\Animal\\ListImage\\HoList2.jpg"
+    },
+    {
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\ListImage\\HoList3.jpg",
+      "PackagePath": "staticwebassets\\desgin\\Animal\\ListImage\\HoList3.jpg"
+    },
+    {
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\ListImage\\HuoucaocoList3.jpg",
+      "PackagePath": "staticwebassets\\desgin\\Animal\\ListImage\\HuoucaocoList3.jpg"
+    },
+    {
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\ListImage\\HuuCaoCoList1.jpg",
+      "PackagePath": "staticwebassets\\desgin\\Animal\\ListImage\\HuuCaoCoList1.jpg"
+    },
+    {
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\ListImage\\HuuCaoCoList2.jpg",
+      "PackagePath": "staticwebassets\\desgin\\Animal\\ListImage\\HuuCaoCoList2.jpg"
+    },
+    {
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\ListImage\\KyNhongList2.jpg",
+      "PackagePath": "staticwebassets\\desgin\\Animal\\ListImage\\KyNhongList2.jpg"
+    },
+    {
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\ListImage\\KynhongList1.jpg",
+      "PackagePath": "staticwebassets\\desgin\\Animal\\ListImage\\KynhongList1.jpg"
+    },
+    {
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\ListImage\\KynhongList3.jpg",
+      "PackagePath": "staticwebassets\\desgin\\Animal\\ListImage\\KynhongList3.jpg"
+    },
+    {
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\ListImage\\NhaiList1.jpg",
+      "PackagePath": "staticwebassets\\desgin\\Animal\\ListImage\\NhaiList1.jpg"
+    },
+    {
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\ListImage\\NhaiList2.jpg",
+      "PackagePath": "staticwebassets\\desgin\\Animal\\ListImage\\NhaiList2.jpg"
+    },
+    {
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\ListImage\\NhaiList3.jpg",
+      "PackagePath": "staticwebassets\\desgin\\Animal\\ListImage\\NhaiList3.jpg"
+    },
+    {
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\ListImage\\RanList1.jpg",
+      "PackagePath": "staticwebassets\\desgin\\Animal\\ListImage\\RanList1.jpg"
+    },
+    {
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\ListImage\\RanList2.jpg",
+      "PackagePath": "staticwebassets\\desgin\\Animal\\ListImage\\RanList2.jpg"
+    },
+    {
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\ListImage\\RanList3.jpg",
+      "PackagePath": "staticwebassets\\desgin\\Animal\\ListImage\\RanList3.jpg"
+    },
+    {
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\ListImage\\SuaList1.jpg",
+      "PackagePath": "staticwebassets\\desgin\\Animal\\ListImage\\SuaList1.jpg"
+    },
+    {
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\ListImage\\SuaList2.jpg",
+      "PackagePath": "staticwebassets\\desgin\\Animal\\ListImage\\SuaList2.jpg"
+    },
+    {
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\ListImage\\SuaList3.jpg",
+      "PackagePath": "staticwebassets\\desgin\\Animal\\ListImage\\SuaList3.jpg"
+    },
+    {
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\ListImage\\ThanLanList1.jpg",
+      "PackagePath": "staticwebassets\\desgin\\Animal\\ListImage\\ThanLanList1.jpg"
+    },
+    {
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\ListImage\\ThanLanList2.jpg",
+      "PackagePath": "staticwebassets\\desgin\\Animal\\ListImage\\ThanLanList2.jpg"
+    },
+    {
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\ListImage\\ThanLanList3.jpg",
+      "PackagePath": "staticwebassets\\desgin\\Animal\\ListImage\\ThanLanList3.jpg"
+    },
+    {
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\ListImage\\TomList1.jpg",
+      "PackagePath": "staticwebassets\\desgin\\Animal\\ListImage\\TomList1.jpg"
+    },
+    {
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\ListImage\\TomList2.jpg",
+      "PackagePath": "staticwebassets\\desgin\\Animal\\ListImage\\TomList2.jpg"
+    },
+    {
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\ListImage\\TomList3.jpg",
+      "PackagePath": "staticwebassets\\desgin\\Animal\\ListImage\\TomList3.jpg"
+    },
+    {
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\NoiSinhSong\\bachtuotNSS.png",
+      "PackagePath": "staticwebassets\\desgin\\Animal\\NoiSinhSong\\bachtuotNSS.png"
+    },
+    {
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\NoiSinhSong\\bonongNSS.png",
+      "PackagePath": "staticwebassets\\desgin\\Animal\\NoiSinhSong\\bonongNSS.png"
+    },
+    {
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\NoiSinhSong\\calocNSS.png",
+      "PackagePath": "staticwebassets\\desgin\\Animal\\NoiSinhSong\\calocNSS.png"
+    },
+    {
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\NoiSinhSong\\camapNSS.png",
+      "PackagePath": "staticwebassets\\desgin\\Animal\\NoiSinhSong\\camapNSS.png"
+    },
+    {
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\NoiSinhSong\\canguNSS.png",
+      "PackagePath": "staticwebassets\\desgin\\Animal\\NoiSinhSong\\canguNSS.png"
+    },
+    {
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\NoiSinhSong\\casauNSS.png",
+      "PackagePath": "staticwebassets\\desgin\\Animal\\NoiSinhSong\\casauNSS.png"
+    },
+    {
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\NoiSinhSong\\chimcanhcutNSS.png",
+      "PackagePath": "staticwebassets\\desgin\\Animal\\NoiSinhSong\\chimcanhcutNSS.png"
+    },
+    {
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\NoiSinhSong\\cocNSS.png",
+      "PackagePath": "staticwebassets\\desgin\\Animal\\NoiSinhSong\\cocNSS.png"
+    },
+    {
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\NoiSinhSong\\daibangNSS.png",
+      "PackagePath": "staticwebassets\\desgin\\Animal\\NoiSinhSong\\daibangNSS.png"
+    },
+    {
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\NoiSinhSong\\desktop.ini",
+      "PackagePath": "staticwebassets\\desgin\\Animal\\NoiSinhSong\\desktop.ini"
+    },
+    {
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\NoiSinhSong\\gauNSS.png",
+      "PackagePath": "staticwebassets\\desgin\\Animal\\NoiSinhSong\\gauNSS.png"
+    },
+    {
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\NoiSinhSong\\hoNSS.png",
+      "PackagePath": "staticwebassets\\desgin\\Animal\\NoiSinhSong\\hoNSS.png"
+    },
+    {
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\NoiSinhSong\\huoucaocoNSS.png",
+      "PackagePath": "staticwebassets\\desgin\\Animal\\NoiSinhSong\\huoucaocoNSS.png"
+    },
+    {
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\NoiSinhSong\\kynhongNSS.png",
+      "PackagePath": "staticwebassets\\desgin\\Animal\\NoiSinhSong\\kynhongNSS.png"
+    },
+    {
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\NoiSinhSong\\nhaiNSS.png",
+      "PackagePath": "staticwebassets\\desgin\\Animal\\NoiSinhSong\\nhaiNSS.png"
+    },
+    {
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\NoiSinhSong\\ranNSS.png",
+      "PackagePath": "staticwebassets\\desgin\\Animal\\NoiSinhSong\\ranNSS.png"
+    },
+    {
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\NoiSinhSong\\suaNSS.png",
+      "PackagePath": "staticwebassets\\desgin\\Animal\\NoiSinhSong\\suaNSS.png"
+    },
+    {
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\NoiSinhSong\\thanlanNSS.png",
+      "PackagePath": "staticwebassets\\desgin\\Animal\\NoiSinhSong\\thanlanNSS.png"
+    },
+    {
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\NoiSinhSong\\tomNSS.png",
+      "PackagePath": "staticwebassets\\desgin\\Animal\\NoiSinhSong\\tomNSS.png"
     },
     {
       "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\ClassAnimal\\Background\\ca.gif",
