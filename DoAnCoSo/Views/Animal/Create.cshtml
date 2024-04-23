@@ -1,0 +1,66 @@
+﻿@model DoAnCoSo.Models.Animal
+
+@{
+    ViewData["Title"] = "Create";
+}
+
+<h1>Create</h1>
+<h4>Animal</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Create" enctype="multipart/form-data">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="Name" class="control-label"></label>
+                <input asp-for="Name" class="form-control" />
+                <span asp-validation-for="Name" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="GioiThieuText" class="control-label"></label>
+                <input asp-for="GioiThieuText" class="form-control" />
+                <span asp-validation-for="GioiThieuText" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="NoiSinhSongSongText" class="control-label"></label>
+                <input asp-for="NoiSinhSongSongText" class="form-control" />
+                <span asp-validation-for="NoiSinhSongSongText" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="NgoaiHinhText" class="control-label"></label>
+                <input asp-for="NgoaiHinhText" class="form-control" />
+                <span asp-validation-for="NgoaiHinhText" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Avatar" class="control-label"></label>
+                <input asp-for="Avatar" type="file" class="form-control" />
+                <span asp-validation-for="Avatar" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="NoiSinhSongImage" class="control-label"></label>
+                <input asp-for="NoiSinhSongImage" type="file" class="form-control" />
+                <span asp-validation-for="NoiSinhSongImage" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="ImgQR3D" class="control-label"></label>
+                <input asp-for="ImgQR3D" type="file" class="form-control" />
+                <span asp-validation-for="ImgQR3D" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="AnimalImages" class="control-label"></label>
+                <input asp-for="AnimalImages" type="file" multiple class="form-control" />
+                <span asp-validation-for="AnimalImages" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="IdClass" class="control-label"></label>
+                <select asp-for="IdClass" class="form-control" asp-items="ViewBag.ClassAnimals"></select>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Create" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>

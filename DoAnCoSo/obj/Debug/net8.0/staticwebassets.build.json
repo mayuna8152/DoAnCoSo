@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "if19OMWwhuF/RGCsY0Boko9md5uhu3e2ygfBG04cBC8=",
+  "Hash": "PmIPyCYct0kw5Id2Fhz+UqlBXbmiGHktfzVw/tSnEFE=",
   "Source": "DoAnCoSo",
   "BasePath": "_content/DoAnCoSo",
   "Mode": "Default",
@@ -150,12 +150,12 @@
       "OriginalItemSpec": "wwwroot\\desgin\\About\\logo.png"
     },
     {
-      "Identity": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\3DQR\\bachtuotQR.jpeg",
+      "Identity": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\3DQR\\2AE14CDD-1265-470C-9B15F49024186C10_source.webp",
       "SourceId": "DoAnCoSo",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\",
       "BasePath": "_content/DoAnCoSo",
-      "RelativePath": "desgin/Animal/3DQR/bachtuotQR.jpeg",
+      "RelativePath": "desgin/Animal/3DQR/2AE14CDD-1265-470C-9B15F49024186C10_source.webp",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -166,7 +166,45 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\desgin\\Animal\\3DQR\\bachtuotQR.jpeg"
+      "OriginalItemSpec": "wwwroot\\desgin\\Animal\\3DQR\\2AE14CDD-1265-470C-9B15F49024186C10_source.webp"
+    },
+    {
+      "Identity": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\3DQR\\4fd69991e4ab48f511ba.jpg",
+      "SourceId": "DoAnCoSo",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\",
+      "BasePath": "_content/DoAnCoSo",
+      "RelativePath": "desgin/Animal/3DQR/4fd69991e4ab48f511ba.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\desgin\\Animal\\3DQR\\4fd69991e4ab48f511ba.jpg"
+    },
+    {
+      "Identity": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\3DQR\\bachtuotQR.png",
+      "SourceId": "DoAnCoSo",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\",
+      "BasePath": "_content/DoAnCoSo",
+      "RelativePath": "desgin/Animal/3DQR/bachtuotQR.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\desgin\\Animal\\3DQR\\bachtuotQR.png"
     },
     {
       "Identity": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\3DQR\\bonongQR.png",
@@ -245,12 +283,12 @@
       "OriginalItemSpec": "wwwroot\\desgin\\Animal\\3DQR\\canguQR.png"
     },
     {
-      "Identity": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\3DQR\\casauQR.jpeg",
+      "Identity": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\3DQR\\casauQR.png",
       "SourceId": "DoAnCoSo",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\",
       "BasePath": "_content/DoAnCoSo",
-      "RelativePath": "desgin/Animal/3DQR/casauQR.jpeg",
+      "RelativePath": "desgin/Animal/3DQR/casauQR.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -261,7 +299,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\desgin\\Animal\\3DQR\\casauQR.jpeg"
+      "OriginalItemSpec": "wwwroot\\desgin\\Animal\\3DQR\\casauQR.png"
     },
     {
       "Identity": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\3DQR\\chimcanhcutQR.png",
@@ -283,12 +321,12 @@
       "OriginalItemSpec": "wwwroot\\desgin\\Animal\\3DQR\\chimcanhcutQR.png"
     },
     {
-      "Identity": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\3DQR\\cocQR.jpeg",
+      "Identity": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\3DQR\\cocQR.png",
       "SourceId": "DoAnCoSo",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\",
       "BasePath": "_content/DoAnCoSo",
-      "RelativePath": "desgin/Animal/3DQR/cocQR.jpeg",
+      "RelativePath": "desgin/Animal/3DQR/cocQR.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -299,7 +337,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\desgin\\Animal\\3DQR\\cocQR.jpeg"
+      "OriginalItemSpec": "wwwroot\\desgin\\Animal\\3DQR\\cocQR.png"
     },
     {
       "Identity": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\3DQR\\daibangQR.png",
@@ -321,12 +359,12 @@
       "OriginalItemSpec": "wwwroot\\desgin\\Animal\\3DQR\\daibangQR.png"
     },
     {
-      "Identity": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\3DQR\\GauQR.jpeg",
+      "Identity": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\3DQR\\GauQR.png",
       "SourceId": "DoAnCoSo",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\",
       "BasePath": "_content/DoAnCoSo",
-      "RelativePath": "desgin/Animal/3DQR/GauQR.jpeg",
+      "RelativePath": "desgin/Animal/3DQR/GauQR.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -337,15 +375,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\desgin\\Animal\\3DQR\\GauQR.jpeg"
+      "OriginalItemSpec": "wwwroot\\desgin\\Animal\\3DQR\\GauQR.png"
     },
     {
-      "Identity": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\3DQR\\hoQR.jpeg",
+      "Identity": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\3DQR\\hoQR.png",
       "SourceId": "DoAnCoSo",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\",
       "BasePath": "_content/DoAnCoSo",
-      "RelativePath": "desgin/Animal/3DQR/hoQR.jpeg",
+      "RelativePath": "desgin/Animal/3DQR/hoQR.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -356,15 +394,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\desgin\\Animal\\3DQR\\hoQR.jpeg"
+      "OriginalItemSpec": "wwwroot\\desgin\\Animal\\3DQR\\hoQR.png"
     },
     {
-      "Identity": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\3DQR\\huoucaocoQR.jpeg",
+      "Identity": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\3DQR\\huoucaocoQR.png",
       "SourceId": "DoAnCoSo",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\",
       "BasePath": "_content/DoAnCoSo",
-      "RelativePath": "desgin/Animal/3DQR/huoucaocoQR.jpeg",
+      "RelativePath": "desgin/Animal/3DQR/huoucaocoQR.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -375,15 +413,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\desgin\\Animal\\3DQR\\huoucaocoQR.jpeg"
+      "OriginalItemSpec": "wwwroot\\desgin\\Animal\\3DQR\\huoucaocoQR.png"
     },
     {
-      "Identity": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\3DQR\\kynhongQR.jpeg",
+      "Identity": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\3DQR\\kynhongQR.png",
       "SourceId": "DoAnCoSo",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\",
       "BasePath": "_content/DoAnCoSo",
-      "RelativePath": "desgin/Animal/3DQR/kynhongQR.jpeg",
+      "RelativePath": "desgin/Animal/3DQR/kynhongQR.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -394,15 +432,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\desgin\\Animal\\3DQR\\kynhongQR.jpeg"
+      "OriginalItemSpec": "wwwroot\\desgin\\Animal\\3DQR\\kynhongQR.png"
     },
     {
-      "Identity": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\3DQR\\nhaiQR.jpeg",
+      "Identity": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\3DQR\\nhaiQR.png",
       "SourceId": "DoAnCoSo",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\",
       "BasePath": "_content/DoAnCoSo",
-      "RelativePath": "desgin/Animal/3DQR/nhaiQR.jpeg",
+      "RelativePath": "desgin/Animal/3DQR/nhaiQR.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -413,7 +451,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\desgin\\Animal\\3DQR\\nhaiQR.jpeg"
+      "OriginalItemSpec": "wwwroot\\desgin\\Animal\\3DQR\\nhaiQR.png"
     },
     {
       "Identity": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\3DQR\\ranQR.png",
@@ -435,12 +473,12 @@
       "OriginalItemSpec": "wwwroot\\desgin\\Animal\\3DQR\\ranQR.png"
     },
     {
-      "Identity": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\3DQR\\suaQR.jpeg",
+      "Identity": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\3DQR\\suaQR.png",
       "SourceId": "DoAnCoSo",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\",
       "BasePath": "_content/DoAnCoSo",
-      "RelativePath": "desgin/Animal/3DQR/suaQR.jpeg",
+      "RelativePath": "desgin/Animal/3DQR/suaQR.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -451,7 +489,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\desgin\\Animal\\3DQR\\suaQR.jpeg"
+      "OriginalItemSpec": "wwwroot\\desgin\\Animal\\3DQR\\suaQR.png"
     },
     {
       "Identity": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\3DQR\\thanlanQR.png",
@@ -473,12 +511,12 @@
       "OriginalItemSpec": "wwwroot\\desgin\\Animal\\3DQR\\thanlanQR.png"
     },
     {
-      "Identity": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\3DQR\\tomQR.jpeg",
+      "Identity": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\3DQR\\tomQR.png",
       "SourceId": "DoAnCoSo",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\",
       "BasePath": "_content/DoAnCoSo",
-      "RelativePath": "desgin/Animal/3DQR/tomQR.jpeg",
+      "RelativePath": "desgin/Animal/3DQR/tomQR.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -489,7 +527,26 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\desgin\\Animal\\3DQR\\tomQR.jpeg"
+      "OriginalItemSpec": "wwwroot\\desgin\\Animal\\3DQR\\tomQR.png"
+    },
+    {
+      "Identity": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\Avatar\\2AE14CDD-1265-470C-9B15F49024186C10_source.webp",
+      "SourceId": "DoAnCoSo",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\",
+      "BasePath": "_content/DoAnCoSo",
+      "RelativePath": "desgin/Animal/Avatar/2AE14CDD-1265-470C-9B15F49024186C10_source.webp",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\desgin\\Animal\\Avatar\\2AE14CDD-1265-470C-9B15F49024186C10_source.webp"
     },
     {
       "Identity": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\Avatar\\bachtuotAvatar.jpg",
@@ -1860,6 +1917,25 @@
       "OriginalItemSpec": "wwwroot\\desgin\\Animal\\ListImage\\TomList3.jpg"
     },
     {
+      "Identity": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\NoiSinhSong\\2AE14CDD-1265-470C-9B15F49024186C10_source.webp",
+      "SourceId": "DoAnCoSo",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\",
+      "BasePath": "_content/DoAnCoSo",
+      "RelativePath": "desgin/Animal/NoiSinhSong/2AE14CDD-1265-470C-9B15F49024186C10_source.webp",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\desgin\\Animal\\NoiSinhSong\\2AE14CDD-1265-470C-9B15F49024186C10_source.webp"
+    },
+    {
       "Identity": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\NoiSinhSong\\bachtuotNSS.png",
       "SourceId": "DoAnCoSo",
       "SourceType": "Discovered",
@@ -2791,6 +2867,44 @@
       "OriginalItemSpec": "wwwroot\\desgin\\Post\\Upload\\1248-mien-dat-cua-the-lion-king-160705.jpg"
     },
     {
+      "Identity": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Post\\Upload\\244942604-759eac25-0394-4859-9da7-15dc271f16f2.mov",
+      "SourceId": "DoAnCoSo",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\",
+      "BasePath": "_content/DoAnCoSo",
+      "RelativePath": "desgin/Post/Upload/244942604-759eac25-0394-4859-9da7-15dc271f16f2.mov",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\desgin\\Post\\Upload\\244942604-759eac25-0394-4859-9da7-15dc271f16f2.mov"
+    },
+    {
+      "Identity": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Post\\Upload\\2AE14CDD-1265-470C-9B15F49024186C10_source.webp",
+      "SourceId": "DoAnCoSo",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\",
+      "BasePath": "_content/DoAnCoSo",
+      "RelativePath": "desgin/Post/Upload/2AE14CDD-1265-470C-9B15F49024186C10_source.webp",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\desgin\\Post\\Upload\\2AE14CDD-1265-470C-9B15F49024186C10_source.webp"
+    },
+    {
       "Identity": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Post\\Upload\\ai-generated-illustration-wildlife-concept-blue-ring-octopus-blue-ring-octopus-made-generative-ai-illustration-293697666 .jpg",
       "SourceId": "DoAnCoSo",
       "SourceType": "Discovered",
@@ -2827,6 +2941,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\desgin\\Post\\Upload\\Cat03.jpg"
+    },
+    {
+      "Identity": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Post\\Upload\\cd4e953f0a6baff9f4b2cf7a683d2924.gif",
+      "SourceId": "DoAnCoSo",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\",
+      "BasePath": "_content/DoAnCoSo",
+      "RelativePath": "desgin/Post/Upload/cd4e953f0a6baff9f4b2cf7a683d2924.gif",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\desgin\\Post\\Upload\\cd4e953f0a6baff9f4b2cf7a683d2924.gif"
     },
     {
       "Identity": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Post\\Upload\\Elephant_WWF_Living_Planet_Report_0.jpg",

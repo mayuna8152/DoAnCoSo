@@ -15,7 +15,7 @@ namespace DoAnCoSo.Models
         public string Title { get; set; }
        
         [DisplayName("Ngày tháng năm")]
-        public DateTime Date { get; set; } // Thêm trường ngày vào đây
+        public DateTime Date { get; set; } 
         
         [DisplayName("Ảnh QR và video")]
         public string ImageQRVideo { get; set; }

@@ -12,7 +12,6 @@ namespace DoAnCoSo.Models
         [DisplayName("ID động vật")]
         public int IdAnimal { get; set; }
 
-        [Required(ErrorMessage = "Tên mã động vật bắt buộc")]
         [DisplayName("Tên động vật")]
         public string Name { get; set; }
 
@@ -38,11 +37,11 @@ namespace DoAnCoSo.Models
         public string ImgQR3D { get; set; }
 
         [ForeignKey("ClassAnimal")]
-        [DisplayName("Mã DV")]
-        public int IdClassAnimal { get; set; }
+        [DisplayName("ID ClassAnimal")]
+        public int IdClass { get; set; }
 
-        [DisplayName("Mã DV")]
-        public ClassAnimal ClassAnimal { get; set; }
+        [DisplayName("ClassAnimal")]
+        public ClassAnimal? ClassAnimal { get; set; }
 
     }
 

@@ -38,7 +38,7 @@ namespace DoAnCoSo.Migrations
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
-                    b.Property<int>("IdClassAnimal")
+                    b.Property<int>("IdClass")
                         .HasColumnType("int");
 
                     b.Property<string>("ImgQR3D")
@@ -63,7 +63,7 @@ namespace DoAnCoSo.Migrations
 
                     b.HasKey("IdAnimal");
 
-                    b.HasIndex("IdClassAnimal");
+                    b.HasIndex("IdClass");
 
                     b.ToTable("Animals");
                 });
@@ -171,7 +171,7 @@ namespace DoAnCoSo.Migrations
                 {
                     b.HasOne("DoAnCoSo.Models.ClassAnimal", "ClassAnimal")
                         .WithMany("Animals")
-                        .HasForeignKey("IdClassAnimal")
+                        .HasForeignKey("IdClass")
                         .OnDelete(DeleteBehavior.Cascade)
                         .IsRequired();
 

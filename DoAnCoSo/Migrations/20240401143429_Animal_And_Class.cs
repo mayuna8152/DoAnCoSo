@@ -44,7 +44,8 @@ namespace DoAnCoSo.Migrations
                 name: "Animals",
                 columns: table => new
                 {
-                    IdAnimal = table.Column<int>(type: "int", nullable: false),
+                    IdAnimal = table.Column<int>(type: "int", nullable: false)
+                        .Annotation("SqlServer:Identity", "1, 1"),
                     Name = table.Column<string>(type: "nvarchar(max)", nullable: false),
                     GioiThieuText = table.Column<string>(type: "nvarchar(max)", nullable: false),
                     NoiSinhSongSongText = table.Column<string>(type: "nvarchar(max)", nullable: false),
@@ -52,14 +53,14 @@ namespace DoAnCoSo.Migrations
                     Avatar = table.Column<string>(type: "nvarchar(max)", nullable: false),
                     NoiSinhSongImage = table.Column<string>(type: "nvarchar(max)", nullable: false),
                     ImgQR3D = table.Column<string>(type: "nvarchar(max)", nullable: false),
-                    IdClassAnimal = table.Column<int>(type: "int", nullable: false)
+                    IdClass = table.Column<int>(type: "int", nullable: false)
                 },
                 constraints: table =>
                 {
                     table.PrimaryKey("PK_Animals", x => x.IdAnimal);
                     table.ForeignKey(
-                        name: "FK_Animals_ClassAnimals_IdClassAnimal",
-                        column: x => x.IdClassAnimal,
+                        name: "FK_Animals_ClassAnimals_IdClass",
+                        column: x => x.IdClass,
                         principalTable: "ClassAnimals",
                         principalColumn: "IdClass",
                         onDelete: ReferentialAction.Cascade);
@@ -112,9 +113,9 @@ namespace DoAnCoSo.Migrations
                 column: "AnimalsIdAnimal");
 
             migrationBuilder.CreateIndex(
-                name: "IX_Animals_IdClassAnimal",
+                name: "IX_Animals_IdClass",
                 table: "Animals",
-                column: "IdClassAnimal");
+                column: "IdClass");
 
             migrationBuilder.CreateIndex(
                 name: "IX_Comments_IdPost",

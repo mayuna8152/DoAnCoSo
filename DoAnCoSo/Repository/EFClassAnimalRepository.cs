@@ -14,7 +14,7 @@ namespace DoAnCoSo.Repository
         {
             return await _context.ClassAnimals.Include(x => x.Animals).ToListAsync();
         }
-
+            
         public async Task<ClassAnimal> GetByIdAsync(int id)
         {
             return await _context.ClassAnimals.Include(x => x.Animals).SingleOrDefaultAsync(x => x.IdClass == id);

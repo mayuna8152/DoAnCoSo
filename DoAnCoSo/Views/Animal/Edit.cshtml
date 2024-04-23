@@ -1,0 +1,66 @@
+﻿@model DoAnCoSo.Models.Animal
+
+@{
+    ViewData["Title"] = "Edit";
+}
+
+<h1>Update</h1>
+
+<h4>Animal</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Edit">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <input type="hidden" asp-for="IdAnimal" />
+            <div class="form-group">
+                <label asp-for="Name" class="control-label"></label>
+                <input asp-for="Name" class="form-control" />
+                <span asp-validation-for="Name" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="GioiThieuText" class="control-label"></label>
+                <input asp-for="GioiThieuText" class="form-control" />
+                <span asp-validation-for="GioiThieuText" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="NoiSinhSongSongText" class="control-label"></label>
+                <input asp-for="NoiSinhSongSongText" class="form-control" />
+                <span asp-validation-for="NoiSinhSongSongText" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="NgoaiHinhText" class="control-label"></label>
+                <input asp-for="NgoaiHinhText" class="form-control" />
+                <span asp-validation-for="NgoaiHinhText" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Avatar" class="control-label"></label>
+                <input type="hidden" asp-for="Avatar" class="form-control" />
+                <span asp-validation-for="Avatar" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="NoiSinhSongImage" class="control-label"></label>
+                <input type="hidden" asp-for="NoiSinhSongImage" class="form-control" />
+                <span asp-validation-for="NoiSinhSongImage" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="ImgQR3D" class="control-label"></label>
+                <input type="hidden" asp-for="ImgQR3D" class="form-control" />
+                <span asp-validation-for="ImgQR3D" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="IdClass" class="control-label"></label>
+                <input type="hidden" asp-for="IdClass" class="form-control" />
+                <span asp-validation-for="IdClass" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Save" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+

@@ -9,6 +9,7 @@ builder.Services.AddScoped<IAnimalRepository, EFAnimalRepository>();
 builder.Services.AddScoped<IClassAnimalRepository, EFClassAnimalRepository>();
 builder.Services.AddScoped<ICommentRepository, EFCommentRepository>();
 builder.Services.AddScoped<IPostRepository, EFPostRepository>();
+builder.Services.AddScoped<IAnimalImageRepository, EFAnimalImageRepository>();
 
 
 // Add services to the container.

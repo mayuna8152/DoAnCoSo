@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Diagnostics;
 using System.Net.Http;
 using System.Text;
 using System.Text.Json;
@@ -6,6 +7,7 @@ using System.Threading.Tasks;
 using DoAnCoSo.Models;
 using DoAnCoSo.Repository;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.AspNetCore.Mvc.Rendering;
 
 namespace DoAnCoSo.Controllers
 {
@@ -101,5 +103,29 @@ namespace DoAnCoSo.Controllers
 				return 0;
 			}
 		}
-	}
+        public async Task<IActionResult> Create()
+        {
+            var posts = await _postRepository.GetAllAsync();
+            ViewBag.Posts = new SelectList(posts, "IdPost", "Title");
+            Debug.WriteLine("Hello: ");
+            return View();
+        }
+
+        [HttpPost]
+        public async Task<IActionResult> Create(Comment comment)
+        {
+            
+            if (ModelState.IsValid)
+            {
+                _context.Comments.Add(comment);
+                await _context.SaveChangesAsync();
+                return RedirectToAction("Index");
+            }
+
+            var posts = await _postRepository.GetAllAsync();
+            ViewBag.Posts = new SelectList(posts, "IdPost", "Title");
+            Debug.WriteLine("Fail to add ");
+            return View(comment);
+        }
+    }
 }
