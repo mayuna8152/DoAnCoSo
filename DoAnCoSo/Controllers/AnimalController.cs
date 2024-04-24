@@ -1,5 +1,6 @@
 ﻿using DoAnCoSo.Models;
 using DoAnCoSo.Repository;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Rendering;
 using Microsoft.EntityFrameworkCore;
@@ -48,6 +49,8 @@ namespace DoAnCoSo.Controllers
 
             return View(animals);
         }
+
+        [Authorize(Roles = "Admin")]
         public async Task<IActionResult> Create()
         {
             var classAnimals = await _classanimalRepository.GetAllAsync();
@@ -57,6 +60,7 @@ namespace DoAnCoSo.Controllers
         }
 
         [HttpPost]
+        [Authorize(Roles = "Admin")]
         public async Task<IActionResult> Create(Animal animal, [FromForm] IFormFile Avatar, [FromForm] IFormFile ImgQR3D, [FromForm] IFormFile NoiSinhSongImage, [FromForm] List<IFormFile> AnimalImages)
         {
             if (ImgQR3D != null && NoiSinhSongImage != null && Avatar != null)
@@ -103,6 +107,8 @@ namespace DoAnCoSo.Controllers
             return View(animal);
 
         }
+
+        [Authorize(Roles = "Admin")]
         public async Task<IActionResult> Edit(int id)
         {
             var animal = await _animalRepository.GetByIdAsync(id);
@@ -116,7 +122,9 @@ namespace DoAnCoSo.Controllers
             return View(animal);
         }
 
+
         [HttpPost]
+        [Authorize(Roles = "Admin")]
         public async Task<IActionResult> Edit(int id, Animal animal)
         {
             if (id != animal.IdAnimal)
@@ -127,6 +135,7 @@ namespace DoAnCoSo.Controllers
             await _animalRepository.UpdateAsync(animal);
             return RedirectToAction(nameof(Index));
         }
+        [Authorize(Roles = "Admin")]
         public async Task<IActionResult> Delete(int id)
         {
             var animal = await _animalRepository.GetByIdAsync(id);
@@ -138,6 +147,7 @@ namespace DoAnCoSo.Controllers
         }
 
         [HttpPost, ActionName("Delete")]
+        [Authorize(Roles = "Admin")]
         public async Task<IActionResult> DeleteConfirmed(int id)
         {
             await _animalRepository.DeleteAsync(id);

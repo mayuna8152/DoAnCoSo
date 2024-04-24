@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\DoAnCoSo\\DoAnCoSo\\DoAnCoSo.csproj": {}
+    "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\DoAnCoSo.csproj": {}
   },
   "projects": {
-    "D:\\DoAnCoSo\\DoAnCoSo\\DoAnCoSo.csproj": {
+    "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\DoAnCoSo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\DoAnCoSo\\DoAnCoSo\\DoAnCoSo.csproj",
+        "projectUniqueName": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\DoAnCoSo.csproj",
         "projectName": "DoAnCoSo",
-        "projectPath": "D:\\DoAnCoSo\\DoAnCoSo\\DoAnCoSo.csproj",
-        "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
-        "outputPath": "D:\\DoAnCoSo\\DoAnCoSo\\obj\\",
+        "projectPath": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\DoAnCoSo.csproj",
+        "packagesPath": "C:\\Users\\sosfe\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\ASUS\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\sosfe\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -45,6 +45,14 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.4, )"
+            },
+            "Microsoft.AspNetCore.Identity.UI": {
+              "target": "Package",
+              "version": "[8.0.4, )"
+            },
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
               "version": "[8.0.4, )"
@@ -56,6 +64,10 @@
               "version": "[8.0.4, )"
             },
             "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[8.0.4, )"
+            },
+            "Microsoft.EntityFrameworkCore.Sqlite": {
               "target": "Package",
               "version": "[8.0.4, )"
             },

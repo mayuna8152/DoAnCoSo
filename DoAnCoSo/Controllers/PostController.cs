@@ -1,5 +1,6 @@
 ﻿using DoAnCoSo.Models;
 using DoAnCoSo.Repository;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 
 namespace DoAnCoSo.Controllers
@@ -28,6 +29,7 @@ namespace DoAnCoSo.Controllers
 		}
 
         [HttpPost]
+        [Authorize(Roles = "Admin")]
         public async Task<IActionResult> Create(PostViewModel viewModel, IFormFile imageQRVideo)
         {
             if (imageQRVideo != null && imageQRVideo.Length > 0)

@@ -6,6 +6,7 @@ using System.Text.Json;
 using System.Threading.Tasks;
 using DoAnCoSo.Models;
 using DoAnCoSo.Repository;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Rendering;
 
@@ -45,7 +46,8 @@ namespace DoAnCoSo.Controllers
 		}
 
 		[HttpPost]
-		public async Task<IActionResult> AddComment(int IdPost, string ChatData)
+        [Authorize(Roles = "Admin")]
+        public async Task<IActionResult> AddComment(int IdPost, string ChatData)
 		{
 			var post = await _postRepository.GetByIdAsync(IdPost);
 			if (post == null)
@@ -103,6 +105,7 @@ namespace DoAnCoSo.Controllers
 				return 0;
 			}
 		}
+        [Authorize(Roles = "Admin")]
         public async Task<IActionResult> Create()
         {
             var posts = await _postRepository.GetAllAsync();
@@ -112,6 +115,7 @@ namespace DoAnCoSo.Controllers
         }
 
         [HttpPost]
+        [Authorize(Roles = "Admin")]
         public async Task<IActionResult> Create(Comment comment)
         {
             

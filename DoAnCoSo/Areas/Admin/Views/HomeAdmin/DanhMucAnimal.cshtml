@@ -1,0 +1,98 @@
+﻿@model IEnumerable<DoAnCoSo.Models.Animal>
+
+
+@{
+    ViewData["Title"] = "DanhMucAnimal";
+    Layout = "~/Areas/Admin/Views/Shared/_LayoutAdmin.cshtml";
+}
+<style>
+    .table td {
+        max-width: 200px; /* Set the maximum width for each cell */
+        white-space: nowrap; /* Prevent text from wrapping */
+        overflow: hidden; /* Hide overflow text */
+        text-overflow: ellipsis; /* Display ellipsis (...) for overflow text */
+      
+       
+    }
+</style>
+@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
+<h1>Danh Muc Animal</h1>
+<p>
+    <a asp-action="AddAnimal">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr class="table-warning">
+            <th>
+                @Html.DisplayNameFor(model => model.Name)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.GioiThieuText)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.NoiSinhSongSongText)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.NgoaiHinhText)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Avatar)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.NoiSinhSongImage)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.ImgQR3D)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.ClassAnimal)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @{
+            int i = 0;
+            string @cls = "table-success";
+        }
+@foreach (var item in Model) {
+            i = i + 1;
+            cls = "table-success";
+            if(i%2 == 0)
+            {
+                cls= "table-primary";
+            }
+            <tr class="@cls">
+            <td>
+                @Html.DisplayFor(modelItem => item.Name)
+            </td>
+             <td >
+                @Html.DisplayFor(modelItem => item.GioiThieuText)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.NoiSinhSongSongText)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.NgoaiHinhText)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Avatar)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.NoiSinhSongImage)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.ImgQR3D)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.ClassAnimal.IdClass)
+            </td>
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.IdAnimal">Edit</a> |
+                <a asp-action="Details" asp-route-id="@item.IdAnimal">Details</a> |
+                <a asp-action="Delete" asp-route-id="@item.IdAnimal">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>
