@@ -1,5 +1,4 @@
-﻿@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
-@model DoAnCoSo.Models.Animal
+﻿@model DoAnCoSo.Models.Animal
 
 @{
     ViewData["Title"] = "Delete";
@@ -63,7 +62,7 @@
         </dd>
     </dl>
     
-    <form asp-action="Delete">
+    <form asp-action="Delete" asp-route-id="@Model.IdAnimal" method="post">
         <input type="hidden" asp-for="IdAnimal" />
         <input type="submit" value="Delete" class="btn btn-danger" /> |
         <a asp-action="DanhMucAnimal">Back to List</a>

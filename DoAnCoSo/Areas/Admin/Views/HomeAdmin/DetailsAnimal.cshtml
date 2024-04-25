@@ -1,0 +1,68 @@
+﻿@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
+@model DoAnCoSo.Models.Animal
+
+@{
+    ViewData["Title"] = "DetailsAnimal";
+    Layout = "~/Areas/Admin/Views/Shared/_LayoutAdmin.cshtml";
+}
+
+<h1>DetailsAnimal</h1>
+
+<div>
+    <h4>Animal</h4>
+    <hr />
+    <dl class="row">
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Name)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Name)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.GioiThieuText)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.GioiThieuText)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.NoiSinhSongSongText)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.NoiSinhSongSongText)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.NgoaiHinhText)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.NgoaiHinhText)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Avatar)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Avatar)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.NoiSinhSongImage)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.NoiSinhSongImage)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.ImgQR3D)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.ImgQR3D)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.ClassAnimal)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.ClassAnimal.IdClass)
+        </dd>
+    </dl>
+</div>
+<div>
+    <a asp-action="EditAnimal" asp-route-id="@Model?.IdAnimal">Edit</a> |
+    <a asp-action="DanhMucAnimal">Back to List</a>
+</div>

@@ -12,7 +12,7 @@
 <hr />
 <div class="row">
     <div class="col-md-4">
-        <form asp-action="EditAnimal">
+        <form asp-action="EditAnimal" asp-route-id="@Model.IdAnimal" method="post">
             <div asp-validation-summary="ModelOnly" class="text-danger"></div>
             <input type="hidden" asp-for="IdAnimal" />
             <div class="form-group">
@@ -63,6 +63,6 @@
 </div>
 
 <div>
-    <a asp-action="Index">Back to List</a>
+    <a asp-action="DanhMucAnimal">Back to List</a>
 </div>
 

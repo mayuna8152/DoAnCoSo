@@ -29,7 +29,6 @@ namespace DoAnCoSo.Controllers
 		}
 
         [HttpPost]
-        [Authorize(Roles = "Admin")]
         public async Task<IActionResult> Create(PostViewModel viewModel, IFormFile imageQRVideo)
         {
             if (imageQRVideo != null && imageQRVideo.Length > 0)

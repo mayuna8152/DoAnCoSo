@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "ebOet3YDiDap80yv9kicSH9kIrAkTJgHWtjhFSqztPY=",
+  "Hash": "158XIL5xpd0a5DYRSWSZlikwnaY8rtG+p02ojrX/TGY=",
   "Source": "DoAnCoSo",
   "BasePath": "_content/DoAnCoSo",
   "Mode": "Default",
@@ -7938,6 +7938,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\desgin\\Post\\Upload\\2AE14CDD-1265-470C-9B15F49024186C10_source.webp"
+    },
+    {
+      "Identity": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Post\\Upload\\421065544_960013198813578_3894720143028447120_n.jpg",
+      "SourceId": "DoAnCoSo",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\",
+      "BasePath": "_content/DoAnCoSo",
+      "RelativePath": "desgin/Post/Upload/421065544_960013198813578_3894720143028447120_n.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\desgin\\Post\\Upload\\421065544_960013198813578_3894720143028447120_n.jpg"
     },
     {
       "Identity": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Post\\Upload\\ai-generated-illustration-wildlife-concept-blue-ring-octopus-blue-ring-octopus-made-generative-ai-illustration-293697666 .jpg",
