@@ -67,6 +67,7 @@ namespace DoAnCoSo.Areas.Admin.Controllers
                 animal.NoiSinhSongImage = await SaveNoiSinhSong(NoiSinhSongImage);
                 animal.Avatar = await SaveAVT(Avatar);
             }
+
             _context.Animals.Add(animal);
             await _context.SaveChangesAsync();
 
@@ -103,7 +104,7 @@ namespace DoAnCoSo.Areas.Admin.Controllers
                 return NotFound();
             }
             return View(animal);
-
+     
         }
         public async Task<IActionResult> Edit(int id)
         {

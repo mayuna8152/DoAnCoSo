@@ -53,7 +53,8 @@ namespace DoAnCoSo.Areas.Admin.Controllers
 
             return View(animals);
         }
-        
+        [Route("AddAnimal")]
+        [HttpGet]
         public async Task<IActionResult> AddAnimal()
         {
             var classAnimals = await _classanimalRepository.GetAllAsync();
@@ -98,6 +99,65 @@ namespace DoAnCoSo.Areas.Admin.Controllers
 
             return RedirectToAction("Index");
 
+        }
+
+        [Route("EditAnimal")]
+        public async Task<IActionResult> EditAnimal(int id)
+        {
+            var animal = await _animalRepository.GetByIdAsync(id);
+            if (animal == null)
+            {
+                return NotFound();
+            }
+
+            var classAnimals = await _classanimalRepository.GetAllAsync();
+            ViewBag.ClassAnimals = new SelectList(classAnimals, "IdClass", "Name");
+            return View(animal);
+        }
+
+        [Route("EditAnimal")]
+        [HttpPost]
+        public async Task<IActionResult> EditAnimal(int id, Animal animal)
+        {
+            if (id != animal.IdAnimal)
+            {
+                return NotFound();
+            }
+
+            await _animalRepository.UpdateAsync(animal);
+            return RedirectToAction(nameof(Index));
+        }
+
+
+
+        [HttpGet] // Thay vì [HttpPost]
+        public async Task<IActionResult> Details(int id)
+        {
+            var animal = await _animalRepository.GetByIdAsync(id);
+            if (animal == null)
+            {
+                return NotFound();
+            }
+            return View(animal);
+        }
+
+        [Route("Delete")]
+        [HttpGet]
+        public async Task<IActionResult> Delete(int id)
+        {
+            var animal = await _animalRepository.GetByIdAsync(id);
+            if (animal == null)
+            {
+                return NotFound();
+            }
+            return View(animal);
+        }
+        [Route("Delete")]
+        [HttpPost, ActionName("Delete")]
+        public async Task<IActionResult> DeleteConfirmed(int id)
+        {
+            await _animalRepository.DeleteAsync(id);
+            return RedirectToAction(nameof(Index));
         }
         private async Task<String> Save3D(IFormFile image)
         {

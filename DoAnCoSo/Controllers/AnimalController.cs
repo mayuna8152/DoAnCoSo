@@ -108,7 +108,7 @@ namespace DoAnCoSo.Controllers
 
         }
 
-        [Authorize(Roles = "Admin")]
+        
         public async Task<IActionResult> Edit(int id)
         {
             var animal = await _animalRepository.GetByIdAsync(id);
@@ -124,7 +124,7 @@ namespace DoAnCoSo.Controllers
 
 
         [HttpPost]
-        [Authorize(Roles = "Admin")]
+        
         public async Task<IActionResult> Edit(int id, Animal animal)
         {
             if (id != animal.IdAnimal)
