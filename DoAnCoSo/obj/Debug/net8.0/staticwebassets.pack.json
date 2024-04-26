@@ -1,2327 +1,2343 @@
 {
   "Files": [
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\DoAnCoSo.bundle.scp.css",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\DoAnCoSo.bundle.scp.css",
       "PackagePath": "staticwebassets\\DoAnCoSo.bundle.scp.css"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\LayoutAdmin\\.gitignore",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\LayoutAdmin\\.gitignore",
       "PackagePath": "staticwebassets\\LayoutAdmin\\.gitignore"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\LayoutAdmin\\CHANGELOG.md",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\LayoutAdmin\\CHANGELOG.md",
       "PackagePath": "staticwebassets\\LayoutAdmin\\CHANGELOG.md"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\LayoutAdmin\\LICENSE",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\LayoutAdmin\\LICENSE",
       "PackagePath": "staticwebassets\\LayoutAdmin"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\LayoutAdmin\\PSD\\Purple_dashboard_free.psd",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\LayoutAdmin\\PSD\\Purple_dashboard_free.psd",
       "PackagePath": "staticwebassets\\LayoutAdmin\\PSD\\Purple_dashboard_free.psd"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\LayoutAdmin\\README.md",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\LayoutAdmin\\README.md",
       "PackagePath": "staticwebassets\\LayoutAdmin\\README.md"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\LayoutAdmin\\assets\\css\\style.css",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\LayoutAdmin\\assets\\css\\style.css",
       "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\css\\style.css"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\LayoutAdmin\\assets\\css\\style.css.map",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\LayoutAdmin\\assets\\css\\style.css.map",
       "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\css\\style.css.map"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Bold.eot",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Bold.eot",
       "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Bold.eot"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Bold.ttf",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Bold.ttf",
       "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Bold.ttf"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Bold.woff",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Bold.woff",
       "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Bold.woff"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Bold.woff2",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Bold.woff2",
       "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Bold.woff2"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Light.eot",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Light.eot",
       "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Light.eot"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Light.ttf",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Light.ttf",
       "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Light.ttf"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Light.woff",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Light.woff",
       "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Light.woff"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Light.woff2",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Light.woff2",
       "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Light.woff2"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Medium.eot",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Medium.eot",
       "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Medium.eot"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Medium.ttf",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Medium.ttf",
       "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Medium.ttf"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Medium.woff",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Medium.woff",
       "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Medium.woff"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Medium.woff2",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Medium.woff2",
       "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Medium.woff2"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Regular.eot",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Regular.eot",
       "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Regular.eot"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Regular.ttf",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Regular.ttf",
       "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Regular.ttf"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Regular.woff",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Regular.woff",
       "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Regular.woff"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Regular.woff2",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Regular.woff2",
       "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Regular.woff2"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\LayoutAdmin\\assets\\images\\dashboard\\circle.png",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\LayoutAdmin\\assets\\images\\dashboard\\circle.png",
       "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\dashboard\\circle.png"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\LayoutAdmin\\assets\\images\\dashboard\\circle.svg",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\LayoutAdmin\\assets\\images\\dashboard\\circle.svg",
       "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\dashboard\\circle.svg"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\LayoutAdmin\\assets\\images\\dashboard\\img_1.jpg",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\LayoutAdmin\\assets\\images\\dashboard\\img_1.jpg",
       "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\dashboard\\img_1.jpg"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\LayoutAdmin\\assets\\images\\dashboard\\img_2.jpg",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\LayoutAdmin\\assets\\images\\dashboard\\img_2.jpg",
       "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\dashboard\\img_2.jpg"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\LayoutAdmin\\assets\\images\\dashboard\\img_3.jpg",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\LayoutAdmin\\assets\\images\\dashboard\\img_3.jpg",
       "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\dashboard\\img_3.jpg"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\LayoutAdmin\\assets\\images\\dashboard\\img_4.jpg",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\LayoutAdmin\\assets\\images\\dashboard\\img_4.jpg",
       "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\dashboard\\img_4.jpg"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\LayoutAdmin\\assets\\images\\faces-clipart\\pic-1.png",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\LayoutAdmin\\assets\\images\\faces-clipart\\pic-1.png",
       "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces-clipart\\pic-1.png"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\LayoutAdmin\\assets\\images\\faces-clipart\\pic-2.png",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\LayoutAdmin\\assets\\images\\faces-clipart\\pic-2.png",
       "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces-clipart\\pic-2.png"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\LayoutAdmin\\assets\\images\\faces-clipart\\pic-3.png",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\LayoutAdmin\\assets\\images\\faces-clipart\\pic-3.png",
       "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces-clipart\\pic-3.png"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\LayoutAdmin\\assets\\images\\faces-clipart\\pic-4.png",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\LayoutAdmin\\assets\\images\\faces-clipart\\pic-4.png",
       "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces-clipart\\pic-4.png"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\LayoutAdmin\\assets\\images\\faces\\face1.jpg",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\LayoutAdmin\\assets\\images\\faces\\face1.jpg",
       "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces\\face1.jpg"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\LayoutAdmin\\assets\\images\\faces\\face10.jpg",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\LayoutAdmin\\assets\\images\\faces\\face10.jpg",
       "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces\\face10.jpg"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\LayoutAdmin\\assets\\images\\faces\\face11.jpg",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\LayoutAdmin\\assets\\images\\faces\\face11.jpg",
       "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces\\face11.jpg"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\LayoutAdmin\\assets\\images\\faces\\face12.jpg",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\LayoutAdmin\\assets\\images\\faces\\face12.jpg",
       "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces\\face12.jpg"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\LayoutAdmin\\assets\\images\\faces\\face13.jpg",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\LayoutAdmin\\assets\\images\\faces\\face13.jpg",
       "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces\\face13.jpg"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\LayoutAdmin\\assets\\images\\faces\\face14.jpg",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\LayoutAdmin\\assets\\images\\faces\\face14.jpg",
       "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces\\face14.jpg"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\LayoutAdmin\\assets\\images\\faces\\face15.jpg",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\LayoutAdmin\\assets\\images\\faces\\face15.jpg",
       "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces\\face15.jpg"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\LayoutAdmin\\assets\\images\\faces\\face16.jpg",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\LayoutAdmin\\assets\\images\\faces\\face16.jpg",
       "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces\\face16.jpg"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\LayoutAdmin\\assets\\images\\faces\\face17.jpg",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\LayoutAdmin\\assets\\images\\faces\\face17.jpg",
       "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces\\face17.jpg"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\LayoutAdmin\\assets\\images\\faces\\face18.jpg",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\LayoutAdmin\\assets\\images\\faces\\face18.jpg",
       "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces\\face18.jpg"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\LayoutAdmin\\assets\\images\\faces\\face19.jpg",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\LayoutAdmin\\assets\\images\\faces\\face19.jpg",
       "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces\\face19.jpg"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\LayoutAdmin\\assets\\images\\faces\\face2.jpg",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\LayoutAdmin\\assets\\images\\faces\\face2.jpg",
       "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces\\face2.jpg"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\LayoutAdmin\\assets\\images\\faces\\face20.jpg",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\LayoutAdmin\\assets\\images\\faces\\face20.jpg",
       "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces\\face20.jpg"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\LayoutAdmin\\assets\\images\\faces\\face21.jpg",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\LayoutAdmin\\assets\\images\\faces\\face21.jpg",
       "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces\\face21.jpg"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\LayoutAdmin\\assets\\images\\faces\\face22.jpg",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\LayoutAdmin\\assets\\images\\faces\\face22.jpg",
       "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces\\face22.jpg"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\LayoutAdmin\\assets\\images\\faces\\face23.jpg",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\LayoutAdmin\\assets\\images\\faces\\face23.jpg",
       "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces\\face23.jpg"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\LayoutAdmin\\assets\\images\\faces\\face24.jpg",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\LayoutAdmin\\assets\\images\\faces\\face24.jpg",
       "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces\\face24.jpg"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\LayoutAdmin\\assets\\images\\faces\\face25.jpg",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\LayoutAdmin\\assets\\images\\faces\\face25.jpg",
       "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces\\face25.jpg"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\LayoutAdmin\\assets\\images\\faces\\face26.jpg",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\LayoutAdmin\\assets\\images\\faces\\face26.jpg",
       "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces\\face26.jpg"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\LayoutAdmin\\assets\\images\\faces\\face27.jpg",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\LayoutAdmin\\assets\\images\\faces\\face27.jpg",
       "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces\\face27.jpg"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\LayoutAdmin\\assets\\images\\faces\\face3.jpg",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\LayoutAdmin\\assets\\images\\faces\\face3.jpg",
       "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces\\face3.jpg"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\LayoutAdmin\\assets\\images\\faces\\face4.jpg",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\LayoutAdmin\\assets\\images\\faces\\face4.jpg",
       "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces\\face4.jpg"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\LayoutAdmin\\assets\\images\\faces\\face5.jpg",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\LayoutAdmin\\assets\\images\\faces\\face5.jpg",
       "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces\\face5.jpg"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\LayoutAdmin\\assets\\images\\faces\\face6.jpg",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\LayoutAdmin\\assets\\images\\faces\\face6.jpg",
       "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces\\face6.jpg"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\LayoutAdmin\\assets\\images\\faces\\face7.jpg",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\LayoutAdmin\\assets\\images\\faces\\face7.jpg",
       "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces\\face7.jpg"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\LayoutAdmin\\assets\\images\\faces\\face8.jpg",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\LayoutAdmin\\assets\\images\\faces\\face8.jpg",
       "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces\\face8.jpg"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\LayoutAdmin\\assets\\images\\faces\\face9.jpg",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\LayoutAdmin\\assets\\images\\faces\\face9.jpg",
       "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces\\face9.jpg"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\LayoutAdmin\\assets\\images\\favicon.ico",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\LayoutAdmin\\assets\\images\\favicon.ico",
       "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\favicon.ico"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\LayoutAdmin\\assets\\images\\favicon.png",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\LayoutAdmin\\assets\\images\\favicon.png",
       "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\favicon.png"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\LayoutAdmin\\assets\\images\\logo-mini.svg",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\LayoutAdmin\\assets\\images\\logo-mini.svg",
       "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\logo-mini.svg"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\LayoutAdmin\\assets\\images\\logo.svg",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\LayoutAdmin\\assets\\images\\logo.svg",
       "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\logo.svg"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\LayoutAdmin\\assets\\images\\sprites\\blue.png",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\LayoutAdmin\\assets\\images\\sprites\\blue.png",
       "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\sprites\\blue.png"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\LayoutAdmin\\assets\\images\\sprites\\dark.png",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\LayoutAdmin\\assets\\images\\sprites\\dark.png",
       "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\sprites\\dark.png"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\LayoutAdmin\\assets\\images\\sprites\\flag.png",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\LayoutAdmin\\assets\\images\\sprites\\flag.png",
       "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\sprites\\flag.png"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\LayoutAdmin\\assets\\images\\sprites\\green.png",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\LayoutAdmin\\assets\\images\\sprites\\green.png",
       "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\sprites\\green.png"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\LayoutAdmin\\assets\\images\\sprites\\jsgrid-icons.png",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\LayoutAdmin\\assets\\images\\sprites\\jsgrid-icons.png",
       "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\sprites\\jsgrid-icons.png"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\LayoutAdmin\\assets\\images\\sprites\\red.png",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\LayoutAdmin\\assets\\images\\sprites\\red.png",
       "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\sprites\\red.png"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\LayoutAdmin\\assets\\images\\sprites\\yellow.png",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\LayoutAdmin\\assets\\images\\sprites\\yellow.png",
       "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\sprites\\yellow.png"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\LayoutAdmin\\assets\\js\\chart.js",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\LayoutAdmin\\assets\\js\\chart.js",
       "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\js\\chart.js"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\LayoutAdmin\\assets\\js\\dashboard.js",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\LayoutAdmin\\assets\\js\\dashboard.js",
       "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\js\\dashboard.js"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\LayoutAdmin\\assets\\js\\file-upload.js",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\LayoutAdmin\\assets\\js\\file-upload.js",
       "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\js\\file-upload.js"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\LayoutAdmin\\assets\\js\\hoverable-collapse.js",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\LayoutAdmin\\assets\\js\\hoverable-collapse.js",
       "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\js\\hoverable-collapse.js"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\LayoutAdmin\\assets\\js\\jquery.cookie.js",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\LayoutAdmin\\assets\\js\\jquery.cookie.js",
       "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\js\\jquery.cookie.js"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\LayoutAdmin\\assets\\js\\misc.js",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\LayoutAdmin\\assets\\js\\misc.js",
       "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\js\\misc.js"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\LayoutAdmin\\assets\\js\\off-canvas.js",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\LayoutAdmin\\assets\\js\\off-canvas.js",
       "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\js\\off-canvas.js"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\LayoutAdmin\\assets\\js\\todo.js",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\LayoutAdmin\\assets\\js\\todo.js",
       "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\js\\todo.js"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\LayoutAdmin\\assets\\js\\todolist.js",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\LayoutAdmin\\assets\\js\\todolist.js",
       "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\js\\todolist.js"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\LayoutAdmin\\assets\\scss\\_dashboard.scss",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\LayoutAdmin\\assets\\scss\\_dashboard.scss",
       "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\_dashboard.scss"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\LayoutAdmin\\assets\\scss\\_demo.scss",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\LayoutAdmin\\assets\\scss\\_demo.scss",
       "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\_demo.scss"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\LayoutAdmin\\assets\\scss\\_fonts.scss",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\LayoutAdmin\\assets\\scss\\_fonts.scss",
       "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\_fonts.scss"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\LayoutAdmin\\assets\\scss\\_footer.scss",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\LayoutAdmin\\assets\\scss\\_footer.scss",
       "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\_footer.scss"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\LayoutAdmin\\assets\\scss\\_functions.scss",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\LayoutAdmin\\assets\\scss\\_functions.scss",
       "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\_functions.scss"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\LayoutAdmin\\assets\\scss\\_layouts.scss",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\LayoutAdmin\\assets\\scss\\_layouts.scss",
       "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\_layouts.scss"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\LayoutAdmin\\assets\\scss\\_misc.scss",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\LayoutAdmin\\assets\\scss\\_misc.scss",
       "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\_misc.scss"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\LayoutAdmin\\assets\\scss\\_navbar.scss",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\LayoutAdmin\\assets\\scss\\_navbar.scss",
       "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\_navbar.scss"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\LayoutAdmin\\assets\\scss\\_reset.scss",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\LayoutAdmin\\assets\\scss\\_reset.scss",
       "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\_reset.scss"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\LayoutAdmin\\assets\\scss\\_sidebar.scss",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\LayoutAdmin\\assets\\scss\\_sidebar.scss",
       "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\_sidebar.scss"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\LayoutAdmin\\assets\\scss\\_typography.scss",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\LayoutAdmin\\assets\\scss\\_typography.scss",
       "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\_typography.scss"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\LayoutAdmin\\assets\\scss\\_utilities.scss",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\LayoutAdmin\\assets\\scss\\_utilities.scss",
       "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\_utilities.scss"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\LayoutAdmin\\assets\\scss\\_variables.scss",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\LayoutAdmin\\assets\\scss\\_variables.scss",
       "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\_variables.scss"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\LayoutAdmin\\assets\\scss\\_vertical-wrapper.scss",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\LayoutAdmin\\assets\\scss\\_vertical-wrapper.scss",
       "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\_vertical-wrapper.scss"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\LayoutAdmin\\assets\\scss\\_widget-grid.scss",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\LayoutAdmin\\assets\\scss\\_widget-grid.scss",
       "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\_widget-grid.scss"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\LayoutAdmin\\assets\\scss\\components\\_badges.scss",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\LayoutAdmin\\assets\\scss\\components\\_badges.scss",
       "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\components\\_badges.scss"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\LayoutAdmin\\assets\\scss\\components\\_bootstrap-progress.scss",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\LayoutAdmin\\assets\\scss\\components\\_bootstrap-progress.scss",
       "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\components\\_bootstrap-progress.scss"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\LayoutAdmin\\assets\\scss\\components\\_breadcrumbs.scss",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\LayoutAdmin\\assets\\scss\\components\\_breadcrumbs.scss",
       "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\components\\_breadcrumbs.scss"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\LayoutAdmin\\assets\\scss\\components\\_buttons.scss",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\LayoutAdmin\\assets\\scss\\components\\_buttons.scss",
       "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\components\\_buttons.scss"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\LayoutAdmin\\assets\\scss\\components\\_cards.scss",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\LayoutAdmin\\assets\\scss\\components\\_cards.scss",
       "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\components\\_cards.scss"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\LayoutAdmin\\assets\\scss\\components\\_checkbox-radio.scss",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\LayoutAdmin\\assets\\scss\\components\\_checkbox-radio.scss",
       "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\components\\_checkbox-radio.scss"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\LayoutAdmin\\assets\\scss\\components\\_dropdown.scss",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\LayoutAdmin\\assets\\scss\\components\\_dropdown.scss",
       "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\components\\_dropdown.scss"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\LayoutAdmin\\assets\\scss\\components\\_forms.scss",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\LayoutAdmin\\assets\\scss\\components\\_forms.scss",
       "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\components\\_forms.scss"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\LayoutAdmin\\assets\\scss\\components\\_icons.scss",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\LayoutAdmin\\assets\\scss\\components\\_icons.scss",
       "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\components\\_icons.scss"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\LayoutAdmin\\assets\\scss\\components\\_lists.scss",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\LayoutAdmin\\assets\\scss\\components\\_lists.scss",
       "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\components\\_lists.scss"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\LayoutAdmin\\assets\\scss\\components\\_preview.scss",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\LayoutAdmin\\assets\\scss\\components\\_preview.scss",
       "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\components\\_preview.scss"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\LayoutAdmin\\assets\\scss\\components\\_tables.scss",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\LayoutAdmin\\assets\\scss\\components\\_tables.scss",
       "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\components\\_tables.scss"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\LayoutAdmin\\assets\\scss\\components\\_todo-list.scss",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\LayoutAdmin\\assets\\scss\\components\\_todo-list.scss",
       "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\components\\_todo-list.scss"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\LayoutAdmin\\assets\\scss\\landing-screens\\_auth.scss",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\LayoutAdmin\\assets\\scss\\landing-screens\\_auth.scss",
       "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\landing-screens\\_auth.scss"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\LayoutAdmin\\assets\\scss\\mixins\\_animation.scss",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\LayoutAdmin\\assets\\scss\\mixins\\_animation.scss",
       "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\mixins\\_animation.scss"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\LayoutAdmin\\assets\\scss\\mixins\\_background.scss",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\LayoutAdmin\\assets\\scss\\mixins\\_background.scss",
       "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\mixins\\_background.scss"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\LayoutAdmin\\assets\\scss\\mixins\\_badges.scss",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\LayoutAdmin\\assets\\scss\\mixins\\_badges.scss",
       "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\mixins\\_badges.scss"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\LayoutAdmin\\assets\\scss\\mixins\\_blockqoute.scss",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\LayoutAdmin\\assets\\scss\\mixins\\_blockqoute.scss",
       "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\mixins\\_blockqoute.scss"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\LayoutAdmin\\assets\\scss\\mixins\\_breadcrumbs.scss",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\LayoutAdmin\\assets\\scss\\mixins\\_breadcrumbs.scss",
       "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\mixins\\_breadcrumbs.scss"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\LayoutAdmin\\assets\\scss\\mixins\\_buttons.scss",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\LayoutAdmin\\assets\\scss\\mixins\\_buttons.scss",
       "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\mixins\\_buttons.scss"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\LayoutAdmin\\assets\\scss\\mixins\\_cards.scss",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\LayoutAdmin\\assets\\scss\\mixins\\_cards.scss",
       "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\mixins\\_cards.scss"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\LayoutAdmin\\assets\\scss\\mixins\\_misc.scss",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\LayoutAdmin\\assets\\scss\\mixins\\_misc.scss",
       "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\mixins\\_misc.scss"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\LayoutAdmin\\assets\\scss\\mixins\\_pagination.scss",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\LayoutAdmin\\assets\\scss\\mixins\\_pagination.scss",
       "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\mixins\\_pagination.scss"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\LayoutAdmin\\assets\\scss\\mixins\\_popovers.scss",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\LayoutAdmin\\assets\\scss\\mixins\\_popovers.scss",
       "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\mixins\\_popovers.scss"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\LayoutAdmin\\assets\\scss\\mixins\\_text.scss",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\LayoutAdmin\\assets\\scss\\mixins\\_text.scss",
       "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\mixins\\_text.scss"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\LayoutAdmin\\assets\\scss\\mixins\\_tooltips.scss",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\LayoutAdmin\\assets\\scss\\mixins\\_tooltips.scss",
       "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\mixins\\_tooltips.scss"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\LayoutAdmin\\assets\\scss\\style.scss",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\LayoutAdmin\\assets\\scss\\style.scss",
       "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\style.scss"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\LayoutAdmin\\assets\\vendors\\chart.js\\Chart.min.js",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\LayoutAdmin\\assets\\vendors\\chart.js\\Chart.min.js",
       "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\vendors\\chart.js\\Chart.min.js"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\LayoutAdmin\\assets\\vendors\\css\\vendor.bundle.base.css",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\LayoutAdmin\\assets\\vendors\\css\\vendor.bundle.base.css",
       "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\vendors\\css\\vendor.bundle.base.css"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\LayoutAdmin\\assets\\vendors\\js\\bootstrap.min.js.map",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\LayoutAdmin\\assets\\vendors\\js\\bootstrap.min.js.map",
       "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\vendors\\js\\bootstrap.min.js.map"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\LayoutAdmin\\assets\\vendors\\js\\vendor.bundle.base.js",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\LayoutAdmin\\assets\\vendors\\js\\vendor.bundle.base.js",
       "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\vendors\\js\\vendor.bundle.base.js"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\LayoutAdmin\\assets\\vendors\\mdi\\css\\materialdesignicons.min.css",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\LayoutAdmin\\assets\\vendors\\mdi\\css\\materialdesignicons.min.css",
       "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\vendors\\mdi\\css\\materialdesignicons.min.css"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\LayoutAdmin\\assets\\vendors\\mdi\\css\\materialdesignicons.min.css.map",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\LayoutAdmin\\assets\\vendors\\mdi\\css\\materialdesignicons.min.css.map",
       "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\vendors\\mdi\\css\\materialdesignicons.min.css.map"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\LayoutAdmin\\assets\\vendors\\mdi\\fonts\\materialdesignicons-webfont.eot",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\LayoutAdmin\\assets\\vendors\\mdi\\fonts\\materialdesignicons-webfont.eot",
       "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\vendors\\mdi\\fonts\\materialdesignicons-webfont.eot"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\LayoutAdmin\\assets\\vendors\\mdi\\fonts\\materialdesignicons-webfont.ttf",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\LayoutAdmin\\assets\\vendors\\mdi\\fonts\\materialdesignicons-webfont.ttf",
       "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\vendors\\mdi\\fonts\\materialdesignicons-webfont.ttf"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\LayoutAdmin\\assets\\vendors\\mdi\\fonts\\materialdesignicons-webfont.woff",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\LayoutAdmin\\assets\\vendors\\mdi\\fonts\\materialdesignicons-webfont.woff",
       "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\vendors\\mdi\\fonts\\materialdesignicons-webfont.woff"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\LayoutAdmin\\assets\\vendors\\mdi\\fonts\\materialdesignicons-webfont.woff2",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\LayoutAdmin\\assets\\vendors\\mdi\\fonts\\materialdesignicons-webfont.woff2",
       "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\vendors\\mdi\\fonts\\materialdesignicons-webfont.woff2"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\LayoutAdmin\\gulp-tasks\\inject.js",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\LayoutAdmin\\gulp-tasks\\inject.js",
       "PackagePath": "staticwebassets\\LayoutAdmin\\gulp-tasks\\inject.js"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\LayoutAdmin\\gulp-tasks\\serve.js",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\LayoutAdmin\\gulp-tasks\\serve.js",
       "PackagePath": "staticwebassets\\LayoutAdmin\\gulp-tasks\\serve.js"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\LayoutAdmin\\gulp-tasks\\vendors.js",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\LayoutAdmin\\gulp-tasks\\vendors.js",
       "PackagePath": "staticwebassets\\LayoutAdmin\\gulp-tasks\\vendors.js"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\LayoutAdmin\\gulpfile.js",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\LayoutAdmin\\gulpfile.js",
       "PackagePath": "staticwebassets\\LayoutAdmin\\gulpfile.js"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\LayoutAdmin\\index.html",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\LayoutAdmin\\index.html",
       "PackagePath": "staticwebassets\\LayoutAdmin\\index.html"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\LayoutAdmin\\package.json",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\LayoutAdmin\\package.json",
       "PackagePath": "staticwebassets\\LayoutAdmin\\package.json"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\LayoutAdmin\\pages\\charts\\chartjs.html",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\LayoutAdmin\\pages\\charts\\chartjs.html",
       "PackagePath": "staticwebassets\\LayoutAdmin\\pages\\charts\\chartjs.html"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\LayoutAdmin\\pages\\forms\\basic_elements.html",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\LayoutAdmin\\pages\\forms\\basic_elements.html",
       "PackagePath": "staticwebassets\\LayoutAdmin\\pages\\forms\\basic_elements.html"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\LayoutAdmin\\pages\\icons\\mdi.html",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\LayoutAdmin\\pages\\icons\\mdi.html",
       "PackagePath": "staticwebassets\\LayoutAdmin\\pages\\icons\\mdi.html"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\LayoutAdmin\\pages\\samples\\blank-page.html",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\LayoutAdmin\\pages\\samples\\blank-page.html",
       "PackagePath": "staticwebassets\\LayoutAdmin\\pages\\samples\\blank-page.html"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\LayoutAdmin\\pages\\samples\\error-404.html",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\LayoutAdmin\\pages\\samples\\error-404.html",
       "PackagePath": "staticwebassets\\LayoutAdmin\\pages\\samples\\error-404.html"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\LayoutAdmin\\pages\\samples\\error-500.html",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\LayoutAdmin\\pages\\samples\\error-500.html",
       "PackagePath": "staticwebassets\\LayoutAdmin\\pages\\samples\\error-500.html"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\LayoutAdmin\\pages\\samples\\login.html",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\LayoutAdmin\\pages\\samples\\login.html",
       "PackagePath": "staticwebassets\\LayoutAdmin\\pages\\samples\\login.html"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\LayoutAdmin\\pages\\samples\\register.html",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\LayoutAdmin\\pages\\samples\\register.html",
       "PackagePath": "staticwebassets\\LayoutAdmin\\pages\\samples\\register.html"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\LayoutAdmin\\pages\\tables\\basic-table.html",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\LayoutAdmin\\pages\\tables\\basic-table.html",
       "PackagePath": "staticwebassets\\LayoutAdmin\\pages\\tables\\basic-table.html"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\LayoutAdmin\\pages\\ui-features\\buttons.html",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\LayoutAdmin\\pages\\ui-features\\buttons.html",
       "PackagePath": "staticwebassets\\LayoutAdmin\\pages\\ui-features\\buttons.html"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\LayoutAdmin\\pages\\ui-features\\typography.html",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\LayoutAdmin\\pages\\ui-features\\typography.html",
       "PackagePath": "staticwebassets\\LayoutAdmin\\pages\\ui-features\\typography.html"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\LayoutAdmin\\partials\\_footer.html",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\LayoutAdmin\\partials\\_footer.html",
       "PackagePath": "staticwebassets\\LayoutAdmin\\partials\\_footer.html"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\LayoutAdmin\\partials\\_navbar.html",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\LayoutAdmin\\partials\\_navbar.html",
       "PackagePath": "staticwebassets\\LayoutAdmin\\partials\\_navbar.html"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\LayoutAdmin\\partials\\_sidebar.html",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\LayoutAdmin\\partials\\_sidebar.html",
       "PackagePath": "staticwebassets\\LayoutAdmin\\partials\\_sidebar.html"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\LayoutAdmin\\screenshot.jpg",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\LayoutAdmin\\screenshot.jpg",
       "PackagePath": "staticwebassets\\LayoutAdmin\\screenshot.jpg"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\Uploads\\1839ae17-8d58-41ed-8fb6-1f85268034cc_Lion_waiting_in_Namibia.jpg",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\Uploads\\1839ae17-8d58-41ed-8fb6-1f85268034cc_Lion_waiting_in_Namibia.jpg",
       "PackagePath": "staticwebassets\\Uploads\\1839ae17-8d58-41ed-8fb6-1f85268034cc_Lion_waiting_in_Namibia.jpg"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\css\\bootstrap.min.css",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\css\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\css\\bootstrap.min.css"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\css\\mystyle.css",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\css\\mystyle.css",
       "PackagePath": "staticwebassets\\css\\mystyle.css"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\css\\site.css",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\About\\bg.png",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\About\\bg.png",
       "PackagePath": "staticwebassets\\desgin\\About\\bg.png"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\About\\logo.png",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\About\\logo.png",
       "PackagePath": "staticwebassets\\desgin\\About\\logo.png"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\3DQR\\2AE14CDD-1265-470C-9B15F49024186C10_source.webp",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\3DQR\\2AE14CDD-1265-470C-9B15F49024186C10_source.webp",
       "PackagePath": "staticwebassets\\desgin\\Animal\\3DQR\\2AE14CDD-1265-470C-9B15F49024186C10_source.webp"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\3DQR\\4fd69991e4ab48f511ba.jpg",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\3DQR\\4fd69991e4ab48f511ba.jpg",
       "PackagePath": "staticwebassets\\desgin\\Animal\\3DQR\\4fd69991e4ab48f511ba.jpg"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\3DQR\\GauQR.png",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\3DQR\\GauQR.png",
       "PackagePath": "staticwebassets\\desgin\\Animal\\3DQR\\GauQR.png"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\3DQR\\bachtuotQR.png",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\3DQR\\bachtuotQR.png",
       "PackagePath": "staticwebassets\\desgin\\Animal\\3DQR\\bachtuotQR.png"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\3DQR\\bocanhcungQR.png",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\3DQR\\bocanhcungQR.png",
       "PackagePath": "staticwebassets\\desgin\\Animal\\3DQR\\bocanhcungQR.png"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\3DQR\\bonongQR.png",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\3DQR\\bonongQR.png",
       "PackagePath": "staticwebassets\\desgin\\Animal\\3DQR\\bonongQR.png"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\3DQR\\botbienQR.png",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\3DQR\\botbienQR.png",
       "PackagePath": "staticwebassets\\desgin\\Animal\\3DQR\\botbienQR.png"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\3DQR\\cachepQR.png",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\3DQR\\cachepQR.png",
       "PackagePath": "staticwebassets\\desgin\\Animal\\3DQR\\cachepQR.png"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\3DQR\\caheoQR.png",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\3DQR\\caheoQR.png",
       "PackagePath": "staticwebassets\\desgin\\Animal\\3DQR\\caheoQR.png"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\3DQR\\cahoiQR.png",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\3DQR\\cahoiQR.png",
       "PackagePath": "staticwebassets\\desgin\\Animal\\3DQR\\cahoiQR.png"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\3DQR\\cakiemQR.png",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\3DQR\\cakiemQR.png",
       "PackagePath": "staticwebassets\\desgin\\Animal\\3DQR\\cakiemQR.png"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\3DQR\\calocQR.png",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\3DQR\\calocQR.png",
       "PackagePath": "staticwebassets\\desgin\\Animal\\3DQR\\calocQR.png"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\3DQR\\camapQR.png",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\3DQR\\camapQR.png",
       "PackagePath": "staticwebassets\\desgin\\Animal\\3DQR\\camapQR.png"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\3DQR\\camapdaubuaQR.png",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\3DQR\\camapdaubuaQR.png",
       "PackagePath": "staticwebassets\\desgin\\Animal\\3DQR\\camapdaubuaQR.png"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\3DQR\\canguQR.png",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\3DQR\\canguQR.png",
       "PackagePath": "staticwebassets\\desgin\\Animal\\3DQR\\canguQR.png"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\3DQR\\casauQR.png",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\3DQR\\casauQR.png",
       "PackagePath": "staticwebassets\\desgin\\Animal\\3DQR\\casauQR.png"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\3DQR\\catrichQR.png",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\3DQR\\catrichQR.png",
       "PackagePath": "staticwebassets\\desgin\\Animal\\3DQR\\catrichQR.png"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\3DQR\\chimbocauQR.png",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\3DQR\\chimbocauQR.png",
       "PackagePath": "staticwebassets\\desgin\\Animal\\3DQR\\chimbocauQR.png"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\3DQR\\chimcanhcutQR.png",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\3DQR\\chimcanhcutQR.png",
       "PackagePath": "staticwebassets\\desgin\\Animal\\3DQR\\chimcanhcutQR.png"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\3DQR\\chimquaQR.png",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\3DQR\\chimquaQR.png",
       "PackagePath": "staticwebassets\\desgin\\Animal\\3DQR\\chimquaQR.png"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\3DQR\\chimseQR.png",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\3DQR\\chimseQR.png",
       "PackagePath": "staticwebassets\\desgin\\Animal\\3DQR\\chimseQR.png"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\3DQR\\cocQR.png",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\3DQR\\cocQR.png",
       "PackagePath": "staticwebassets\\desgin\\Animal\\3DQR\\cocQR.png"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\3DQR\\cuQR.png",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\3DQR\\cuQR.png",
       "PackagePath": "staticwebassets\\desgin\\Animal\\3DQR\\cuQR.png"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\3DQR\\daibangQR.png",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\3DQR\\daibangQR.png",
       "PackagePath": "staticwebassets\\desgin\\Animal\\3DQR\\daibangQR.png"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\3DQR\\doiQR.png",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\3DQR\\doiQR.png",
       "PackagePath": "staticwebassets\\desgin\\Animal\\3DQR\\doiQR.png"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\3DQR\\gautrucQR.png",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\3DQR\\gautrucQR.png",
       "PackagePath": "staticwebassets\\desgin\\Animal\\3DQR\\gautrucQR.png"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\3DQR\\gekkoQR.png",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\3DQR\\gekkoQR.png",
       "PackagePath": "staticwebassets\\desgin\\Animal\\3DQR\\gekkoQR.png"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\3DQR\\giphy (2).gif",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\3DQR\\giphy (2).gif",
       "PackagePath": "staticwebassets\\desgin\\Animal\\3DQR\\giphy (2).gif"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\3DQR\\hoQR.png",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\3DQR\\hoAvatar.jpg",
+      "PackagePath": "staticwebassets\\desgin\\Animal\\3DQR\\hoAvatar.jpg"
+    },
+    {
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\3DQR\\hoQR.png",
       "PackagePath": "staticwebassets\\desgin\\Animal\\3DQR\\hoQR.png"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\3DQR\\honghacQR.png",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\3DQR\\honghacQR.png",
       "PackagePath": "staticwebassets\\desgin\\Animal\\3DQR\\honghacQR.png"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\3DQR\\huoucaocoQR.png",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\3DQR\\huoucaocoQR.png",
       "PackagePath": "staticwebassets\\desgin\\Animal\\3DQR\\huoucaocoQR.png"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\3DQR\\kenkenQR.png",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\3DQR\\kenkenQR.png",
       "PackagePath": "staticwebassets\\desgin\\Animal\\3DQR\\kenkenQR.png"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\3DQR\\koiQR.png",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\3DQR\\koiQR.png",
       "PackagePath": "staticwebassets\\desgin\\Animal\\3DQR\\koiQR.png"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\3DQR\\komodoQR.png",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\3DQR\\komodoQR.png",
       "PackagePath": "staticwebassets\\desgin\\Animal\\3DQR\\komodoQR.png"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\3DQR\\kynhongQR.png",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\3DQR\\kynhongQR.png",
       "PackagePath": "staticwebassets\\desgin\\Animal\\3DQR\\kynhongQR.png"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\3DQR\\nhaiQR.png",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\3DQR\\nhaiQR.png",
       "PackagePath": "staticwebassets\\desgin\\Animal\\3DQR\\nhaiQR.png"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\3DQR\\ranQR.png",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\3DQR\\ranQR.png",
       "PackagePath": "staticwebassets\\desgin\\Animal\\3DQR\\ranQR.png"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\3DQR\\ruaQR.png",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\3DQR\\ruaQR.png",
       "PackagePath": "staticwebassets\\desgin\\Animal\\3DQR\\ruaQR.png"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\3DQR\\ruabienQR.png",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\3DQR\\ruabienQR.png",
       "PackagePath": "staticwebassets\\desgin\\Animal\\3DQR\\ruabienQR.png"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\3DQR\\sanhoQR.png",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\3DQR\\sanhoQR.png",
       "PackagePath": "staticwebassets\\desgin\\Animal\\3DQR\\sanhoQR.png"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\3DQR\\suaQR.png",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\3DQR\\suaQR.png",
       "PackagePath": "staticwebassets\\desgin\\Animal\\3DQR\\suaQR.png"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\3DQR\\tackebongQR.png",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\3DQR\\tackebongQR.png",
       "PackagePath": "staticwebassets\\desgin\\Animal\\3DQR\\tackebongQR.png"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\3DQR\\tegiacQR.png",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\3DQR\\tegiacQR.png",
       "PackagePath": "staticwebassets\\desgin\\Animal\\3DQR\\tegiacQR.png"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\3DQR\\thanlanQR.png",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\3DQR\\thanlanQR.png",
       "PackagePath": "staticwebassets\\desgin\\Animal\\3DQR\\thanlanQR.png"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\3DQR\\tomQR.png",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\3DQR\\tomQR.png",
       "PackagePath": "staticwebassets\\desgin\\Animal\\3DQR\\tomQR.png"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\3DQR\\voiQR.png",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\3DQR\\voiQR.png",
       "PackagePath": "staticwebassets\\desgin\\Animal\\3DQR\\voiQR.png"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\Avatar\\2AE14CDD-1265-470C-9B15F49024186C10_source.webp",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\Avatar\\2AE14CDD-1265-470C-9B15F49024186C10_source.webp",
       "PackagePath": "staticwebassets\\desgin\\Animal\\Avatar\\2AE14CDD-1265-470C-9B15F49024186C10_source.webp"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\Avatar\\bachtuotAvatar.jpg",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\Avatar\\bachtuotAvatar.jpg",
       "PackagePath": "staticwebassets\\desgin\\Animal\\Avatar\\bachtuotAvatar.jpg"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\Avatar\\bocanhcungAvatar.jpg",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\Avatar\\bocanhcungAvatar.jpg",
       "PackagePath": "staticwebassets\\desgin\\Animal\\Avatar\\bocanhcungAvatar.jpg"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\Avatar\\bocauAvatar.jpg",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\Avatar\\bocauAvatar.jpg",
       "PackagePath": "staticwebassets\\desgin\\Animal\\Avatar\\bocauAvatar.jpg"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\Avatar\\bonongAvatar.jpg",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\Avatar\\bonongAvatar.jpg",
       "PackagePath": "staticwebassets\\desgin\\Animal\\Avatar\\bonongAvatar.jpg"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\Avatar\\botbienAvatar.jpg",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\Avatar\\botbienAvatar.jpg",
       "PackagePath": "staticwebassets\\desgin\\Animal\\Avatar\\botbienAvatar.jpg"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\Avatar\\cachepAvatar.jpg",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\Avatar\\cachepAvatar.jpg",
       "PackagePath": "staticwebassets\\desgin\\Animal\\Avatar\\cachepAvatar.jpg"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\Avatar\\caheoAvatar.jpg",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\Avatar\\caheoAvatar.jpg",
       "PackagePath": "staticwebassets\\desgin\\Animal\\Avatar\\caheoAvatar.jpg"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\Avatar\\cahoiAvatar.jpg",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\Avatar\\cahoiAvatar.jpg",
       "PackagePath": "staticwebassets\\desgin\\Animal\\Avatar\\cahoiAvatar.jpg"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\Avatar\\cakiemAvatar.jpg",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\Avatar\\cakiemAvatar.jpg",
       "PackagePath": "staticwebassets\\desgin\\Animal\\Avatar\\cakiemAvatar.jpg"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\Avatar\\calocAvatar.jpg",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\Avatar\\calocAvatar.jpg",
       "PackagePath": "staticwebassets\\desgin\\Animal\\Avatar\\calocAvatar.jpg"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\Avatar\\camapAvatar.jpg",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\Avatar\\camapAvatar.jpg",
       "PackagePath": "staticwebassets\\desgin\\Animal\\Avatar\\camapAvatar.jpg"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\Avatar\\camapdaubuaAvatar.jpg",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\Avatar\\camapdaubuaAvatar.jpg",
       "PackagePath": "staticwebassets\\desgin\\Animal\\Avatar\\camapdaubuaAvatar.jpg"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\Avatar\\canguAvatar.jpg",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\Avatar\\canguAvatar.jpg",
       "PackagePath": "staticwebassets\\desgin\\Animal\\Avatar\\canguAvatar.jpg"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\Avatar\\casauAvatar.jpg",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\Avatar\\casauAvatar.jpg",
       "PackagePath": "staticwebassets\\desgin\\Animal\\Avatar\\casauAvatar.jpg"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\Avatar\\catrichAvatar.jpg",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\Avatar\\catrichAvatar.jpg",
       "PackagePath": "staticwebassets\\desgin\\Animal\\Avatar\\catrichAvatar.jpg"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\Avatar\\chimcanhcutAvatar.jpg",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\Avatar\\chimcanhcutAvatar.jpg",
       "PackagePath": "staticwebassets\\desgin\\Animal\\Avatar\\chimcanhcutAvatar.jpg"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\Avatar\\cocAvatar.jpg",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\Avatar\\cocAvatar.jpg",
       "PackagePath": "staticwebassets\\desgin\\Animal\\Avatar\\cocAvatar.jpg"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\Avatar\\cuAvatar.jpg",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\Avatar\\cuAvatar.jpg",
       "PackagePath": "staticwebassets\\desgin\\Animal\\Avatar\\cuAvatar.jpg"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\Avatar\\cudaAvatar.jpg",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\Avatar\\cudaAvatar.jpg",
       "PackagePath": "staticwebassets\\desgin\\Animal\\Avatar\\cudaAvatar.jpg"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\Avatar\\daibangAvatar.jpg",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\Avatar\\daibangAvatar.jpg",
       "PackagePath": "staticwebassets\\desgin\\Animal\\Avatar\\daibangAvatar.jpg"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\Avatar\\diaAvatar.jpg",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\Avatar\\diaAvatar.jpg",
       "PackagePath": "staticwebassets\\desgin\\Animal\\Avatar\\diaAvatar.jpg"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\Avatar\\doiAvatar.jpg",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\Avatar\\doiAvatar.jpg",
       "PackagePath": "staticwebassets\\desgin\\Animal\\Avatar\\doiAvatar.jpg"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\Avatar\\echgiunAvatar.jpg",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\Avatar\\echgiunAvatar.jpg",
       "PackagePath": "staticwebassets\\desgin\\Animal\\Avatar\\echgiunAvatar.jpg"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\Avatar\\gauAvatar.jpg",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\Avatar\\gauAvatar.jpg",
       "PackagePath": "staticwebassets\\desgin\\Animal\\Avatar\\gauAvatar.jpg"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\Avatar\\gautrucAvatar.jpg",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\Avatar\\gautrucAvatar.jpg",
       "PackagePath": "staticwebassets\\desgin\\Animal\\Avatar\\gautrucAvatar.jpg"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\Avatar\\gekkoAvatar.jpg",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\Avatar\\gekkoAvatar.jpg",
       "PackagePath": "staticwebassets\\desgin\\Animal\\Avatar\\gekkoAvatar.jpg"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\Avatar\\giphy (2).gif",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\Avatar\\giphy (2).gif",
       "PackagePath": "staticwebassets\\desgin\\Animal\\Avatar\\giphy (2).gif"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\Avatar\\hoAvatar.jpg",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\Avatar\\hoAvatar.jpg",
       "PackagePath": "staticwebassets\\desgin\\Animal\\Avatar\\hoAvatar.jpg"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\Avatar\\honghacAvatar.jpg",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\Avatar\\honghacAvatar.jpg",
       "PackagePath": "staticwebassets\\desgin\\Animal\\Avatar\\honghacAvatar.jpg"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\Avatar\\huoucaocoAvatar.jpg",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\Avatar\\huoucaocoAvatar.jpg",
       "PackagePath": "staticwebassets\\desgin\\Animal\\Avatar\\huoucaocoAvatar.jpg"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\Avatar\\kenkenAvatar.jpg",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\Avatar\\kenkenAvatar.jpg",
       "PackagePath": "staticwebassets\\desgin\\Animal\\Avatar\\kenkenAvatar.jpg"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\Avatar\\koiAvatar.jpg",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\Avatar\\koiAvatar.jpg",
       "PackagePath": "staticwebassets\\desgin\\Animal\\Avatar\\koiAvatar.jpg"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\Avatar\\komodoAvatar.jpg",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\Avatar\\komodoAvatar.jpg",
       "PackagePath": "staticwebassets\\desgin\\Animal\\Avatar\\komodoAvatar.jpg"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\Avatar\\kygiongAvatar.jpg",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\Avatar\\kygiongAvatar.jpg",
       "PackagePath": "staticwebassets\\desgin\\Animal\\Avatar\\kygiongAvatar.jpg"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\Avatar\\kygiongkhongloAvatar.JPG",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\Avatar\\kygiongkhongloAvatar.JPG",
       "PackagePath": "staticwebassets\\desgin\\Animal\\Avatar\\kygiongkhongloAvatar.JPG"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\Avatar\\kygiongluaAvatar.jpg",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\Avatar\\kygiongluaAvatar.jpg",
       "PackagePath": "staticwebassets\\desgin\\Animal\\Avatar\\kygiongluaAvatar.jpg"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\Avatar\\kynhongAvatar.jpg",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\Avatar\\kynhongAvatar.jpg",
       "PackagePath": "staticwebassets\\desgin\\Animal\\Avatar\\kynhongAvatar.jpg"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\Avatar\\manhgiongAvatar.jpg",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\Avatar\\manhgiongAvatar.jpg",
       "PackagePath": "staticwebassets\\desgin\\Animal\\Avatar\\manhgiongAvatar.jpg"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\Avatar\\nhaiAvatar.jpg",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\Avatar\\nhaiAvatar.jpg",
       "PackagePath": "staticwebassets\\desgin\\Animal\\Avatar\\nhaiAvatar.jpg"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\Avatar\\ocsenAvatar.jpg",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\Avatar\\ocsenAvatar.jpg",
       "PackagePath": "staticwebassets\\desgin\\Animal\\Avatar\\ocsenAvatar.jpg"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\Avatar\\quaAvatar.jpg",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\Avatar\\quaAvatar.jpg",
       "PackagePath": "staticwebassets\\desgin\\Animal\\Avatar\\quaAvatar.jpg"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\Avatar\\ranAvatar.jpg",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\Avatar\\ranAvatar.jpg",
       "PackagePath": "staticwebassets\\desgin\\Animal\\Avatar\\ranAvatar.jpg"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\Avatar\\ruaAvatar.jpg",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\Avatar\\ruaAvatar.jpg",
       "PackagePath": "staticwebassets\\desgin\\Animal\\Avatar\\ruaAvatar.jpg"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\Avatar\\ruabienAvatar.jpeg",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\Avatar\\ruabienAvatar.jpeg",
       "PackagePath": "staticwebassets\\desgin\\Animal\\Avatar\\ruabienAvatar.jpeg"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\Avatar\\sagiongAvatar.jpeg",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\Avatar\\sagiongAvatar.jpeg",
       "PackagePath": "staticwebassets\\desgin\\Animal\\Avatar\\sagiongAvatar.jpeg"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\Avatar\\sanhoAvatar.jpg",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\Avatar\\sanhoAvatar.jpg",
       "PackagePath": "staticwebassets\\desgin\\Animal\\Avatar\\sanhoAvatar.jpg"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\Avatar\\saubuomAvatar.jpg",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\Avatar\\saubuomAvatar.jpg",
       "PackagePath": "staticwebassets\\desgin\\Animal\\Avatar\\saubuomAvatar.jpg"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\Avatar\\seAvatar.jpg",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\Avatar\\seAvatar.jpg",
       "PackagePath": "staticwebassets\\desgin\\Animal\\Avatar\\seAvatar.jpg"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\Avatar\\suaAvatar.jpg",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\Avatar\\suaAvatar.jpg",
       "PackagePath": "staticwebassets\\desgin\\Animal\\Avatar\\suaAvatar.jpg"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\Avatar\\tackebongAvatar.jpg",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\Avatar\\tackebongAvatar.jpg",
       "PackagePath": "staticwebassets\\desgin\\Animal\\Avatar\\tackebongAvatar.jpg"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\Avatar\\tegiacAvatar.jpg",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\Avatar\\tegiacAvatar.jpg",
       "PackagePath": "staticwebassets\\desgin\\Animal\\Avatar\\tegiacAvatar.jpg"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\Avatar\\thanlanAvatar.jpg",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\Avatar\\thanlanAvatar.jpg",
       "PackagePath": "staticwebassets\\desgin\\Animal\\Avatar\\thanlanAvatar.jpg"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\Avatar\\thumovitAvatar.jpg",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\Avatar\\thumovitAvatar.jpg",
       "PackagePath": "staticwebassets\\desgin\\Animal\\Avatar\\thumovitAvatar.jpg"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\Avatar\\tomAvatar.jpg",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\Avatar\\tomAvatar.jpg",
       "PackagePath": "staticwebassets\\desgin\\Animal\\Avatar\\tomAvatar.jpg"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\Avatar\\voiAvatar.jpg",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\Avatar\\voiAvatar.jpg",
       "PackagePath": "staticwebassets\\desgin\\Animal\\Avatar\\voiAvatar.jpg"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\ListImage\\2AE14CDD-1265-470C-9B15F49024186C10_source.webp",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\ListImage\\2AE14CDD-1265-470C-9B15F49024186C10_source.webp",
       "PackagePath": "staticwebassets\\desgin\\Animal\\ListImage\\2AE14CDD-1265-470C-9B15F49024186C10_source.webp"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\ListImage\\3a650e8e83bc5ce205ad.jpg",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\ListImage\\3a650e8e83bc5ce205ad.jpg",
       "PackagePath": "staticwebassets\\desgin\\Animal\\ListImage\\3a650e8e83bc5ce205ad.jpg"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\ListImage\\419738358_1916068855463056_8748391311179861464_n.jpg",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\ListImage\\419738358_1916068855463056_8748391311179861464_n.jpg",
       "PackagePath": "staticwebassets\\desgin\\Animal\\ListImage\\419738358_1916068855463056_8748391311179861464_n.jpg"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\ListImage\\4fd69991e4ab48f511ba.jpg",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\ListImage\\4fd69991e4ab48f511ba.jpg",
       "PackagePath": "staticwebassets\\desgin\\Animal\\ListImage\\4fd69991e4ab48f511ba.jpg"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\ListImage\\BachtuotLitst1.jpg",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\ListImage\\BachtuotLitst1.jpg",
       "PackagePath": "staticwebassets\\desgin\\Animal\\ListImage\\BachtuotLitst1.jpg"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\ListImage\\BachtuotLitst2.jpg",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\ListImage\\BachtuotLitst2.jpg",
       "PackagePath": "staticwebassets\\desgin\\Animal\\ListImage\\BachtuotLitst2.jpg"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\ListImage\\BachtuotLitst3.jpg",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\ListImage\\BachtuotLitst3.jpg",
       "PackagePath": "staticwebassets\\desgin\\Animal\\ListImage\\BachtuotLitst3.jpg"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\ListImage\\BoCanhCungList1.jpg",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\ListImage\\BoCanhCungList1.jpg",
       "PackagePath": "staticwebassets\\desgin\\Animal\\ListImage\\BoCanhCungList1.jpg"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\ListImage\\BoCanhCungList2.jpg",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\ListImage\\BoCanhCungList2.jpg",
       "PackagePath": "staticwebassets\\desgin\\Animal\\ListImage\\BoCanhCungList2.jpg"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\ListImage\\BoCanhCungList3.jpg",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\ListImage\\BoCanhCungList3.jpg",
       "PackagePath": "staticwebassets\\desgin\\Animal\\ListImage\\BoCanhCungList3.jpg"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\ListImage\\BoCauList1.jpg",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\ListImage\\BoCauList1.jpg",
       "PackagePath": "staticwebassets\\desgin\\Animal\\ListImage\\BoCauList1.jpg"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\ListImage\\BoCauList2.jpg",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\ListImage\\BoCauList2.jpg",
       "PackagePath": "staticwebassets\\desgin\\Animal\\ListImage\\BoCauList2.jpg"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\ListImage\\BoCauList3.jpg",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\ListImage\\BoCauList3.jpg",
       "PackagePath": "staticwebassets\\desgin\\Animal\\ListImage\\BoCauList3.jpg"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\ListImage\\BoNongList1.jpg",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\ListImage\\BoNongList1.jpg",
       "PackagePath": "staticwebassets\\desgin\\Animal\\ListImage\\BoNongList1.jpg"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\ListImage\\BoNongList2.jpg",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\ListImage\\BoNongList2.jpg",
       "PackagePath": "staticwebassets\\desgin\\Animal\\ListImage\\BoNongList2.jpg"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\ListImage\\BoNongList3.jpg",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\ListImage\\BoNongList3.jpg",
       "PackagePath": "staticwebassets\\desgin\\Animal\\ListImage\\BoNongList3.jpg"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\ListImage\\BotBienList1.jpg",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\ListImage\\BotBienList1.jpg",
       "PackagePath": "staticwebassets\\desgin\\Animal\\ListImage\\BotBienList1.jpg"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\ListImage\\BotBienList2.jpg",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\ListImage\\BotBienList2.jpg",
       "PackagePath": "staticwebassets\\desgin\\Animal\\ListImage\\BotBienList2.jpg"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\ListImage\\BotBienList3.jpg",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\ListImage\\BotBienList3.jpg",
       "PackagePath": "staticwebassets\\desgin\\Animal\\ListImage\\BotBienList3.jpg"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\ListImage\\CO HEN VS THANH XUAN - Copy.jpg",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\ListImage\\CO HEN VS THANH XUAN - Copy.jpg",
       "PackagePath": "staticwebassets\\desgin\\Animal\\ListImage\\CO HEN VS THANH XUAN - Copy.jpg"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\ListImage\\CaChepList1.jpg",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\ListImage\\CaChepList1.jpg",
       "PackagePath": "staticwebassets\\desgin\\Animal\\ListImage\\CaChepList1.jpg"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\ListImage\\CaChepList2.jpg",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\ListImage\\CaChepList2.jpg",
       "PackagePath": "staticwebassets\\desgin\\Animal\\ListImage\\CaChepList2.jpg"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\ListImage\\CaChepList3.jpg",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\ListImage\\CaChepList3.jpg",
       "PackagePath": "staticwebassets\\desgin\\Animal\\ListImage\\CaChepList3.jpg"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\ListImage\\CaHeoList1.jpg",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\ListImage\\CaHeoList1.jpg",
       "PackagePath": "staticwebassets\\desgin\\Animal\\ListImage\\CaHeoList1.jpg"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\ListImage\\CaHeoList2.jpg",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\ListImage\\CaHeoList2.jpg",
       "PackagePath": "staticwebassets\\desgin\\Animal\\ListImage\\CaHeoList2.jpg"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\ListImage\\CaHeoList3.jpg",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\ListImage\\CaHeoList3.jpg",
       "PackagePath": "staticwebassets\\desgin\\Animal\\ListImage\\CaHeoList3.jpg"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\ListImage\\CaHoiList1.jpg",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\ListImage\\CaHoiList1.jpg",
       "PackagePath": "staticwebassets\\desgin\\Animal\\ListImage\\CaHoiList1.jpg"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\ListImage\\CaHoiList2.jpg",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\ListImage\\CaHoiList2.jpg",
       "PackagePath": "staticwebassets\\desgin\\Animal\\ListImage\\CaHoiList2.jpg"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\ListImage\\CaHoiList3.jpg",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\ListImage\\CaHoiList3.jpg",
       "PackagePath": "staticwebassets\\desgin\\Animal\\ListImage\\CaHoiList3.jpg"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\ListImage\\CaKiemList1.jpg",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\ListImage\\CaKiemList1.jpg",
       "PackagePath": "staticwebassets\\desgin\\Animal\\ListImage\\CaKiemList1.jpg"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\ListImage\\CaKiemList2.jpg",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\ListImage\\CaKiemList2.jpg",
       "PackagePath": "staticwebassets\\desgin\\Animal\\ListImage\\CaKiemList2.jpg"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\ListImage\\CaKiemList3.jpg",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\ListImage\\CaKiemList3.jpg",
       "PackagePath": "staticwebassets\\desgin\\Animal\\ListImage\\CaKiemList3.jpg"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\ListImage\\CaLocList1.jpg",
-      "PackagePath": "staticwebassets\\desgin\\Animal\\ListImage\\CaLocList1.jpg"
-    },
-    {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\ListImage\\CaLocList2.jpg",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\ListImage\\CaLocList2.jpg",
       "PackagePath": "staticwebassets\\desgin\\Animal\\ListImage\\CaLocList2.jpg"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\ListImage\\CaLocList3.jpg",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\ListImage\\CaLocList3.jpg",
       "PackagePath": "staticwebassets\\desgin\\Animal\\ListImage\\CaLocList3.jpg"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\ListImage\\CaMapDauBuaList1.jpg",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\ListImage\\CaMapDauBuaList1.jpg",
       "PackagePath": "staticwebassets\\desgin\\Animal\\ListImage\\CaMapDauBuaList1.jpg"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\ListImage\\CaMapDauBuaList2.jpg",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\ListImage\\CaMapDauBuaList2.jpg",
       "PackagePath": "staticwebassets\\desgin\\Animal\\ListImage\\CaMapDauBuaList2.jpg"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\ListImage\\CaMapDauBuaList3.jpg",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\ListImage\\CaMapDauBuaList3.jpg",
       "PackagePath": "staticwebassets\\desgin\\Animal\\ListImage\\CaMapDauBuaList3.jpg"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\ListImage\\CaMapList1.jpg",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\ListImage\\CaMapList1.jpg",
       "PackagePath": "staticwebassets\\desgin\\Animal\\ListImage\\CaMapList1.jpg"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\ListImage\\CaMapList2.jpg",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\ListImage\\CaMapList2.jpg",
       "PackagePath": "staticwebassets\\desgin\\Animal\\ListImage\\CaMapList2.jpg"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\ListImage\\CaMapList3.jpg",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\ListImage\\CaMapList3.jpg",
       "PackagePath": "staticwebassets\\desgin\\Animal\\ListImage\\CaMapList3.jpg"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\ListImage\\CaNguList1.jpg",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\ListImage\\CaNguList1.jpg",
       "PackagePath": "staticwebassets\\desgin\\Animal\\ListImage\\CaNguList1.jpg"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\ListImage\\CaNguList2.jpg",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\ListImage\\CaNguList2.jpg",
       "PackagePath": "staticwebassets\\desgin\\Animal\\ListImage\\CaNguList2.jpg"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\ListImage\\CaNguList3.jpg",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\ListImage\\CaNguList3.jpg",
       "PackagePath": "staticwebassets\\desgin\\Animal\\ListImage\\CaNguList3.jpg"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\ListImage\\CaSauList1.jpg",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\ListImage\\CaSauList1.jpg",
       "PackagePath": "staticwebassets\\desgin\\Animal\\ListImage\\CaSauList1.jpg"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\ListImage\\CaSauList2.jpg",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\ListImage\\CaSauList2.jpg",
       "PackagePath": "staticwebassets\\desgin\\Animal\\ListImage\\CaSauList2.jpg"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\ListImage\\CaSauList3.jpg",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\ListImage\\CaSauList3.jpg",
       "PackagePath": "staticwebassets\\desgin\\Animal\\ListImage\\CaSauList3.jpg"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\ListImage\\CaTrichList1.jpg",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\ListImage\\CaTrichList1.jpg",
       "PackagePath": "staticwebassets\\desgin\\Animal\\ListImage\\CaTrichList1.jpg"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\ListImage\\CaTrichList2.jpg",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\ListImage\\CaTrichList2.jpg",
       "PackagePath": "staticwebassets\\desgin\\Animal\\ListImage\\CaTrichList2.jpg"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\ListImage\\CaTrichList3.jpg",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\ListImage\\CaTrichList3.jpg",
       "PackagePath": "staticwebassets\\desgin\\Animal\\ListImage\\CaTrichList3.jpg"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\ListImage\\ChimCanhCutList1.jpg",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\ListImage\\CalocList1.jpg",
+      "PackagePath": "staticwebassets\\desgin\\Animal\\ListImage\\CalocList1.jpg"
+    },
+    {
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\ListImage\\ChimCanhCutList1.jpg",
       "PackagePath": "staticwebassets\\desgin\\Animal\\ListImage\\ChimCanhCutList1.jpg"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\ListImage\\ChimCanhCutList2.jpg",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\ListImage\\ChimCanhCutList2.jpg",
       "PackagePath": "staticwebassets\\desgin\\Animal\\ListImage\\ChimCanhCutList2.jpg"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\ListImage\\ChimCanhCutList3.jpg",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\ListImage\\ChimCanhCutList3.jpg",
       "PackagePath": "staticwebassets\\desgin\\Animal\\ListImage\\ChimCanhCutList3.jpg"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\ListImage\\CocList2.jpg",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\ListImage\\CocList1.jpg",
+      "PackagePath": "staticwebassets\\desgin\\Animal\\ListImage\\CocList1.jpg"
+    },
+    {
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\ListImage\\CocList2.jpg",
       "PackagePath": "staticwebassets\\desgin\\Animal\\ListImage\\CocList2.jpg"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\ListImage\\CocList3.jpg",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\ListImage\\CocList3.jpg",
       "PackagePath": "staticwebassets\\desgin\\Animal\\ListImage\\CocList3.jpg"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\ListImage\\CuDaList1.jpeg",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\ListImage\\CuDaList1.jpeg",
       "PackagePath": "staticwebassets\\desgin\\Animal\\ListImage\\CuDaList1.jpeg"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\ListImage\\CuDaList3.jpg",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\ListImage\\CuDaList3.jpg",
       "PackagePath": "staticwebassets\\desgin\\Animal\\ListImage\\CuDaList3.jpg"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\ListImage\\CuList1.jpg",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\ListImage\\CuList1.jpg",
       "PackagePath": "staticwebassets\\desgin\\Animal\\ListImage\\CuList1.jpg"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\ListImage\\CuList2.jpg",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\ListImage\\CuList2.jpg",
       "PackagePath": "staticwebassets\\desgin\\Animal\\ListImage\\CuList2.jpg"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\ListImage\\CuList3.jpg",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\ListImage\\CuList3.jpg",
       "PackagePath": "staticwebassets\\desgin\\Animal\\ListImage\\CuList3.jpg"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\ListImage\\DA VU - Copy.jpg",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\ListImage\\DA VU - Copy.jpg",
       "PackagePath": "staticwebassets\\desgin\\Animal\\ListImage\\DA VU - Copy.jpg"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\ListImage\\DaiBangList1.jpg",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\ListImage\\DaiBangList1.jpg",
       "PackagePath": "staticwebassets\\desgin\\Animal\\ListImage\\DaiBangList1.jpg"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\ListImage\\DaiBangList2.jpg",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\ListImage\\DaiBangList2.jpg",
       "PackagePath": "staticwebassets\\desgin\\Animal\\ListImage\\DaiBangList2.jpg"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\ListImage\\DaiBangList3.jpg",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\ListImage\\DaiBangList3.jpg",
       "PackagePath": "staticwebassets\\desgin\\Animal\\ListImage\\DaiBangList3.jpg"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\ListImage\\DiaList1.jpg",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\ListImage\\DiaList1.jpg",
       "PackagePath": "staticwebassets\\desgin\\Animal\\ListImage\\DiaList1.jpg"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\ListImage\\DiaList2.jpg",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\ListImage\\DiaList2.jpg",
       "PackagePath": "staticwebassets\\desgin\\Animal\\ListImage\\DiaList2.jpg"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\ListImage\\DiaList3.jpg",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\ListImage\\DiaList3.jpg",
       "PackagePath": "staticwebassets\\desgin\\Animal\\ListImage\\DiaList3.jpg"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\ListImage\\DoiList1.jpg",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\ListImage\\DoiList1.jpg",
       "PackagePath": "staticwebassets\\desgin\\Animal\\ListImage\\DoiList1.jpg"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\ListImage\\DoiList2.jpg",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\ListImage\\DoiList2.jpg",
       "PackagePath": "staticwebassets\\desgin\\Animal\\ListImage\\DoiList2.jpg"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\ListImage\\DoiList3.jpg",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\ListImage\\DoiList3.jpg",
       "PackagePath": "staticwebassets\\desgin\\Animal\\ListImage\\DoiList3.jpg"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\ListImage\\GauList1.png",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\ListImage\\GauList1.png",
       "PackagePath": "staticwebassets\\desgin\\Animal\\ListImage\\GauList1.png"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\ListImage\\GauList2.jpeg",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\ListImage\\GauList2.jpeg",
       "PackagePath": "staticwebassets\\desgin\\Animal\\ListImage\\GauList2.jpeg"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\ListImage\\GauList3.jpg",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\ListImage\\GauList3.jpg",
       "PackagePath": "staticwebassets\\desgin\\Animal\\ListImage\\GauList3.jpg"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\ListImage\\GauTrucList1.jpeg",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\ListImage\\GauTrucList1.jpeg",
       "PackagePath": "staticwebassets\\desgin\\Animal\\ListImage\\GauTrucList1.jpeg"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\ListImage\\GauTrucList2.jpg",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\ListImage\\GauTrucList2.jpg",
       "PackagePath": "staticwebassets\\desgin\\Animal\\ListImage\\GauTrucList2.jpg"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\ListImage\\GauTrucList3.jpg",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\ListImage\\GauTrucList3.jpg",
       "PackagePath": "staticwebassets\\desgin\\Animal\\ListImage\\GauTrucList3.jpg"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\ListImage\\HoList1.jpg",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\ListImage\\HoList1.jpg",
       "PackagePath": "staticwebassets\\desgin\\Animal\\ListImage\\HoList1.jpg"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\ListImage\\HoList2.jpg",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\ListImage\\HoList2.jpg",
       "PackagePath": "staticwebassets\\desgin\\Animal\\ListImage\\HoList2.jpg"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\ListImage\\HoList3.jpg",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\ListImage\\HoList3.jpg",
       "PackagePath": "staticwebassets\\desgin\\Animal\\ListImage\\HoList3.jpg"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\ListImage\\HongHacList1.jpg",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\ListImage\\HongHacList1.jpg",
       "PackagePath": "staticwebassets\\desgin\\Animal\\ListImage\\HongHacList1.jpg"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\ListImage\\HongHacList2.jpg",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\ListImage\\HongHacList2.jpg",
       "PackagePath": "staticwebassets\\desgin\\Animal\\ListImage\\HongHacList2.jpg"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\ListImage\\HuoucaocoList3.jpg",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\ListImage\\HuoucaocoList3.jpg",
       "PackagePath": "staticwebassets\\desgin\\Animal\\ListImage\\HuoucaocoList3.jpg"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\ListImage\\HuuCaoCoList1.jpg",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\ListImage\\HuuCaoCoList1.jpg",
       "PackagePath": "staticwebassets\\desgin\\Animal\\ListImage\\HuuCaoCoList1.jpg"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\ListImage\\HuuCaoCoList2.jpg",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\ListImage\\HuuCaoCoList2.jpg",
       "PackagePath": "staticwebassets\\desgin\\Animal\\ListImage\\HuuCaoCoList2.jpg"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\ListImage\\KenKenList1.jpeg",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\ListImage\\KenKenList1.jpeg",
       "PackagePath": "staticwebassets\\desgin\\Animal\\ListImage\\KenKenList1.jpeg"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\ListImage\\KenKenList2.jpg",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\ListImage\\KenKenList2.jpg",
       "PackagePath": "staticwebassets\\desgin\\Animal\\ListImage\\KenKenList2.jpg"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\ListImage\\KenKenList3.jpg",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\ListImage\\KenKenList3.jpg",
       "PackagePath": "staticwebassets\\desgin\\Animal\\ListImage\\KenKenList3.jpg"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\ListImage\\KoiList1.jpg",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\ListImage\\KoiList1.jpg",
       "PackagePath": "staticwebassets\\desgin\\Animal\\ListImage\\KoiList1.jpg"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\ListImage\\KoiList2.jpg",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\ListImage\\KoiList2.jpg",
       "PackagePath": "staticwebassets\\desgin\\Animal\\ListImage\\KoiList2.jpg"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\ListImage\\KoiList3.jpeg",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\ListImage\\KoiList3.jpeg",
       "PackagePath": "staticwebassets\\desgin\\Animal\\ListImage\\KoiList3.jpeg"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\ListImage\\KyGiongKhongLoList1.jpg",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\ListImage\\KyGiongKhongLoList1.jpg",
       "PackagePath": "staticwebassets\\desgin\\Animal\\ListImage\\KyGiongKhongLoList1.jpg"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\ListImage\\KyGiongKhongLoList2.JPG",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\ListImage\\KyGiongKhongLoList2.JPG",
       "PackagePath": "staticwebassets\\desgin\\Animal\\ListImage\\KyGiongKhongLoList2.JPG"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\ListImage\\KyGiongKhongLoList3.jpg",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\ListImage\\KyGiongKhongLoList3.jpg",
       "PackagePath": "staticwebassets\\desgin\\Animal\\ListImage\\KyGiongKhongLoList3.jpg"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\ListImage\\KyGiongList1.jpg",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\ListImage\\KyGiongList1.jpg",
       "PackagePath": "staticwebassets\\desgin\\Animal\\ListImage\\KyGiongList1.jpg"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\ListImage\\KyGiongList2.jpg",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\ListImage\\KyGiongList2.jpg",
       "PackagePath": "staticwebassets\\desgin\\Animal\\ListImage\\KyGiongList2.jpg"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\ListImage\\KyGiongList3.jpg",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\ListImage\\KyGiongList3.jpg",
       "PackagePath": "staticwebassets\\desgin\\Animal\\ListImage\\KyGiongList3.jpg"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\ListImage\\KyGiongLuaList1.jpg",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\ListImage\\KyGiongLuaList1.jpg",
       "PackagePath": "staticwebassets\\desgin\\Animal\\ListImage\\KyGiongLuaList1.jpg"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\ListImage\\KyGiongLuaList2.jpg",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\ListImage\\KyGiongLuaList2.jpg",
       "PackagePath": "staticwebassets\\desgin\\Animal\\ListImage\\KyGiongLuaList2.jpg"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\ListImage\\KyGiongLuaList3.jpg",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\ListImage\\KyGiongLuaList3.jpg",
       "PackagePath": "staticwebassets\\desgin\\Animal\\ListImage\\KyGiongLuaList3.jpg"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\ListImage\\KyNhongList2.jpg",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\ListImage\\KyNhongList2.jpg",
       "PackagePath": "staticwebassets\\desgin\\Animal\\ListImage\\KyNhongList2.jpg"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\ListImage\\KynhongList1.jpg",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\ListImage\\KynhongList1.jpg",
       "PackagePath": "staticwebassets\\desgin\\Animal\\ListImage\\KynhongList1.jpg"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\ListImage\\KynhongList3.jpg",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\ListImage\\KynhongList3.jpg",
       "PackagePath": "staticwebassets\\desgin\\Animal\\ListImage\\KynhongList3.jpg"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\ListImage\\NhaiList1.jpg",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\ListImage\\NhaiList1.jpg",
       "PackagePath": "staticwebassets\\desgin\\Animal\\ListImage\\NhaiList1.jpg"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\ListImage\\NhaiList2.jpg",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\ListImage\\NhaiList2.jpg",
       "PackagePath": "staticwebassets\\desgin\\Animal\\ListImage\\NhaiList2.jpg"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\ListImage\\NhaiList3.jpg",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\ListImage\\NhaiList3.jpg",
       "PackagePath": "staticwebassets\\desgin\\Animal\\ListImage\\NhaiList3.jpg"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\ListImage\\OcSenList1.jpg",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\ListImage\\OcSenList1.jpg",
       "PackagePath": "staticwebassets\\desgin\\Animal\\ListImage\\OcSenList1.jpg"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\ListImage\\OcSenList2.jpg",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\ListImage\\OcSenList2.jpg",
       "PackagePath": "staticwebassets\\desgin\\Animal\\ListImage\\OcSenList2.jpg"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\ListImage\\OcSenList3.jpg",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\ListImage\\OcSenList3.jpg",
       "PackagePath": "staticwebassets\\desgin\\Animal\\ListImage\\OcSenList3.jpg"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\ListImage\\QuaList1.jpg",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\ListImage\\QuaList1.jpg",
       "PackagePath": "staticwebassets\\desgin\\Animal\\ListImage\\QuaList1.jpg"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\ListImage\\QuaList2.jpg",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\ListImage\\QuaList2.jpg",
       "PackagePath": "staticwebassets\\desgin\\Animal\\ListImage\\QuaList2.jpg"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\ListImage\\QuaList3.jpg",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\ListImage\\QuaList3.jpg",
       "PackagePath": "staticwebassets\\desgin\\Animal\\ListImage\\QuaList3.jpg"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\ListImage\\RanList1.jpg",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\ListImage\\RanList1.jpg",
       "PackagePath": "staticwebassets\\desgin\\Animal\\ListImage\\RanList1.jpg"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\ListImage\\RanList2.jpg",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\ListImage\\RanList2.jpg",
       "PackagePath": "staticwebassets\\desgin\\Animal\\ListImage\\RanList2.jpg"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\ListImage\\RanList3.jpg",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\ListImage\\RanList3.jpg",
       "PackagePath": "staticwebassets\\desgin\\Animal\\ListImage\\RanList3.jpg"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\ListImage\\RuaBienList1.jpg",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\ListImage\\RuaBienList1.jpg",
       "PackagePath": "staticwebassets\\desgin\\Animal\\ListImage\\RuaBienList1.jpg"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\ListImage\\RuaBienList2.jpg",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\ListImage\\RuaBienList2.jpg",
       "PackagePath": "staticwebassets\\desgin\\Animal\\ListImage\\RuaBienList2.jpg"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\ListImage\\RuaBienList3.jpeg",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\ListImage\\RuaBienList3.jpeg",
       "PackagePath": "staticwebassets\\desgin\\Animal\\ListImage\\RuaBienList3.jpeg"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\ListImage\\RuaList1.jpg",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\ListImage\\RuaList1.jpg",
       "PackagePath": "staticwebassets\\desgin\\Animal\\ListImage\\RuaList1.jpg"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\ListImage\\RuaList2.jpg",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\ListImage\\RuaList2.jpg",
       "PackagePath": "staticwebassets\\desgin\\Animal\\ListImage\\RuaList2.jpg"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\ListImage\\RuaList3.jpg",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\ListImage\\RuaList3.jpg",
       "PackagePath": "staticwebassets\\desgin\\Animal\\ListImage\\RuaList3.jpg"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\ListImage\\SaGiongList1.jpg",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\ListImage\\SaGiongList1.jpg",
       "PackagePath": "staticwebassets\\desgin\\Animal\\ListImage\\SaGiongList1.jpg"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\ListImage\\SaGiongList2.jpg",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\ListImage\\SaGiongList2.jpg",
       "PackagePath": "staticwebassets\\desgin\\Animal\\ListImage\\SaGiongList2.jpg"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\ListImage\\SaGiongList3.jpg",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\ListImage\\SaGiongList3.jpg",
       "PackagePath": "staticwebassets\\desgin\\Animal\\ListImage\\SaGiongList3.jpg"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\ListImage\\SanHoList1.jpg",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\ListImage\\SanHoList1.jpg",
       "PackagePath": "staticwebassets\\desgin\\Animal\\ListImage\\SanHoList1.jpg"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\ListImage\\SanHoList2.jpg",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\ListImage\\SanHoList2.jpg",
       "PackagePath": "staticwebassets\\desgin\\Animal\\ListImage\\SanHoList2.jpg"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\ListImage\\SanHoList3.jpg",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\ListImage\\SanHoList3.jpg",
       "PackagePath": "staticwebassets\\desgin\\Animal\\ListImage\\SanHoList3.jpg"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\ListImage\\SauBuomList1.jpg",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\ListImage\\SauBuomList1.jpg",
       "PackagePath": "staticwebassets\\desgin\\Animal\\ListImage\\SauBuomList1.jpg"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\ListImage\\SauBuomList2.jpg",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\ListImage\\SauBuomList2.jpg",
       "PackagePath": "staticwebassets\\desgin\\Animal\\ListImage\\SauBuomList2.jpg"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\ListImage\\SauBuomList3.jpg",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\ListImage\\SauBuomList3.jpg",
       "PackagePath": "staticwebassets\\desgin\\Animal\\ListImage\\SauBuomList3.jpg"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\ListImage\\SeList1.jpg",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\ListImage\\SeList1.jpg",
       "PackagePath": "staticwebassets\\desgin\\Animal\\ListImage\\SeList1.jpg"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\ListImage\\SeList2.jpg",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\ListImage\\SeList2.jpg",
       "PackagePath": "staticwebassets\\desgin\\Animal\\ListImage\\SeList2.jpg"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\ListImage\\SeList3.jpg",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\ListImage\\SeList3.jpg",
       "PackagePath": "staticwebassets\\desgin\\Animal\\ListImage\\SeList3.jpg"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\ListImage\\SuaList1.jpg",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\ListImage\\SuaList1.jpg",
       "PackagePath": "staticwebassets\\desgin\\Animal\\ListImage\\SuaList1.jpg"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\ListImage\\SuaList2.jpg",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\ListImage\\SuaList2.jpg",
       "PackagePath": "staticwebassets\\desgin\\Animal\\ListImage\\SuaList2.jpg"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\ListImage\\SuaList3.jpg",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\ListImage\\SuaList3.jpg",
       "PackagePath": "staticwebassets\\desgin\\Animal\\ListImage\\SuaList3.jpg"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\ListImage\\TacKeBongList1.jpg",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\ListImage\\TacKeBongList1.jpg",
       "PackagePath": "staticwebassets\\desgin\\Animal\\ListImage\\TacKeBongList1.jpg"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\ListImage\\TacKeBongList2.jpg",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\ListImage\\TacKeBongList2.jpg",
       "PackagePath": "staticwebassets\\desgin\\Animal\\ListImage\\TacKeBongList2.jpg"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\ListImage\\TacKeBongList3.jpg",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\ListImage\\TacKeBongList3.jpg",
       "PackagePath": "staticwebassets\\desgin\\Animal\\ListImage\\TacKeBongList3.jpg"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\ListImage\\TeGiacList1.jpg",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\ListImage\\TeGiacList1.jpg",
       "PackagePath": "staticwebassets\\desgin\\Animal\\ListImage\\TeGiacList1.jpg"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\ListImage\\TeGiacList2.jpg",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\ListImage\\TeGiacList2.jpg",
       "PackagePath": "staticwebassets\\desgin\\Animal\\ListImage\\TeGiacList2.jpg"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\ListImage\\TeGiacList3.jpg",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\ListImage\\TeGiacList3.jpg",
       "PackagePath": "staticwebassets\\desgin\\Animal\\ListImage\\TeGiacList3.jpg"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\ListImage\\ThanLanList1.jpg",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\ListImage\\ThanLanList1.jpg",
       "PackagePath": "staticwebassets\\desgin\\Animal\\ListImage\\ThanLanList1.jpg"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\ListImage\\ThanLanList2.jpg",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\ListImage\\ThanLanList2.jpg",
       "PackagePath": "staticwebassets\\desgin\\Animal\\ListImage\\ThanLanList2.jpg"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\ListImage\\ThanLanList3.jpg",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\ListImage\\ThanLanList3.jpg",
       "PackagePath": "staticwebassets\\desgin\\Animal\\ListImage\\ThanLanList3.jpg"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\ListImage\\ThuMoVitList1.jpg",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\ListImage\\ThuMoVitList1.jpg",
       "PackagePath": "staticwebassets\\desgin\\Animal\\ListImage\\ThuMoVitList1.jpg"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\ListImage\\ThuMoVitList2.jpg",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\ListImage\\ThuMoVitList2.jpg",
       "PackagePath": "staticwebassets\\desgin\\Animal\\ListImage\\ThuMoVitList2.jpg"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\ListImage\\ThuMoVitList3.jpg",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\ListImage\\ThuMoVitList3.jpg",
       "PackagePath": "staticwebassets\\desgin\\Animal\\ListImage\\ThuMoVitList3.jpg"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\ListImage\\TomList1.jpg",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\ListImage\\TomList1.jpg",
       "PackagePath": "staticwebassets\\desgin\\Animal\\ListImage\\TomList1.jpg"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\ListImage\\TomList2.jpg",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\ListImage\\TomList2.jpg",
       "PackagePath": "staticwebassets\\desgin\\Animal\\ListImage\\TomList2.jpg"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\ListImage\\TomList3.jpg",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\ListImage\\TomList3.jpg",
       "PackagePath": "staticwebassets\\desgin\\Animal\\ListImage\\TomList3.jpg"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\ListImage\\VoiList1.jpg",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\ListImage\\VoiList1.jpg",
       "PackagePath": "staticwebassets\\desgin\\Animal\\ListImage\\VoiList1.jpg"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\ListImage\\VoiList2.jpg",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\ListImage\\VoiList2.jpg",
       "PackagePath": "staticwebassets\\desgin\\Animal\\ListImage\\VoiList2.jpg"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\ListImage\\VoiList3.jpg",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\ListImage\\VoiList3.jpg",
       "PackagePath": "staticwebassets\\desgin\\Animal\\ListImage\\VoiList3.jpg"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\ListImage\\cocList1.jpg",
-      "PackagePath": "staticwebassets\\desgin\\Animal\\ListImage\\cocList1.jpg"
-    },
-    {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\ListImage\\gekkoList1.jpg",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\ListImage\\gekkoList1.jpg",
       "PackagePath": "staticwebassets\\desgin\\Animal\\ListImage\\gekkoList1.jpg"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\ListImage\\gekkoList2.jpg",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\ListImage\\gekkoList2.jpg",
       "PackagePath": "staticwebassets\\desgin\\Animal\\ListImage\\gekkoList2.jpg"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\ListImage\\gekkoList3.jpg",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\ListImage\\gekkoList3.jpg",
       "PackagePath": "staticwebassets\\desgin\\Animal\\ListImage\\gekkoList3.jpg"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\ListImage\\honghacList3.jpg",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\ListImage\\honghacList3.jpg",
       "PackagePath": "staticwebassets\\desgin\\Animal\\ListImage\\honghacList3.jpg"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\ListImage\\komodoList1.jpg",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\ListImage\\komodoList1.jpg",
       "PackagePath": "staticwebassets\\desgin\\Animal\\ListImage\\komodoList1.jpg"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\ListImage\\komodoList2.jpeg",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\ListImage\\komodoList2.jpeg",
       "PackagePath": "staticwebassets\\desgin\\Animal\\ListImage\\komodoList2.jpeg"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\ListImage\\komodoList3.jpg",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\ListImage\\komodoList3.jpg",
       "PackagePath": "staticwebassets\\desgin\\Animal\\ListImage\\komodoList3.jpg"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\NoiSinhSong\\2AE14CDD-1265-470C-9B15F49024186C10_source.webp",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\NoiSinhSong\\2AE14CDD-1265-470C-9B15F49024186C10_source.webp",
       "PackagePath": "staticwebassets\\desgin\\Animal\\NoiSinhSong\\2AE14CDD-1265-470C-9B15F49024186C10_source.webp"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\NoiSinhSong\\bachtuotNSS.png",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\NoiSinhSong\\bachtuotNSS.png",
       "PackagePath": "staticwebassets\\desgin\\Animal\\NoiSinhSong\\bachtuotNSS.png"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\NoiSinhSong\\bocanhcungNSS.png",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\NoiSinhSong\\bocanhcungNSS.png",
       "PackagePath": "staticwebassets\\desgin\\Animal\\NoiSinhSong\\bocanhcungNSS.png"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\NoiSinhSong\\bocauNSS.png",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\NoiSinhSong\\bocauNSS.png",
       "PackagePath": "staticwebassets\\desgin\\Animal\\NoiSinhSong\\bocauNSS.png"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\NoiSinhSong\\bonongNSS.png",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\NoiSinhSong\\bonongNSS.png",
       "PackagePath": "staticwebassets\\desgin\\Animal\\NoiSinhSong\\bonongNSS.png"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\NoiSinhSong\\botbienNSS.png",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\NoiSinhSong\\botbienNSS.png",
       "PackagePath": "staticwebassets\\desgin\\Animal\\NoiSinhSong\\botbienNSS.png"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\NoiSinhSong\\cachepNSS.png",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\NoiSinhSong\\cachepNSS.png",
       "PackagePath": "staticwebassets\\desgin\\Animal\\NoiSinhSong\\cachepNSS.png"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\NoiSinhSong\\caheoNSS.png",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\NoiSinhSong\\caheoNSS.png",
       "PackagePath": "staticwebassets\\desgin\\Animal\\NoiSinhSong\\caheoNSS.png"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\NoiSinhSong\\cahoiNSS.png",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\NoiSinhSong\\cahoiNSS.png",
       "PackagePath": "staticwebassets\\desgin\\Animal\\NoiSinhSong\\cahoiNSS.png"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\NoiSinhSong\\cakiemNSS.png",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\NoiSinhSong\\cakiemNSS.png",
       "PackagePath": "staticwebassets\\desgin\\Animal\\NoiSinhSong\\cakiemNSS.png"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\NoiSinhSong\\calocNSS.png",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\NoiSinhSong\\calocNSS.png",
       "PackagePath": "staticwebassets\\desgin\\Animal\\NoiSinhSong\\calocNSS.png"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\NoiSinhSong\\camapNSS.png",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\NoiSinhSong\\camapNSS.png",
       "PackagePath": "staticwebassets\\desgin\\Animal\\NoiSinhSong\\camapNSS.png"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\NoiSinhSong\\camapdaubuaNSS.png",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\NoiSinhSong\\camapdaubuaNSS.png",
       "PackagePath": "staticwebassets\\desgin\\Animal\\NoiSinhSong\\camapdaubuaNSS.png"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\NoiSinhSong\\canguNSS.png",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\NoiSinhSong\\canguNSS.png",
       "PackagePath": "staticwebassets\\desgin\\Animal\\NoiSinhSong\\canguNSS.png"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\NoiSinhSong\\casauNSS.png",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\NoiSinhSong\\casauNSS.png",
       "PackagePath": "staticwebassets\\desgin\\Animal\\NoiSinhSong\\casauNSS.png"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\NoiSinhSong\\catrichNSS.png",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\NoiSinhSong\\catrichNSS.png",
       "PackagePath": "staticwebassets\\desgin\\Animal\\NoiSinhSong\\catrichNSS.png"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\NoiSinhSong\\chimcanhcutNSS.png",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\NoiSinhSong\\chimcanhcutNSS.png",
       "PackagePath": "staticwebassets\\desgin\\Animal\\NoiSinhSong\\chimcanhcutNSS.png"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\NoiSinhSong\\cocNSS.png",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\NoiSinhSong\\cocNSS.png",
       "PackagePath": "staticwebassets\\desgin\\Animal\\NoiSinhSong\\cocNSS.png"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\NoiSinhSong\\cuNSS.png",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\NoiSinhSong\\cuNSS.png",
       "PackagePath": "staticwebassets\\desgin\\Animal\\NoiSinhSong\\cuNSS.png"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\NoiSinhSong\\cudaNSS.png",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\NoiSinhSong\\cudaNSS.png",
       "PackagePath": "staticwebassets\\desgin\\Animal\\NoiSinhSong\\cudaNSS.png"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\NoiSinhSong\\daibangNSS.png",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\NoiSinhSong\\daibangNSS.png",
       "PackagePath": "staticwebassets\\desgin\\Animal\\NoiSinhSong\\daibangNSS.png"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\NoiSinhSong\\desktop.ini",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\NoiSinhSong\\desktop.ini",
       "PackagePath": "staticwebassets\\desgin\\Animal\\NoiSinhSong\\desktop.ini"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\NoiSinhSong\\diaNSS.png",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\NoiSinhSong\\diaNSS.png",
       "PackagePath": "staticwebassets\\desgin\\Animal\\NoiSinhSong\\diaNSS.png"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\NoiSinhSong\\echgiunNSS.png",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\NoiSinhSong\\echgiunNSS.png",
       "PackagePath": "staticwebassets\\desgin\\Animal\\NoiSinhSong\\echgiunNSS.png"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\NoiSinhSong\\gauNSS.png",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\NoiSinhSong\\gauNSS.png",
       "PackagePath": "staticwebassets\\desgin\\Animal\\NoiSinhSong\\gauNSS.png"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\NoiSinhSong\\gautrucNSS.png",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\NoiSinhSong\\gautrucNSS.png",
       "PackagePath": "staticwebassets\\desgin\\Animal\\NoiSinhSong\\gautrucNSS.png"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\NoiSinhSong\\gekkoNSS.png",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\NoiSinhSong\\gekkoNSS.png",
       "PackagePath": "staticwebassets\\desgin\\Animal\\NoiSinhSong\\gekkoNSS.png"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\NoiSinhSong\\giphy (2).gif",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\NoiSinhSong\\giphy (2).gif",
       "PackagePath": "staticwebassets\\desgin\\Animal\\NoiSinhSong\\giphy (2).gif"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\NoiSinhSong\\hoNSS.png",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\NoiSinhSong\\hoAvatar.jpg",
+      "PackagePath": "staticwebassets\\desgin\\Animal\\NoiSinhSong\\hoAvatar.jpg"
+    },
+    {
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\NoiSinhSong\\hoNSS.png",
       "PackagePath": "staticwebassets\\desgin\\Animal\\NoiSinhSong\\hoNSS.png"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\NoiSinhSong\\honghacNSS.png",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\NoiSinhSong\\honghacNSS.png",
       "PackagePath": "staticwebassets\\desgin\\Animal\\NoiSinhSong\\honghacNSS.png"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\NoiSinhSong\\huoucaocoNSS.png",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\NoiSinhSong\\huoucaocoNSS.png",
       "PackagePath": "staticwebassets\\desgin\\Animal\\NoiSinhSong\\huoucaocoNSS.png"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\NoiSinhSong\\koiNSS.png",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\NoiSinhSong\\koiNSS.png",
       "PackagePath": "staticwebassets\\desgin\\Animal\\NoiSinhSong\\koiNSS.png"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\NoiSinhSong\\komodoNSS.png",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\NoiSinhSong\\komodoNSS.png",
       "PackagePath": "staticwebassets\\desgin\\Animal\\NoiSinhSong\\komodoNSS.png"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\NoiSinhSong\\kygiongNSS.png",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\NoiSinhSong\\kygiongNSS.png",
       "PackagePath": "staticwebassets\\desgin\\Animal\\NoiSinhSong\\kygiongNSS.png"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\NoiSinhSong\\kygiongkhongloNSS.png",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\NoiSinhSong\\kygiongkhongloNSS.png",
       "PackagePath": "staticwebassets\\desgin\\Animal\\NoiSinhSong\\kygiongkhongloNSS.png"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\NoiSinhSong\\kygiongluaNSS.png",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\NoiSinhSong\\kygiongluaNSS.png",
       "PackagePath": "staticwebassets\\desgin\\Animal\\NoiSinhSong\\kygiongluaNSS.png"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\NoiSinhSong\\kynhongNSS.png",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\NoiSinhSong\\kynhongNSS.png",
       "PackagePath": "staticwebassets\\desgin\\Animal\\NoiSinhSong\\kynhongNSS.png"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\NoiSinhSong\\manhgiongNSS.png",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\NoiSinhSong\\manhgiongNSS.png",
       "PackagePath": "staticwebassets\\desgin\\Animal\\NoiSinhSong\\manhgiongNSS.png"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\NoiSinhSong\\nhaiNSS.png",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\NoiSinhSong\\nhaiNSS.png",
       "PackagePath": "staticwebassets\\desgin\\Animal\\NoiSinhSong\\nhaiNSS.png"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\NoiSinhSong\\ocsenNSS.png",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\NoiSinhSong\\ocsenNSS.png",
       "PackagePath": "staticwebassets\\desgin\\Animal\\NoiSinhSong\\ocsenNSS.png"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\NoiSinhSong\\quaNSS.png",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\NoiSinhSong\\quaNSS.png",
       "PackagePath": "staticwebassets\\desgin\\Animal\\NoiSinhSong\\quaNSS.png"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\NoiSinhSong\\ranNSS.png",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\NoiSinhSong\\ranNSS.png",
       "PackagePath": "staticwebassets\\desgin\\Animal\\NoiSinhSong\\ranNSS.png"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\NoiSinhSong\\ruaNSS.png",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\NoiSinhSong\\ruaNSS.png",
       "PackagePath": "staticwebassets\\desgin\\Animal\\NoiSinhSong\\ruaNSS.png"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\NoiSinhSong\\ruabienNSS.png",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\NoiSinhSong\\ruabienNSS.png",
       "PackagePath": "staticwebassets\\desgin\\Animal\\NoiSinhSong\\ruabienNSS.png"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\NoiSinhSong\\sagiongNSS.png",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\NoiSinhSong\\sagiongNSS.png",
       "PackagePath": "staticwebassets\\desgin\\Animal\\NoiSinhSong\\sagiongNSS.png"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\NoiSinhSong\\sanhoNSS.png",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\NoiSinhSong\\sanhoNSS.png",
       "PackagePath": "staticwebassets\\desgin\\Animal\\NoiSinhSong\\sanhoNSS.png"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\NoiSinhSong\\saubuomNSS.png",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\NoiSinhSong\\saubuomNSS.png",
       "PackagePath": "staticwebassets\\desgin\\Animal\\NoiSinhSong\\saubuomNSS.png"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\NoiSinhSong\\seNSS.png",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\NoiSinhSong\\seNSS.png",
       "PackagePath": "staticwebassets\\desgin\\Animal\\NoiSinhSong\\seNSS.png"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\NoiSinhSong\\suaNSS.png",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\NoiSinhSong\\suaNSS.png",
       "PackagePath": "staticwebassets\\desgin\\Animal\\NoiSinhSong\\suaNSS.png"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\NoiSinhSong\\tackebongNSS.png",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\NoiSinhSong\\tackebongNSS.png",
       "PackagePath": "staticwebassets\\desgin\\Animal\\NoiSinhSong\\tackebongNSS.png"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\NoiSinhSong\\tegiacNSS.png",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\NoiSinhSong\\tegiacNSS.png",
       "PackagePath": "staticwebassets\\desgin\\Animal\\NoiSinhSong\\tegiacNSS.png"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\NoiSinhSong\\thanlanNSS.png",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\NoiSinhSong\\thanlanNSS.png",
       "PackagePath": "staticwebassets\\desgin\\Animal\\NoiSinhSong\\thanlanNSS.png"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\NoiSinhSong\\thumoivitNSS.png",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\NoiSinhSong\\thumoivitNSS.png",
       "PackagePath": "staticwebassets\\desgin\\Animal\\NoiSinhSong\\thumoivitNSS.png"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\NoiSinhSong\\tomNSS.png",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\NoiSinhSong\\tomNSS.png",
       "PackagePath": "staticwebassets\\desgin\\Animal\\NoiSinhSong\\tomNSS.png"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\NoiSinhSong\\voiNSS.png",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Animal\\NoiSinhSong\\voiNSS.png",
       "PackagePath": "staticwebassets\\desgin\\Animal\\NoiSinhSong\\voiNSS.png"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\ClassAnimal\\Background\\ca.gif",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\ClassAnimal\\Background\\ca.gif",
       "PackagePath": "staticwebassets\\desgin\\ClassAnimal\\Background\\ca.gif"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\ClassAnimal\\Background\\chim.gif",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\ClassAnimal\\Background\\chim.gif",
       "PackagePath": "staticwebassets\\desgin\\ClassAnimal\\Background\\chim.gif"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\ClassAnimal\\Background\\dongvatbosat.gif",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\ClassAnimal\\Background\\dongvatbosat.gif",
       "PackagePath": "staticwebassets\\desgin\\ClassAnimal\\Background\\dongvatbosat.gif"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\ClassAnimal\\Background\\dongvatcovu.gif",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\ClassAnimal\\Background\\dongvatcovu.gif",
       "PackagePath": "staticwebassets\\desgin\\ClassAnimal\\Background\\dongvatcovu.gif"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\ClassAnimal\\Background\\dongvatkhongxuongsong.gif",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\ClassAnimal\\Background\\dongvatkhongxuongsong.gif",
       "PackagePath": "staticwebassets\\desgin\\ClassAnimal\\Background\\dongvatkhongxuongsong.gif"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\ClassAnimal\\Background\\dongvatluongcu.gif",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\ClassAnimal\\Background\\dongvatluongcu.gif",
       "PackagePath": "staticwebassets\\desgin\\ClassAnimal\\Background\\dongvatluongcu.gif"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Explore\\bg.png",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Explore\\bg.png",
       "PackagePath": "staticwebassets\\desgin\\Explore\\bg.png"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Explore\\bosat.png",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Explore\\bosat.png",
       "PackagePath": "staticwebassets\\desgin\\Explore\\bosat.png"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Explore\\ca.png",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Explore\\ca.png",
       "PackagePath": "staticwebassets\\desgin\\Explore\\ca.png"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Explore\\chim.png",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Explore\\chim.png",
       "PackagePath": "staticwebassets\\desgin\\Explore\\chim.png"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Explore\\dongvatcovu.png",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Explore\\dongvatcovu.png",
       "PackagePath": "staticwebassets\\desgin\\Explore\\dongvatcovu.png"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Explore\\khongxuongsong.png",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Explore\\khongxuongsong.png",
       "PackagePath": "staticwebassets\\desgin\\Explore\\khongxuongsong.png"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Explore\\logo.png",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Explore\\logo.png",
       "PackagePath": "staticwebassets\\desgin\\Explore\\logo.png"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Explore\\luongcu.png",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Explore\\luongcu.png",
       "PackagePath": "staticwebassets\\desgin\\Explore\\luongcu.png"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Footer\\FBLogo.png",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Footer\\FBLogo.png",
       "PackagePath": "staticwebassets\\desgin\\Footer\\FBLogo.png"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Footer\\GmailLogo.png",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Footer\\GmailLogo.png",
       "PackagePath": "staticwebassets\\desgin\\Footer\\GmailLogo.png"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Footer\\nekoparalogo.png",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Footer\\nekoparalogo.png",
       "PackagePath": "staticwebassets\\desgin\\Footer\\nekoparalogo.png"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Footer\\wwflogo.png",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Footer\\wwflogo.png",
       "PackagePath": "staticwebassets\\desgin\\Footer\\wwflogo.png"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Header\\logo.png",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Header\\logo.png",
       "PackagePath": "staticwebassets\\desgin\\Header\\logo.png"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Home\\bg.png",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Home\\bg.png",
       "PackagePath": "staticwebassets\\desgin\\Home\\bg.png"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Home\\logo.png",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Home\\logo.png",
       "PackagePath": "staticwebassets\\desgin\\Home\\logo.png"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Post\\1665893054_505_Suletta-nhan-vat-chinh-cua-Gundam-Witch-from-Mercury-hien.jpg",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Post\\1665893054_505_Suletta-nhan-vat-chinh-cua-Gundam-Witch-from-Mercury-hien.jpg",
       "PackagePath": "staticwebassets\\desgin\\Post\\1665893054_505_Suletta-nhan-vat-chinh-cua-Gundam-Witch-from-Mercury-hien.jpg"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Post\\Cat03.jpg",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Post\\Cat03.jpg",
       "PackagePath": "staticwebassets\\desgin\\Post\\Cat03.jpg"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Post\\German-Shepherd-dog-Alsatian.webp",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Post\\German-Shepherd-dog-Alsatian.webp",
       "PackagePath": "staticwebassets\\desgin\\Post\\German-Shepherd-dog-Alsatian.webp"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Post\\Upload\\1248-mien-dat-cua-the-lion-king-160705.jpg",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Post\\Upload\\1248-mien-dat-cua-the-lion-king-160705.jpg",
       "PackagePath": "staticwebassets\\desgin\\Post\\Upload\\1248-mien-dat-cua-the-lion-king-160705.jpg"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Post\\Upload\\244942604-759eac25-0394-4859-9da7-15dc271f16f2.mov",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Post\\Upload\\244942604-759eac25-0394-4859-9da7-15dc271f16f2.mov",
       "PackagePath": "staticwebassets\\desgin\\Post\\Upload\\244942604-759eac25-0394-4859-9da7-15dc271f16f2.mov"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Post\\Upload\\2AE14CDD-1265-470C-9B15F49024186C10_source.webp",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Post\\Upload\\2AE14CDD-1265-470C-9B15F49024186C10_source.webp",
       "PackagePath": "staticwebassets\\desgin\\Post\\Upload\\2AE14CDD-1265-470C-9B15F49024186C10_source.webp"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Post\\Upload\\421065544_960013198813578_3894720143028447120_n.jpg",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Post\\Upload\\421065544_960013198813578_3894720143028447120_n.jpg",
       "PackagePath": "staticwebassets\\desgin\\Post\\Upload\\421065544_960013198813578_3894720143028447120_n.jpg"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Post\\Upload\\Cat03.jpg",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Post\\Upload\\Cat03.jpg",
       "PackagePath": "staticwebassets\\desgin\\Post\\Upload\\Cat03.jpg"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Post\\Upload\\Elephant_WWF_Living_Planet_Report_0.jpg",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Post\\Upload\\Elephant_WWF_Living_Planet_Report_0.jpg",
       "PackagePath": "staticwebassets\\desgin\\Post\\Upload\\Elephant_WWF_Living_Planet_Report_0.jpg"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Post\\Upload\\FVqUjfbiHS9imyJiRiM53-1200-80.jpg",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Post\\Upload\\FVqUjfbiHS9imyJiRiM53-1200-80.jpg",
       "PackagePath": "staticwebassets\\desgin\\Post\\Upload\\FVqUjfbiHS9imyJiRiM53-1200-80.jpg"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Post\\Upload\\HD-wallpaper-tiny-jumping-spider-ultra-animals-insects-nature-macro-insect-spider-tiny.jpg",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Post\\Upload\\HD-wallpaper-tiny-jumping-spider-ultra-animals-insects-nature-macro-insect-spider-tiny.jpg",
       "PackagePath": "staticwebassets\\desgin\\Post\\Upload\\HD-wallpaper-tiny-jumping-spider-ultra-animals-insects-nature-macro-insect-spider-tiny.jpg"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Post\\Upload\\Lion_waiting_in_Namibia.jpg",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Post\\Upload\\Lion_waiting_in_Namibia.jpg",
       "PackagePath": "staticwebassets\\desgin\\Post\\Upload\\Lion_waiting_in_Namibia.jpg"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Post\\Upload\\ai-generated-illustration-wildlife-concept-blue-ring-octopus-blue-ring-octopus-made-generative-ai-illustration-293697666 .jpg",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Post\\Upload\\ai-generated-illustration-wildlife-concept-blue-ring-octopus-blue-ring-octopus-made-generative-ai-illustration-293697666 .jpg",
       "PackagePath": "staticwebassets\\desgin\\Post\\Upload\\ai-generated-illustration-wildlife-concept-blue-ring-octopus-blue-ring-octopus-made-generative-ai-illustration-293697666 .jpg"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Post\\Upload\\cd4e953f0a6baff9f4b2cf7a683d2924.gif",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Post\\Upload\\cd4e953f0a6baff9f4b2cf7a683d2924.gif",
       "PackagePath": "staticwebassets\\desgin\\Post\\Upload\\cd4e953f0a6baff9f4b2cf7a683d2924.gif"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Post\\Upload\\golden-retriever-puppy.jpg",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Post\\Upload\\daibangAvatar.jpg",
+      "PackagePath": "staticwebassets\\desgin\\Post\\Upload\\daibangAvatar.jpg"
+    },
+    {
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Post\\Upload\\doiAvatar.jpg",
+      "PackagePath": "staticwebassets\\desgin\\Post\\Upload\\doiAvatar.jpg"
+    },
+    {
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Post\\Upload\\golden-retriever-puppy.jpg",
       "PackagePath": "staticwebassets\\desgin\\Post\\Upload\\golden-retriever-puppy.jpg"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Post\\Upload\\nahida-genshin-impact-game-4k-wallpaper-uhdpaper.com-727@1@i.jpg",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Post\\Upload\\nahida-genshin-impact-game-4k-wallpaper-uhdpaper.com-727@1@i.jpg",
       "PackagePath": "staticwebassets\\desgin\\Post\\Upload\\nahida-genshin-impact-game-4k-wallpaper-uhdpaper.com-727@1@i.jpg"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Post\\a.png",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Post\\a.png",
       "PackagePath": "staticwebassets\\desgin\\Post\\a.png"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Post\\gByhiS7w.jpg",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Post\\gByhiS7w.jpg",
       "PackagePath": "staticwebassets\\desgin\\Post\\gByhiS7w.jpg"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Post\\golden-retriever-puppy.jpg",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Post\\golden-retriever-puppy.jpg",
       "PackagePath": "staticwebassets\\desgin\\Post\\golden-retriever-puppy.jpg"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Post\\i-think-clara-is-cute-v0-n9qxfyg6wcxa1.webp",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Post\\i-think-clara-is-cute-v0-n9qxfyg6wcxa1.webp",
       "PackagePath": "staticwebassets\\desgin\\Post\\i-think-clara-is-cute-v0-n9qxfyg6wcxa1.webp"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Post\\mountfuji.png",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Post\\mountfuji.png",
       "PackagePath": "staticwebassets\\desgin\\Post\\mountfuji.png"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Support\\bg.png",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\desgin\\Support\\bg.png",
       "PackagePath": "staticwebassets\\desgin\\Support\\bg.png"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\favicon.ico",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\js\\index.js",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\js\\index.js",
       "PackagePath": "staticwebassets\\js\\index.js"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\js\\site.js",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\lib\\bootstrap\\LICENSE",
       "PackagePath": "staticwebassets\\lib\\bootstrap"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Id": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Id": "D:\\DoAnCoSo\\DoAnCoSo\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
     },
     {

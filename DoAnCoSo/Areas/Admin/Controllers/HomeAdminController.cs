@@ -27,6 +27,7 @@ namespace DoAnCoSo.Areas.Admin.Controllers
             _animalRepository = animalRepository;
             _classanimalRepository = classAnimalRepository;
             _animalImageRepository = animalImageRepository;
+            _commentRepository = commentRepository;
             _postRepository = postRepository;
             _context = applicationDbContext;
             _httpClient = new HttpClient();
@@ -137,7 +138,7 @@ namespace DoAnCoSo.Areas.Admin.Controllers
 
 
 
-        [HttpGet] // Thay vì [HttpPost]
+        [HttpGet] 
         public async Task<IActionResult> DetailsAnimal(int id)
         {
             var animal = await _animalRepository.GetByIdAsync(id);
@@ -166,6 +167,88 @@ namespace DoAnCoSo.Areas.Admin.Controllers
             await _animalRepository.DeleteAsync(id);
             return RedirectToAction(nameof(Index));
         }
+
+        [Route("DanhMucPost")]
+        public IActionResult DanhMucPost(PostViewModel postViewModel)
+        {
+            var posts = _context.Posts.ToList();
+            var model = new PostViewModel
+            {
+                Posts = posts ?? new List<Post>() 
+            };
+            ViewBag.PostViewModel = model;
+            return View(model); 
+        }
+
+		[Route("DetailPost")]
+		public async Task<IActionResult> DetailPost(int id)
+        {
+            var post = await _postRepository.GetByIdAsync(id);
+
+            if (post == null)
+            {
+                return NotFound();
+            }
+            return View(post);
+        }
+        [Route("DeletePost")]
+        [HttpGet]
+        public async Task<IActionResult> DeletePost(int id)
+        {
+            var post = await _postRepository.GetByIdAsync(id);
+            if (post == null)
+            {
+                return NotFound();
+            }
+            return View(post);
+        }
+        [Route("DeletePost")]
+        [HttpPost, ActionName("DeletePost")]
+        public async Task<IActionResult> DeletePostConfirmed(int id)
+        {
+            await _postRepository.DeleteAsync(id);
+            return RedirectToAction(nameof(Index));
+        }   
+        [Route("DanhMucComment")]
+        public IActionResult DanhMucComment(CommentViewModel commentViewModel)
+        {
+            var comments = _context.Comments.ToList();
+            var model = new CommentViewModel
+            {
+                Comments = comments ?? new List<Comment>()
+            };
+            ViewBag.CommentViewModel = model;
+            return View(model);
+        }
+        [Route("DetailComment")]
+        public async Task<IActionResult> DetailComment(int id)
+        {
+            var cmt = await _commentRepository.GetByIdAsync(id);
+
+            if (cmt == null)
+            {
+                return NotFound();
+            }
+            return View(cmt);
+        }
+        [Route("DeleteComment")]
+        [HttpGet]
+        public async Task<IActionResult> DeleteComment(int id)
+        {
+            var comment = await _commentRepository.GetByIdAsync(id);
+            if (comment == null)
+            {
+                return NotFound();
+            }
+            return View(comment);
+        }
+        [Route("DeleteComment")]
+        [HttpPost, ActionName("DeleteComment")]
+        public async Task<IActionResult> DeleteCommentConfirmed(int id)
+        {
+            await _commentRepository.DeleteAsync(id);
+            return RedirectToAction(nameof(Index));
+        }
         private async Task<String> Save3D(IFormFile image)
         {
             var savePath = Path.Combine("wwwroot/desgin/Animal/3DQR", image.FileName);
@@ -190,171 +273,7 @@ namespace DoAnCoSo.Areas.Admin.Controllers
             using (var fileStream = new FileStream(savePath, FileMode.Create)) { await image.CopyToAsync(fileStream); }
             return image.FileName;
         }
-
-
-        [Route("DanhMucPost")]
-        public IActionResult DanhMucPost(PostViewModel postViewModel)
-        {
-            var posts = _context.Posts.ToList();
-            var model = new PostViewModel
-            {
-                Posts = posts ?? new List<Post>() // Initialize with an empty list if `posts` is null
-            };
-            ViewBag.PostViewModel = model;
-            return View(model); 
-        }
-
-        [HttpPost]
-        public async Task<IActionResult> CreatePost(PostViewModel viewModel, IFormFile imageQRVideo)
-        {
-            if (imageQRVideo != null && imageQRVideo.Length > 0)
-            {
-                // Save the image and get the file name
-                viewModel.Post.ImageQRVideo = await SaveImage(imageQRVideo);
-            }
-
-            // Explicitly mark the ImageQRVideo field as valid
-            ModelState.Remove("Post.ImageQRVideo");
-
-            if (ModelState.IsValid)
-            {
-                _context.Posts.Add(viewModel.Post);
-                await _context.SaveChangesAsync();
-                return RedirectToAction("Index");
-            }
-
-            // Handle invalid ModelState if necessary
-            return View(viewModel);
-        }
-        private async Task<string> SaveImage(IFormFile image)
-        {
-            var savePath = Path.Combine("wwwroot/desgin/Post/Upload", image.FileName);
-            using (var fileStream = new FileStream(savePath, FileMode.Create))
-            {
-                await image.CopyToAsync(fileStream);
-            }
-            return image.FileName;
-        }
-
-        public async Task<IActionResult> DetailPost(int id)
-        {
-            var post = await _postRepository.GetByIdAsync(id);
-
-            if (post == null)
-            {
-                return NotFound();
-            }
-
-
-            return View(post);
-        }
-
-
-        [Route("DanhMucComment")]
-        public async Task<IActionResult> DanhMucComment()
-        {
-            var cmt = await _commentRepository.GetAllAsync();
-            return View(cmt);
-        }
-
-        public async Task<IActionResult> DetailsComment(int id)
-        {
-            var cmt = await _commentRepository.GetByIdAsync(id);
-
-            if (cmt == null)
-            {
-                return NotFound();
-            }
-
-            return View(cmt);
-        }
-
-        [HttpPost]
-        public async Task<IActionResult> AddComment(int IdPost, string ChatData)
-        {
-            var post = await _postRepository.GetByIdAsync(IdPost);
-            if (post == null)
-            {
-                return NotFound();
-            }
-
-            int isToxic = await IsToxicComment(ChatData);
-
-            if (isToxic == 1)
-            {
-                TempData["AlertType"] = "alert-danger";
-                TempData["AlertMessage"] = "Warning: Hãy bình luận có văn hóa.";
-                return RedirectToAction("Details", "Post", new { id = IdPost });
-            }
-            else
-            {
-                var comment = new Comment
-                {
-                    ChatData = ChatData,
-                    IdPost = IdPost,
-                    DateTime = DateTime.Now,
-                };
-
-                _context.Comments.Add(comment);
-                _context.SaveChanges();
-
-                return RedirectToAction("Details", "Post", new { id = IdPost });
-            }
-        }
-
-
-        private async Task<int> IsToxicComment(string comment)
-        {
-            using (HttpClient client = new HttpClient())
-            {
-                string apiUrl = "http://localhost:8000/predict";
-
-                // Create a JSON payload with the comment data
-                var payload = new StringContent($"\"{comment}\"", Encoding.UTF8, "application/json");
-
-                HttpResponseMessage response = await client.PostAsync(apiUrl, payload);
-
-                if (response.IsSuccessStatusCode)
-                {
-                    string result = await response.Content.ReadAsStringAsync();
-
-                    if (result.Contains("toxic") || result.Contains("offensive"))
-                    {
-                        return 1;
-                    }
-
-                }
-
-                return 0;
-            }
-        }
-        public async Task<IActionResult> Create()
-        {
-            var posts = await _postRepository.GetAllAsync();
-            ViewBag.Posts = new SelectList(posts, "IdPost", "Title");
-            Debug.WriteLine("Hello: ");
-            return View();
-        }
-
-        [HttpPost]
-        public async Task<IActionResult> Create(Comment comment)
-        {
-
-            if (ModelState.IsValid)
-            {
-                _context.Comments.Add(comment);
-                await _context.SaveChangesAsync();
-                return RedirectToAction("Index");
-            }
-
-            var posts = await _postRepository.GetAllAsync();
-            ViewBag.Posts = new SelectList(posts, "IdPost", "Title");
-            Debug.WriteLine("Fail to add ");
-            return View(comment);
-        }
     }
-
-
 }
 
 

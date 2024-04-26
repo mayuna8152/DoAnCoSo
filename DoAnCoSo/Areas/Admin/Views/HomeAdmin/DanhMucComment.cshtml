@@ -1,49 +1,64 @@
-﻿@model IEnumerable<DoAnCoSo.Models.Comment>
+﻿@model DoAnCoSo.Models.CommentViewModel
 
 @{
     ViewData["Title"] = "DanhMucComment";
     Layout = "~/Areas/Admin/Views/Shared/_LayoutAdmin.cshtml";
-
 }
 
 <h1>DanhMucComment</h1>
+<style>
+    .table td {
+        max-width: 200px; /* Set the maximum width for each cell */
+        white-space: nowrap; /* Prevent text from wrapping */
+        overflow: hidden; /* Hide overflow text */
+        text-overflow: ellipsis; /* Display ellipsis (...) for overflow text */
+    }
+</style>
+@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
 
-<p>
-    <a asp-action="Create">Create New</a>
-</p>
 <table class="table">
     <thead>
-        <tr>
+        <tr class="table-warning">
             <th>
-                @Html.DisplayNameFor(model => model.ChatData)
+                Chatdata
             </th>
             <th>
-                @Html.DisplayNameFor(model => model.DateTime)
+                Time
             </th>
             <th>
-                @Html.DisplayNameFor(model => model.Post)
+               Idpost
             </th>
             <th></th>
         </tr>
     </thead>
     <tbody>
-@foreach (var item in Model) {
-        <tr>
-            <td>
-                @Html.DisplayFor(modelItem => item.ChatData)
-            </td>
-            <td>
-                @Html.DisplayFor(modelItem => item.DateTime)
-            </td>
-            <td>
-                @Html.DisplayFor(modelItem => item.Post.IdPost)
-            </td>
-            <td>
-                <a asp-action="Edit" asp-route-id="@item.IdCmt">Edit</a> |
-                <a asp-action="Details" asp-route-id="@item.IdCmt">Details</a> |
-                <a asp-action="Delete" asp-route-id="@item.IdCmt">Delete</a>
-            </td>
-        </tr>
-}
+        @{
+            int i = 0;
+            string cls = "table-success"; // Không cần đặt dấu @ ở đây
+        }
+        @foreach (var item in Model.Comments)
+        {
+            i = i + 1;
+            cls = "table-success";
+            if (i % 2 == 0)
+            {
+                cls = "table-primary";
+            }
+            <tr class="@cls">
+                <td>
+                    @Html.DisplayFor(modelItem => item.ChatData)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.DateTime)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.IdPost)
+                </td>
+                <td>
+                    <a asp-action="DetailComment" asp-route-id="@item.IdCmt">Details</a> |
+                    <a asp-action="DeleteComment" asp-route-id="@item.IdCmt">Delete</a>
+                </td>
+            </tr>
+        }
     </tbody>
 </table>

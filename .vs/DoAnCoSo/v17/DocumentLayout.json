@@ -1,98 +1,22 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\",
+  "WorkspaceRootPath": "D:\\DoAnCoSo\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{AB0DBD06-0085-40ED-9CDD-D1C5A3DBEA7A}|DoAnCoSo\\DoAnCoSo.csproj|c:\\users\\sosfe\\documents\\github\\doancoso\\doancoso\\areas\\admin\\views\\homeadmin\\detailpost.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{AB0DBD06-0085-40ED-9CDD-D1C5A3DBEA7A}|DoAnCoSo\\DoAnCoSo.csproj|solutionrelative:doancoso\\areas\\admin\\views\\homeadmin\\detailpost.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{AB0DBD06-0085-40ED-9CDD-D1C5A3DBEA7A}|DoAnCoSo\\DoAnCoSo.csproj|d:\\doancoso\\doancoso\\repository\\efpostrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB0DBD06-0085-40ED-9CDD-D1C5A3DBEA7A}|DoAnCoSo\\DoAnCoSo.csproj|solutionrelative:doancoso\\repository\\efpostrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AB0DBD06-0085-40ED-9CDD-D1C5A3DBEA7A}|DoAnCoSo\\DoAnCoSo.csproj|c:\\users\\sosfe\\documents\\github\\doancoso\\doancoso\\areas\\admin\\views\\homeadmin\\danhmucpost.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{AB0DBD06-0085-40ED-9CDD-D1C5A3DBEA7A}|DoAnCoSo\\DoAnCoSo.csproj|solutionrelative:doancoso\\areas\\admin\\views\\homeadmin\\danhmucpost.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{AB0DBD06-0085-40ED-9CDD-D1C5A3DBEA7A}|DoAnCoSo\\DoAnCoSo.csproj|d:\\doancoso\\doancoso\\areas\\admin\\views\\homeadmin\\deletecomment.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AB0DBD06-0085-40ED-9CDD-D1C5A3DBEA7A}|DoAnCoSo\\DoAnCoSo.csproj|solutionrelative:doancoso\\areas\\admin\\views\\homeadmin\\deletecomment.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AB0DBD06-0085-40ED-9CDD-D1C5A3DBEA7A}|DoAnCoSo\\DoAnCoSo.csproj|c:\\users\\sosfe\\documents\\github\\doancoso\\doancoso\\areas\\admin\\views\\homeadmin\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{AB0DBD06-0085-40ED-9CDD-D1C5A3DBEA7A}|DoAnCoSo\\DoAnCoSo.csproj|solutionrelative:doancoso\\areas\\admin\\views\\homeadmin\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{AB0DBD06-0085-40ED-9CDD-D1C5A3DBEA7A}|DoAnCoSo\\DoAnCoSo.csproj|d:\\doancoso\\doancoso\\areas\\admin\\views\\homeadmin\\deletepost.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AB0DBD06-0085-40ED-9CDD-D1C5A3DBEA7A}|DoAnCoSo\\DoAnCoSo.csproj|solutionrelative:doancoso\\areas\\admin\\views\\homeadmin\\deletepost.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AB0DBD06-0085-40ED-9CDD-D1C5A3DBEA7A}|DoAnCoSo\\DoAnCoSo.csproj|c:\\users\\sosfe\\documents\\github\\doancoso\\doancoso\\areas\\admin\\views\\homeadmin\\danhmucanimal.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{AB0DBD06-0085-40ED-9CDD-D1C5A3DBEA7A}|DoAnCoSo\\DoAnCoSo.csproj|solutionrelative:doancoso\\areas\\admin\\views\\homeadmin\\danhmucanimal.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AB0DBD06-0085-40ED-9CDD-D1C5A3DBEA7A}|DoAnCoSo\\DoAnCoSo.csproj|c:\\users\\sosfe\\documents\\github\\doancoso\\doancoso\\areas\\admin\\views\\homeadmin\\detailsanimal.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{AB0DBD06-0085-40ED-9CDD-D1C5A3DBEA7A}|DoAnCoSo\\DoAnCoSo.csproj|solutionrelative:doancoso\\areas\\admin\\views\\homeadmin\\detailsanimal.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AB0DBD06-0085-40ED-9CDD-D1C5A3DBEA7A}|DoAnCoSo\\DoAnCoSo.csproj|c:\\users\\sosfe\\documents\\github\\doancoso\\doancoso\\areas\\admin\\views\\homeadmin\\danhmuccomment.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{AB0DBD06-0085-40ED-9CDD-D1C5A3DBEA7A}|DoAnCoSo\\DoAnCoSo.csproj|solutionrelative:doancoso\\areas\\admin\\views\\homeadmin\\danhmuccomment.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AB0DBD06-0085-40ED-9CDD-D1C5A3DBEA7A}|DoAnCoSo\\DoAnCoSo.csproj|c:\\users\\sosfe\\documents\\github\\doancoso\\doancoso\\areas\\admin\\controllers\\homeadmincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AB0DBD06-0085-40ED-9CDD-D1C5A3DBEA7A}|DoAnCoSo\\DoAnCoSo.csproj|solutionrelative:doancoso\\areas\\admin\\controllers\\homeadmincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AB0DBD06-0085-40ED-9CDD-D1C5A3DBEA7A}|DoAnCoSo\\DoAnCoSo.csproj|c:\\users\\sosfe\\documents\\github\\doancoso\\doancoso\\areas\\admin\\views\\homeadmin\\editanimal.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{AB0DBD06-0085-40ED-9CDD-D1C5A3DBEA7A}|DoAnCoSo\\DoAnCoSo.csproj|solutionrelative:doancoso\\areas\\admin\\views\\homeadmin\\editanimal.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AB0DBD06-0085-40ED-9CDD-D1C5A3DBEA7A}|DoAnCoSo\\DoAnCoSo.csproj|c:\\users\\sosfe\\documents\\github\\doancoso\\doancoso\\areas\\admin\\views\\homeadmin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{AB0DBD06-0085-40ED-9CDD-D1C5A3DBEA7A}|DoAnCoSo\\DoAnCoSo.csproj|solutionrelative:doancoso\\areas\\admin\\views\\homeadmin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AB0DBD06-0085-40ED-9CDD-D1C5A3DBEA7A}|DoAnCoSo\\DoAnCoSo.csproj|c:\\users\\sosfe\\documents\\github\\doancoso\\doancoso\\areas\\admin\\views\\shared\\_layoutadmin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{AB0DBD06-0085-40ED-9CDD-D1C5A3DBEA7A}|DoAnCoSo\\DoAnCoSo.csproj|solutionrelative:doancoso\\areas\\admin\\views\\shared\\_layoutadmin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AB0DBD06-0085-40ED-9CDD-D1C5A3DBEA7A}|DoAnCoSo\\DoAnCoSo.csproj|c:\\users\\sosfe\\documents\\github\\doancoso\\doancoso\\controllers\\postcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AB0DBD06-0085-40ED-9CDD-D1C5A3DBEA7A}|DoAnCoSo\\DoAnCoSo.csproj|solutionrelative:doancoso\\controllers\\postcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AB0DBD06-0085-40ED-9CDD-D1C5A3DBEA7A}|DoAnCoSo\\DoAnCoSo.csproj|c:\\users\\sosfe\\documents\\github\\doancoso\\doancoso\\areas\\admin\\views\\homeadmin\\addanimal.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{AB0DBD06-0085-40ED-9CDD-D1C5A3DBEA7A}|DoAnCoSo\\DoAnCoSo.csproj|solutionrelative:doancoso\\areas\\admin\\views\\homeadmin\\addanimal.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AB0DBD06-0085-40ED-9CDD-D1C5A3DBEA7A}|DoAnCoSo\\DoAnCoSo.csproj|c:\\users\\sosfe\\documents\\github\\doancoso\\doancoso\\views\\classanimal\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{AB0DBD06-0085-40ED-9CDD-D1C5A3DBEA7A}|DoAnCoSo\\DoAnCoSo.csproj|solutionrelative:doancoso\\views\\classanimal\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AB0DBD06-0085-40ED-9CDD-D1C5A3DBEA7A}|DoAnCoSo\\DoAnCoSo.csproj|c:\\users\\sosfe\\documents\\github\\doancoso\\doancoso\\controllers\\animalcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AB0DBD06-0085-40ED-9CDD-D1C5A3DBEA7A}|DoAnCoSo\\DoAnCoSo.csproj|solutionrelative:doancoso\\controllers\\animalcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AB0DBD06-0085-40ED-9CDD-D1C5A3DBEA7A}|DoAnCoSo\\DoAnCoSo.csproj|c:\\users\\sosfe\\documents\\github\\doancoso\\doancoso\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{AB0DBD06-0085-40ED-9CDD-D1C5A3DBEA7A}|DoAnCoSo\\DoAnCoSo.csproj|solutionrelative:doancoso\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AB0DBD06-0085-40ED-9CDD-D1C5A3DBEA7A}|DoAnCoSo\\DoAnCoSo.csproj|c:\\users\\sosfe\\documents\\github\\doancoso\\doancoso\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{AB0DBD06-0085-40ED-9CDD-D1C5A3DBEA7A}|DoAnCoSo\\DoAnCoSo.csproj|solutionrelative:doancoso\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AB0DBD06-0085-40ED-9CDD-D1C5A3DBEA7A}|DoAnCoSo\\DoAnCoSo.csproj|c:\\users\\sosfe\\documents\\github\\doancoso\\doancoso\\areas\\sd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AB0DBD06-0085-40ED-9CDD-D1C5A3DBEA7A}|DoAnCoSo\\DoAnCoSo.csproj|solutionrelative:doancoso\\areas\\sd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AB0DBD06-0085-40ED-9CDD-D1C5A3DBEA7A}|DoAnCoSo\\DoAnCoSo.csproj|c:\\users\\sosfe\\documents\\github\\doancoso\\doancoso\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AB0DBD06-0085-40ED-9CDD-D1C5A3DBEA7A}|DoAnCoSo\\DoAnCoSo.csproj|solutionrelative:doancoso\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AB0DBD06-0085-40ED-9CDD-D1C5A3DBEA7A}|DoAnCoSo\\DoAnCoSo.csproj|c:\\users\\sosfe\\documents\\github\\doancoso\\doancoso\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{AB0DBD06-0085-40ED-9CDD-D1C5A3DBEA7A}|DoAnCoSo\\DoAnCoSo.csproj|solutionrelative:doancoso\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AB0DBD06-0085-40ED-9CDD-D1C5A3DBEA7A}|DoAnCoSo\\DoAnCoSo.csproj|c:\\users\\sosfe\\documents\\github\\doancoso\\doancoso\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AB0DBD06-0085-40ED-9CDD-D1C5A3DBEA7A}|DoAnCoSo\\DoAnCoSo.csproj|solutionrelative:doancoso\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AB0DBD06-0085-40ED-9CDD-D1C5A3DBEA7A}|DoAnCoSo\\DoAnCoSo.csproj|c:\\users\\sosfe\\documents\\github\\doancoso\\doancoso\\migrations\\20240424154730_addidentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AB0DBD06-0085-40ED-9CDD-D1C5A3DBEA7A}|DoAnCoSo\\DoAnCoSo.csproj|solutionrelative:doancoso\\migrations\\20240424154730_addidentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AB0DBD06-0085-40ED-9CDD-D1C5A3DBEA7A}|DoAnCoSo\\DoAnCoSo.csproj|c:\\users\\sosfe\\documents\\github\\doancoso\\doancoso\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{AB0DBD06-0085-40ED-9CDD-D1C5A3DBEA7A}|DoAnCoSo\\DoAnCoSo.csproj|solutionrelative:doancoso\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AB0DBD06-0085-40ED-9CDD-D1C5A3DBEA7A}|DoAnCoSo\\DoAnCoSo.csproj|c:\\users\\sosfe\\documents\\github\\doancoso\\doancoso\\doancoso.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{AB0DBD06-0085-40ED-9CDD-D1C5A3DBEA7A}|DoAnCoSo\\DoAnCoSo.csproj|solutionrelative:doancoso\\doancoso.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{AB0DBD06-0085-40ED-9CDD-D1C5A3DBEA7A}|DoAnCoSo\\DoAnCoSo.csproj|d:\\doancoso\\doancoso\\repository\\efcommentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB0DBD06-0085-40ED-9CDD-D1C5A3DBEA7A}|DoAnCoSo\\DoAnCoSo.csproj|solutionrelative:doancoso\\repository\\efcommentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -102,300 +26,59 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "DetailsAnimal.cshtml",
-              "DocumentMoniker": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\Areas\\Admin\\Views\\HomeAdmin\\DetailsAnimal.cshtml",
-              "RelativeDocumentMoniker": "DoAnCoSo\\Areas\\Admin\\Views\\HomeAdmin\\DetailsAnimal.cshtml",
-              "ToolTip": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\Areas\\Admin\\Views\\HomeAdmin\\DetailsAnimal.cshtml",
-              "RelativeToolTip": "DoAnCoSo\\Areas\\Admin\\Views\\HomeAdmin\\DetailsAnimal.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAZAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-25T19:50:49.837Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "DetailPost.cshtml",
-              "DocumentMoniker": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\Areas\\Admin\\Views\\HomeAdmin\\DetailPost.cshtml",
-              "RelativeDocumentMoniker": "DoAnCoSo\\Areas\\Admin\\Views\\HomeAdmin\\DetailPost.cshtml",
-              "ToolTip": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\Areas\\Admin\\Views\\HomeAdmin\\DetailPost.cshtml",
-              "RelativeToolTip": "DoAnCoSo\\Areas\\Admin\\Views\\HomeAdmin\\DetailPost.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAZAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-25T19:48:35.076Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "DanhMucComment.cshtml",
-              "DocumentMoniker": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\Areas\\Admin\\Views\\HomeAdmin\\DanhMucComment.cshtml",
-              "RelativeDocumentMoniker": "DoAnCoSo\\Areas\\Admin\\Views\\HomeAdmin\\DanhMucComment.cshtml",
-              "ToolTip": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\Areas\\Admin\\Views\\HomeAdmin\\DanhMucComment.cshtml",
-              "RelativeToolTip": "DoAnCoSo\\Areas\\Admin\\Views\\HomeAdmin\\DanhMucComment.cshtml",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAAAAAArAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-25T18:50:30.535Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "PostController.cs",
-              "DocumentMoniker": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\Controllers\\PostController.cs",
-              "RelativeDocumentMoniker": "DoAnCoSo\\Controllers\\PostController.cs",
-              "ToolTip": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\Controllers\\PostController.cs",
-              "RelativeToolTip": "DoAnCoSo\\Controllers\\PostController.cs",
-              "ViewState": "AQIAADgAAAAAAAAAAAAIwA4AAAAFAAAA",
+              "Title": "EFPostRepository.cs",
+              "DocumentMoniker": "D:\\DoAnCoSo\\DoAnCoSo\\Repository\\EFPostRepository.cs",
+              "RelativeDocumentMoniker": "DoAnCoSo\\Repository\\EFPostRepository.cs",
+              "ToolTip": "D:\\DoAnCoSo\\DoAnCoSo\\Repository\\EFPostRepository.cs",
+              "RelativeToolTip": "DoAnCoSo\\Repository\\EFPostRepository.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAowAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-25T18:16:21.359Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "DanhMucPost.cshtml",
-              "DocumentMoniker": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\Areas\\Admin\\Views\\HomeAdmin\\DanhMucPost.cshtml",
-              "RelativeDocumentMoniker": "DoAnCoSo\\Areas\\Admin\\Views\\HomeAdmin\\DanhMucPost.cshtml",
-              "ToolTip": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\Areas\\Admin\\Views\\HomeAdmin\\DanhMucPost.cshtml",
-              "RelativeToolTip": "DoAnCoSo\\Areas\\Admin\\Views\\HomeAdmin\\DanhMucPost.cshtml",
-              "ViewState": "AQIAACoAAAAAAAAAAAAowDkAAAAtAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-25T18:00:51.725Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "EditAnimal.cshtml",
-              "DocumentMoniker": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\Areas\\Admin\\Views\\HomeAdmin\\EditAnimal.cshtml",
-              "RelativeDocumentMoniker": "DoAnCoSo\\Areas\\Admin\\Views\\HomeAdmin\\EditAnimal.cshtml",
-              "ToolTip": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\Areas\\Admin\\Views\\HomeAdmin\\EditAnimal.cshtml",
-              "RelativeToolTip": "DoAnCoSo\\Areas\\Admin\\Views\\HomeAdmin\\EditAnimal.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAkAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-25T14:05:35.752Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "AnimalController.cs",
-              "DocumentMoniker": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\Controllers\\AnimalController.cs",
-              "RelativeDocumentMoniker": "DoAnCoSo\\Controllers\\AnimalController.cs",
-              "ToolTip": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\Controllers\\AnimalController.cs",
-              "RelativeToolTip": "DoAnCoSo\\Controllers\\AnimalController.cs",
-              "ViewState": "AQIAAJYAAAAAAAAAAAAwwH4AAAAIAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-25T13:18:42.253Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Delete.cshtml",
-              "DocumentMoniker": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\Areas\\Admin\\Views\\HomeAdmin\\Delete.cshtml",
-              "RelativeDocumentMoniker": "DoAnCoSo\\Areas\\Admin\\Views\\HomeAdmin\\Delete.cshtml",
-              "ToolTip": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\Areas\\Admin\\Views\\HomeAdmin\\Delete.cshtml",
-              "RelativeToolTip": "DoAnCoSo\\Areas\\Admin\\Views\\HomeAdmin\\Delete.cshtml",
-              "ViewState": "AQIAACQAAAAAAAAAAAAAAC4AAAANAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-25T13:17:01.239Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "AddAnimal.cshtml",
-              "DocumentMoniker": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\Areas\\Admin\\Views\\HomeAdmin\\AddAnimal.cshtml",
-              "RelativeDocumentMoniker": "DoAnCoSo\\Areas\\Admin\\Views\\HomeAdmin\\AddAnimal.cshtml",
-              "ToolTip": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\Areas\\Admin\\Views\\HomeAdmin\\AddAnimal.cshtml",
-              "RelativeToolTip": "DoAnCoSo\\Areas\\Admin\\Views\\HomeAdmin\\AddAnimal.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAA0AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-25T08:24:41.239Z",
+              "WhenOpened": "2024-04-26T08:09:53.021Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "DanhMucAnimal.cshtml",
-              "DocumentMoniker": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\Areas\\Admin\\Views\\HomeAdmin\\DanhMucAnimal.cshtml",
-              "RelativeDocumentMoniker": "DoAnCoSo\\Areas\\Admin\\Views\\HomeAdmin\\DanhMucAnimal.cshtml",
-              "ToolTip": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\Areas\\Admin\\Views\\HomeAdmin\\DanhMucAnimal.cshtml",
-              "RelativeToolTip": "DoAnCoSo\\Areas\\Admin\\Views\\HomeAdmin\\DanhMucAnimal.cshtml",
-              "ViewState": "AQIAAEsAAAAAAAAAAAAAAGIAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-24T20:12:45.994Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "ScaffoldingReadMe.txt",
-              "DocumentMoniker": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\ScaffoldingReadMe.txt",
-              "RelativeDocumentMoniker": "DoAnCoSo\\ScaffoldingReadMe.txt",
-              "ToolTip": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\ScaffoldingReadMe.txt",
-              "RelativeToolTip": "DoAnCoSo\\ScaffoldingReadMe.txt",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2024-04-24T15:49:43.537Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "_LayoutAdmin.cshtml",
-              "DocumentMoniker": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\Areas\\Admin\\Views\\Shared\\_LayoutAdmin.cshtml",
-              "RelativeDocumentMoniker": "DoAnCoSo\\Areas\\Admin\\Views\\Shared\\_LayoutAdmin.cshtml",
-              "ToolTip": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\Areas\\Admin\\Views\\Shared\\_LayoutAdmin.cshtml",
-              "RelativeToolTip": "DoAnCoSo\\Areas\\Admin\\Views\\Shared\\_LayoutAdmin.cshtml",
-              "ViewState": "AQIAALYAAAAAAAAAAAAqwMYAAAApAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-24T19:36:13.306Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\Areas\\Admin\\Views\\HomeAdmin\\Index.cshtml",
-              "RelativeDocumentMoniker": "DoAnCoSo\\Areas\\Admin\\Views\\HomeAdmin\\Index.cshtml",
-              "ToolTip": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\Areas\\Admin\\Views\\HomeAdmin\\Index.cshtml",
-              "RelativeToolTip": "DoAnCoSo\\Areas\\Admin\\Views\\HomeAdmin\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-24T19:34:03.715Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "HomeAdminController.cs",
-              "DocumentMoniker": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\Areas\\Admin\\Controllers\\HomeAdminController.cs",
-              "RelativeDocumentMoniker": "DoAnCoSo\\Areas\\Admin\\Controllers\\HomeAdminController.cs",
-              "ToolTip": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\Areas\\Admin\\Controllers\\HomeAdminController.cs",
-              "RelativeToolTip": "DoAnCoSo\\Areas\\Admin\\Controllers\\HomeAdminController.cs",
-              "ViewState": "AQIAAIAAAAAAAAAAAAAIwIwAAAApAAAA",
+              "Title": "EFCommentRepository.cs",
+              "DocumentMoniker": "D:\\DoAnCoSo\\DoAnCoSo\\Repository\\EFCommentRepository.cs",
+              "RelativeDocumentMoniker": "DoAnCoSo\\Repository\\EFCommentRepository.cs",
+              "ToolTip": "D:\\DoAnCoSo\\DoAnCoSo\\Repository\\EFCommentRepository.cs",
+              "RelativeToolTip": "DoAnCoSo\\Repository\\EFCommentRepository.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAowAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-24T19:31:27.011Z",
+              "WhenOpened": "2024-04-26T08:09:44.693Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "Details.cshtml",
-              "DocumentMoniker": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\Views\\ClassAnimal\\Details.cshtml",
-              "RelativeDocumentMoniker": "DoAnCoSo\\Views\\ClassAnimal\\Details.cshtml",
-              "ToolTip": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\Views\\ClassAnimal\\Details.cshtml",
-              "RelativeToolTip": "DoAnCoSo\\Views\\ClassAnimal\\Details.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "DocumentIndex": 2,
+              "Title": "DeletePost.cshtml",
+              "DocumentMoniker": "D:\\DoAnCoSo\\DoAnCoSo\\Areas\\admin\\Views\\HomeAdmin\\DeletePost.cshtml",
+              "RelativeDocumentMoniker": "DoAnCoSo\\Areas\\admin\\Views\\HomeAdmin\\DeletePost.cshtml",
+              "ToolTip": "D:\\DoAnCoSo\\DoAnCoSo\\Areas\\admin\\Views\\HomeAdmin\\DeletePost.cshtml",
+              "RelativeToolTip": "DoAnCoSo\\Areas\\admin\\Views\\HomeAdmin\\DeletePost.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABoAAAAfAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-24T17:05:08.966Z",
+              "WhenOpened": "2024-04-26T08:09:12.061Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "SD.cs",
-              "DocumentMoniker": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\Areas\\SD.cs",
-              "RelativeDocumentMoniker": "DoAnCoSo\\Areas\\SD.cs",
-              "ToolTip": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\Areas\\SD.cs",
-              "RelativeToolTip": "DoAnCoSo\\Areas\\SD.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-24T16:10:15.87Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "_LoginPartial.cshtml",
-              "DocumentMoniker": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\Views\\Shared\\_LoginPartial.cshtml",
-              "RelativeDocumentMoniker": "DoAnCoSo\\Views\\Shared\\_LoginPartial.cshtml",
-              "ToolTip": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\Views\\Shared\\_LoginPartial.cshtml",
-              "RelativeToolTip": "DoAnCoSo\\Views\\Shared\\_LoginPartial.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "DocumentIndex": 1,
+              "Title": "DeleteComment.cshtml",
+              "DocumentMoniker": "D:\\DoAnCoSo\\DoAnCoSo\\Areas\\admin\\Views\\HomeAdmin\\DeleteComment.cshtml",
+              "RelativeDocumentMoniker": "DoAnCoSo\\Areas\\admin\\Views\\HomeAdmin\\DeleteComment.cshtml",
+              "ToolTip": "D:\\DoAnCoSo\\DoAnCoSo\\Areas\\admin\\Views\\HomeAdmin\\DeleteComment.cshtml",
+              "RelativeToolTip": "DoAnCoSo\\Areas\\admin\\Views\\HomeAdmin\\DeleteComment.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAgAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-24T16:07:10.467Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "Register.cshtml",
-              "DocumentMoniker": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
-              "RelativeDocumentMoniker": "DoAnCoSo\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
-              "ToolTip": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
-              "RelativeToolTip": "DoAnCoSo\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
-              "ViewState": "AQIAABgAAAAAAAAAAAAAACcAAAASAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-24T16:05:50.17Z",
+              "WhenOpened": "2024-04-26T08:09:04.476Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "Register.cshtml.cs",
-              "DocumentMoniker": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
-              "RelativeDocumentMoniker": "DoAnCoSo\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
-              "ToolTip": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
-              "RelativeToolTip": "DoAnCoSo\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
-              "ViewState": "AQIAAHoAAAAAAAAAAADwv3oAAAAZAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-24T16:01:40.362Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "ApplicationUser.cs",
-              "DocumentMoniker": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\Models\\ApplicationUser.cs",
-              "RelativeDocumentMoniker": "DoAnCoSo\\Models\\ApplicationUser.cs",
-              "ToolTip": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\Models\\ApplicationUser.cs",
-              "RelativeToolTip": "DoAnCoSo\\Models\\ApplicationUser.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-24T15:53:13.187Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "DoAnCoSo\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "DoAnCoSo\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AQIAAGYAAAAAAAAAAAAAACkAAAA1AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-24T15:50:03.303Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "DoAnCoSo.csproj",
-              "DocumentMoniker": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\DoAnCoSo.csproj",
-              "RelativeDocumentMoniker": "DoAnCoSo\\DoAnCoSo.csproj",
-              "ToolTip": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\DoAnCoSo.csproj",
-              "RelativeToolTip": "DoAnCoSo\\DoAnCoSo.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-04-24T15:49:07.685Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "20240424154730_AddIdentity.cs",
-              "DocumentMoniker": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\Migrations\\20240424154730_AddIdentity.cs",
-              "RelativeDocumentMoniker": "DoAnCoSo\\Migrations\\20240424154730_AddIdentity.cs",
-              "ToolTip": "C:\\Users\\sosfe\\Documents\\GitHub\\DoAnCoSo\\DoAnCoSo\\Migrations\\20240424154730_AddIdentity.cs",
-              "RelativeToolTip": "DoAnCoSo\\Migrations\\20240424154730_AddIdentity.cs",
-              "ViewState": "AQIAABkAAAAAAAAAAAAgwAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-24T15:47:31.246Z"
             }
           ]
         }

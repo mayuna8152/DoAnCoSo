@@ -36,8 +36,13 @@ namespace DoAnCoSo.Repository
         }
         public async Task DeleteAsync(int id)
         {
-            var post = await _context.Animals.FindAsync(id);
-            _context.Animals.Remove(post);
+            var post = await _context.Posts.FindAsync(id);
+            if (post == null)
+            {
+                throw new Exception($"Post with ID {id} not found.");
+            }
+
+            _context.Posts.Remove(post);
             await _context.SaveChangesAsync();
         }
     }

@@ -6,13 +6,12 @@
     Layout = "~/Areas/Admin/Views/Shared/_LayoutAdmin.cshtml";
 }
 
-<h1>AddAnimal</h1>
-
+<h1>Create</h1>
 <h4>Animal</h4>
 <hr />
 <div class="row">
     <div class="col-md-4">
-        <form asp-action="AddAnimal">
+        <form asp-action="AddAnimal" enctype="multipart/form-data">
             <div asp-validation-summary="ModelOnly" class="text-danger"></div>
             <div class="form-group">
                 <label asp-for="Name" class="control-label"></label>
@@ -36,18 +35,23 @@
             </div>
             <div class="form-group">
                 <label asp-for="Avatar" class="control-label"></label>
-                <input asp-for="Avatar" class="form-control" />
+                <input asp-for="Avatar" type="file" class="form-control" />
                 <span asp-validation-for="Avatar" class="text-danger"></span>
             </div>
             <div class="form-group">
                 <label asp-for="NoiSinhSongImage" class="control-label"></label>
-                <input asp-for="NoiSinhSongImage" class="form-control" />
+                <input asp-for="NoiSinhSongImage" type="file" class="form-control" />
                 <span asp-validation-for="NoiSinhSongImage" class="text-danger"></span>
             </div>
             <div class="form-group">
                 <label asp-for="ImgQR3D" class="control-label"></label>
-                <input asp-for="ImgQR3D" class="form-control" />
+                <input asp-for="ImgQR3D" type="file" class="form-control" />
                 <span asp-validation-for="ImgQR3D" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="AnimalImages" class="control-label"></label>
+                <input asp-for="AnimalImages" type="file" multiple class="form-control" />
+                <span asp-validation-for="AnimalImages" class="text-danger"></span>
             </div>
             <div class="form-group">
                 <label asp-for="IdClass" class="control-label"></label>
@@ -59,8 +63,7 @@
         </form>
     </div>
 </div>
-
 <div>
-    <a asp-action="DanhMucAnimal">Back to List</a>
+    <a asp-action="Index">Back to List</a>
 </div>
 

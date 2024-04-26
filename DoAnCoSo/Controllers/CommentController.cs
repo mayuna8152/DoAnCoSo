@@ -46,7 +46,6 @@ namespace DoAnCoSo.Controllers
 		}
 
 		[HttpPost]
-        [Authorize(Roles = "Admin")]
         public async Task<IActionResult> AddComment(int IdPost, string ChatData)
 		{
 			var post = await _postRepository.GetByIdAsync(IdPost);
@@ -105,7 +104,7 @@ namespace DoAnCoSo.Controllers
 				return 0;
 			}
 		}
-        [Authorize(Roles = "Admin")]
+
         public async Task<IActionResult> Create()
         {
             var posts = await _postRepository.GetAllAsync();
@@ -115,7 +114,6 @@ namespace DoAnCoSo.Controllers
         }
 
         [HttpPost]
-        [Authorize(Roles = "Admin")]
         public async Task<IActionResult> Create(Comment comment)
         {
             
