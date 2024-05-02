@@ -34,13 +34,15 @@ namespace DoAnCoSo.Areas.Admin.Controllers
 
         }
         [Route("")]
-        [Route("Index")]
+        [Route("Home")]
+        [Authorize(Roles = "Admin")]
         public IActionResult Index()
         {
             return View();
         }
 
         [Route("danhmucanimal")]
+        [Authorize(Roles = "Admin")]
         public async Task<IActionResult> DanhMucAnimal (string searchTerm)
         {
             IEnumerable<Animal> animals;
@@ -62,6 +64,7 @@ namespace DoAnCoSo.Areas.Admin.Controllers
             return View(animals);
         }
         [Route("AddAnimal")]
+        [Authorize(Roles = "Admin")]
         [HttpGet]
         public async Task<IActionResult> AddAnimal()
         {
@@ -72,6 +75,7 @@ namespace DoAnCoSo.Areas.Admin.Controllers
         }
 
         [Route("AddAnimal")]
+        [Authorize(Roles = "Admin")]
         [HttpPost]
         [ValidateAntiForgeryToken]
         public async Task<IActionResult> AddAnimal(Animal animal, [FromForm] IFormFile Avatar, [FromForm] IFormFile ImgQR3D, [FromForm] IFormFile NoiSinhSongImage, [FromForm] List<IFormFile> AnimalImages)
@@ -105,11 +109,12 @@ namespace DoAnCoSo.Areas.Admin.Controllers
                 await _context.SaveChangesAsync();
             }
 
-            return RedirectToAction("Index");
+            return RedirectToAction("DanhMucAnimal");
 
         }
 
         [Route("EditAnimal")]
+        [Authorize(Roles = "Admin")]
         public async Task<IActionResult> EditAnimal(int id)
         {
             var animal = await _animalRepository.GetByIdAsync(id);
@@ -124,6 +129,7 @@ namespace DoAnCoSo.Areas.Admin.Controllers
         }
 
         [Route("EditAnimal")]
+        [Authorize(Roles = "Admin")]
         [HttpPost]
         public async Task<IActionResult> EditAnimal(int id, Animal animal)
         {
@@ -133,12 +139,13 @@ namespace DoAnCoSo.Areas.Admin.Controllers
             }
 
             await _animalRepository.UpdateAsync(animal);
-            return RedirectToAction(nameof(Index));
+            return RedirectToAction(nameof(DanhMucAnimal));
         }
 
 
 
-        [HttpGet] 
+        [HttpGet]
+        [Authorize(Roles = "Admin")]
         public async Task<IActionResult> DetailsAnimal(int id)
         {
             var animal = await _animalRepository.GetByIdAsync(id);
@@ -150,6 +157,7 @@ namespace DoAnCoSo.Areas.Admin.Controllers
         }
 
         [Route("Delete")]
+        [Authorize(Roles = "Admin")]
         [HttpGet]
         public async Task<IActionResult> Delete(int id)
         {
@@ -162,13 +170,15 @@ namespace DoAnCoSo.Areas.Admin.Controllers
         }
         [Route("Delete")]
         [HttpPost, ActionName("Delete")]
+        [Authorize(Roles = "Admin")]
         public async Task<IActionResult> DeleteConfirmed(int id)
         {
             await _animalRepository.DeleteAsync(id);
-            return RedirectToAction(nameof(Index));
+            return RedirectToAction(nameof(DanhMucAnimal));
         }
 
         [Route("DanhMucPost")]
+        [Authorize(Roles = "Admin")]
         public IActionResult DanhMucPost(PostViewModel postViewModel)
         {
             var posts = _context.Posts.ToList();
@@ -181,7 +191,8 @@ namespace DoAnCoSo.Areas.Admin.Controllers
         }
 
 		[Route("DetailPost")]
-		public async Task<IActionResult> DetailPost(int id)
+        [Authorize(Roles = "Admin")]
+        public async Task<IActionResult> DetailPost(int id)
         {
             var post = await _postRepository.GetByIdAsync(id);
 
@@ -192,6 +203,7 @@ namespace DoAnCoSo.Areas.Admin.Controllers
             return View(post);
         }
         [Route("DeletePost")]
+        [Authorize(Roles = "Admin")]
         [HttpGet]
         public async Task<IActionResult> DeletePost(int id)
         {
@@ -204,12 +216,14 @@ namespace DoAnCoSo.Areas.Admin.Controllers
         }
         [Route("DeletePost")]
         [HttpPost, ActionName("DeletePost")]
+        [Authorize(Roles = "Admin")]
         public async Task<IActionResult> DeletePostConfirmed(int id)
         {
             await _postRepository.DeleteAsync(id);
-            return RedirectToAction(nameof(Index));
+            return RedirectToAction(nameof(DanhMucPost));
         }   
         [Route("DanhMucComment")]
+        [Authorize(Roles = "Admin")]
         public IActionResult DanhMucComment(CommentViewModel commentViewModel)
         {
             var comments = _context.Comments.ToList();
@@ -221,6 +235,7 @@ namespace DoAnCoSo.Areas.Admin.Controllers
             return View(model);
         }
         [Route("DetailComment")]
+        [Authorize(Roles = "Admin")]
         public async Task<IActionResult> DetailComment(int id)
         {
             var cmt = await _commentRepository.GetByIdAsync(id);
@@ -232,6 +247,7 @@ namespace DoAnCoSo.Areas.Admin.Controllers
             return View(cmt);
         }
         [Route("DeleteComment")]
+        [Authorize(Roles = "Admin")]
         [HttpGet]
         public async Task<IActionResult> DeleteComment(int id)
         {
@@ -244,10 +260,11 @@ namespace DoAnCoSo.Areas.Admin.Controllers
         }
         [Route("DeleteComment")]
         [HttpPost, ActionName("DeleteComment")]
+        [Authorize(Roles = "Admin")]
         public async Task<IActionResult> DeleteCommentConfirmed(int id)
         {
             await _commentRepository.DeleteAsync(id);
-            return RedirectToAction(nameof(Index));
+            return RedirectToAction(nameof(DanhMucComment));
         }
         private async Task<String> Save3D(IFormFile image)
         {

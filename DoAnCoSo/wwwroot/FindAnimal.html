@@ -1,0 +1,65 @@
+﻿<div>Teachable Machine Image Model</div>
+<input type="file" id="image-upload" accept="image/*">
+<button type="button" onclick="predict()">Predict</button>
+<div id="image-container"></div>
+<div id="label-container"></div>
+<script src="https://cdn.jsdelivr.net/npm/@tensorflow/tfjs@latest/dist/tf.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/@teachablemachine/image@latest/dist/teachablemachine-image.min.js"></script>
+<script type="text/javascript">
+    const URL = "https://teachablemachine.withgoogle.com/models/-DxSdR3BS/";
+
+    let model, imageContainer, labelContainer, maxPredictions;
+
+    async function start() {
+        const modelURL = URL + "model.json";
+        const metadataURL = URL + "metadata.json";
+
+        model = await tmImage.load(modelURL, metadataURL);
+        maxPredictions = model.getTotalClasses();
+
+        const imageUpload = document.getElementById("image-upload");
+        imageUpload.addEventListener("change", onImageUpload);
+
+        imageContainer = document.getElementById("image-container");
+        labelContainer = document.getElementById("label-container");
+    }
+
+    function onImageUpload(event) {
+        const file = event.target.files[0];
+        const reader = new FileReader();
+        reader.onload = function (e) {
+            const image = document.createElement("img");
+            image.src = e.target.result;
+            imageContainer.innerHTML = "";
+            imageContainer.appendChild(image);
+        };
+        reader.readAsDataURL(file);
+    }
+
+    async function predict() {
+        const image = document.querySelector("#image-container img");
+        if (!image) {
+            alert("Please upload an image.");
+            return;
+        }
+        const prediction = await model.predict(image);
+        const highestPrediction = getHighestPrediction(prediction);
+        if (highestPrediction.probability >= 0.9) {
+            labelContainer.innerHTML = highestPrediction.className ;
+        } else {
+            labelContainer.innerHTML = "Unknown";
+        }
+    }
+
+    function getHighestPrediction(prediction) {
+        let highest = prediction[0];
+        for (let i = 1; i < prediction.length; i++) {
+            if (prediction[i].probability > highest.probability) {
+                highest = prediction[i];
+            }
+        }
+        return highest;
+    }
+
+    start();
+</script>

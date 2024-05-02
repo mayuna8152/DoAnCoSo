@@ -74,6 +74,10 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcYWRtaW5cVmlld3NcSG9tZUFkbWluXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
+[D:/DoAnCoSo/DoAnCoSo/Areas/admin/Views/Shared/_AdminLoginPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcYWRtaW5cVmlld3NcU2hhcmVkXF9BZG1pbkxvZ2luUGFydGlhbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [D:/DoAnCoSo/DoAnCoSo/Areas/admin/Views/Shared/_LayoutAdmin.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcYWRtaW5cVmlld3NcU2hhcmVkXF9MYXlvdXRBZG1pbi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
@@ -120,6 +124,10 @@ build_metadata.AdditionalFiles.CssScope =
 
 [D:/DoAnCoSo/DoAnCoSo/Views/Animal/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQW5pbWFsXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/DoAnCoSo/DoAnCoSo/Views/Animal/FindAnimal.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQW5pbWFsXEZpbmRBbmltYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
 [D:/DoAnCoSo/DoAnCoSo/Views/Animal/Index.cshtml]
